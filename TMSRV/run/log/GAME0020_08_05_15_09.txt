@@ -1,0 +1,294 @@
+200805,150945,00000000,-system,sys,log start 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:0 item:1171 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:0 item:1297 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:0 item:1456 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:0 item:1606 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:1 item:1171 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:1 item:1297 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:1 item:1456 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:1 item:1606 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:0 item:1174 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:0 item:1309 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:0 item:1459 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:0 item:1609 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:1 item:1174 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:1 item:1309 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:1 item:1459 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:1 item:1609 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:0 item:1162 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:0 item:1261 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:0 item:1447 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:0 item:1597 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:1 item:1162 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:1 item:1261 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:1 item:1447 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:1 item:1597 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:0 item:1168 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:0 item:1285 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:0 item:1453 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:0 item:1603 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:1 item:1168 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:1 item:1285 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:1 item:1453 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:1 item:1603 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:0 item:1165 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:0 item:1273 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:0 item:1450 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:0 item:1600 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:1 item:1165 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:1 item:1273 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:1 item:1450 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:1 item:1600 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:0 item:1186 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:0 item:1321 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:0 item:1471 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:0 item:1621 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:1 item:1186 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:1 item:1321 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:1 item:1471 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:1 item:1621 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:0 item:1189 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:0 item:1324 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:0 item:1474 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:0 item:1624 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:1 item:1189 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:1 item:1324 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:1 item:1474 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:1 item:1624 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:0 item:1177 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:0 item:1312 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:0 item:1462 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:0 item:1612 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:1 item:1177 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:1 item:1312 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:1 item:1462 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:1 item:1612 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:0 item:1183 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:0 item:1318 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:0 item:1468 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:0 item:1618 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:1 item:1183 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:1 item:1318 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:1 item:1468 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:1 item:1618 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:0 item:1180 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:0 item:1315 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:0 item:1465 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:0 item:1615 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:1 item:1180 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:1 item:1315 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:1 item:1465 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:1 item:1615 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:0 item:1201 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:0 item:1336 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:0 item:1486 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:0 item:1636 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:1 item:1201 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:1 item:1336 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:1 item:1486 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:1 item:1636 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:0 item:1204 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:0 item:1339 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:0 item:1489 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:0 item:1639 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:1 item:1204 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:1 item:1339 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:1 item:1489 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:1 item:1639 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:0 item:1192 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:0 item:1327 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:0 item:1477 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:0 item:1627 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:1 item:1192 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:1 item:1327 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:1 item:1477 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:1 item:1627 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:0 item:1198 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:0 item:1333 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:0 item:1483 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:0 item:1633 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:1 item:1198 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:1 item:1333 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:1 item:1483 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:1 item:1633 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:0 item:1195 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:0 item:1330 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:0 item:1480 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:0 item:1630 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:1 item:1195 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:1 item:1330 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:1 item:1480 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:1 item:1630 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:0 item:2368 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:0 item:2368 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:0 item:2368 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:0 item:2368 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:1 item:2373 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:1 item:2373 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:1 item:2373 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:1 item:2368 100 100 50 10 100 100 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:0 item:809 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:0 item:824 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:0 item:809 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:0 item:824 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:1 item:854 43 3 60 20 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:1 item:899 43 3 60 20 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:1 item:854 43 3 60 20 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:1 item:824 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:0 item:1216 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:0 item:1351 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:0 item:1501 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:0 item:1651 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:1 item:1216 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:1 item:1351 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:1 item:1501 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:1 item:1651 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:0 item:1219 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:0 item:1354 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:0 item:1504 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:0 item:1654 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:1 item:1219 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:1 item:1354 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:1 item:1504 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:1 item:1654 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:0 item:1207 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:0 item:1342 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:0 item:1492 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:0 item:1642 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:1 item:1207 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:1 item:1342 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:1 item:1492 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:1 item:1642 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:0 item:1213 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:0 item:1348 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:0 item:1498 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:0 item:1648 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:1 item:1213 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:1 item:1348 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:1 item:1498 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:1 item:1648 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:0 item:1210 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:0 item:1345 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:0 item:1495 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:0 item:1645 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:1 item:1210 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:1 item:1345 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:1 item:1495 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:1 item:1645 43 0 0 0 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:0 item:3551 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:0 item:3556 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:0 item:3551 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:0 item:3556 43 3 2 45 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:1 item:3566 43 3 60 20 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:1 item:3582 43 3 60 20 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:1 item:3566 43 3 60 20 0 0 
+200805,150945,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:1 item:3556 43 3 2 45 0 0 
+200805,150945,00000000,-system,sys,start initialized 
+200805,150945,00000000,-system,DB set sapphire 388 / 320 
+200805,150945,00000000,-system,etc, guild report 0 - 3 0 3 3 3 
+200805,150945,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200805,150945,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200805,150945,00000000,system,3.COVID-19.FIKEMCASA.Tuberculos.. C(1) N(1) M(8) F(936) 
+200805,150945,00000000,system,4.VIKINGS.VALHALLA.RAGNAROK.KATTEGAT. C(1) N(1) M(8) F(100) 
+200805,150945,00000000,system,5.BLUELIXO.... C(0) N(1) M(7) F(0) 
+200805,150945,00000000,system,Complate Server Init 
+200805,150956,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200805,151023,3c44638a,SEXYCODE,clo,fd 2-0 conn:1 
+200805,151026,3c44638a,SEXYCODE,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 1 - 0 -1966266798 (468) 
+200805,151039,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1742668930, store:0 
+200805,151046,189cd2ba,PUNISHER,sta,186.210.156.24 BA8B0044ECC14104AD50BF6EB5C0D65E 2 - 0 -1966287048 (472) 
+200805,151051,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8377464 level:1010 conn:2 money:1698783061, store:1911552 
+200805,151103,3c44638a,SexyCode - Set Item Carry [811 0:0:0:0:0:0],-system 
+200805,151108,3c44638a,SexyCode - Set Item Carry [811 0:0:0:0:0:0],-system 
+200805,151126,3c44638a,SexyCode - Set Item Carry [3026 0:0:0:0:0:0],-system 
+200805,151200,3c44638a,SexyCode - Set Item Carry [811 0:0:0:0:0:0],-system 
+200805,151201,3c44638a,SexyCode - Set Item Carry [811 0:0:0:0:0:0],-system 
+200805,151202,3c44638a,SexyCode - Set Item Carry [811 0:0:0:0:0:0],-system 
+200805,151238,3c44638a,SexyCode - Set Item Carry [3026 0:0:0:0:0:0],-system 
+200805,151250,3c44638a,SEXYCODE,tra,PUNISHER 0 032b2b09022d0000 
+200805,151320,189cd2ba,[PUNI] - Set Item Carry [3026 0:0:0:0:0:0],-system 
+200805,151323,189cd2ba,[PUNI] - Set Item Carry [3026 0:0:0:0:0:0],-system 
+200805,151325,189cd2ba,[PUNI] - Set Item Carry [3026 0:0:0:0:0:0],-system 
+200805,151327,189cd2ba,[PUNI] - Set Item Carry [3026 0:0:0:0:0:0],-system 
+200805,151502,189cd2ba,[PUNI] - Set Item Carry [3028 0:0:0:0:0:0],-system 
+200805,151509,189cd2ba,[PUNI] - Set Item Carry [3628 0:0:0:0:0:0],-system 
+200805,151514,189cd2ba,[PUNI] - Set Item Carry [3628 0:0:0:0:0:0],-system 
+200805,151618,595580b1,HORUS,clo,fd 2-0 
+200805,151618,595580b1,HORUS,clo,fd 2-0 conn:3 
+200805,151618,595580b1,HORUS,sta,177.128.85.89 31DB0041C1AD45BF9ADFB00449613066 3 - 0 -1966619043 (480) 
+200805,151634,595580b1,HORUS,sta,Login char:Horus exp:152900 level:1010 conn:3 money:1950257172, store:0 
+200805,151750,3c44638a,SEXYCODE,adm,+set 1 37[ 
+200805,151755,3c44638a,SEXYCODE,adm,+set 1 37 
+200805,151758,3c44638a,SEXYCODE,adm,+set 1 33 
+200805,151831,3c44638a,SEXYCODE,adm,+set  
+200805,152121,189cd2ba,PUNISHER,clo,fd 22-2 
+200805,152121,189cd2ba,PUNISHER,clo,fd 22-2 conn:2 
+200805,152128,189cd2ba,PUNISHER,sta,186.210.156.24 BA8B0044ECC14104AD50BF6EB5C0D65E 2 - 0 -1966929077 (496) 
+200805,152141,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8377464 level:1010 conn:2 money:1698781731, store:1911552 
+200805,152202,595580b1,HORUS,ref, Return Option 3022-(87,4,0,0,0,0) 
+200805,152329,595580b1,HORUS,ref, Return Option 3025-(87,4,0,0,0,0) 
+200805,152558,189cd2ba,PUNISHER,inv,DeleteItem 4038 
+200805,152630,595580b1,HORUS,sys, Logout Char Horus money:1949654283, Store :0, conn:3  
+200805,152634,595580b1,HORUS,sta,Login char:Horus exp:152900 level:1010 conn:3 money:1949654283, store:0 
+200805,152642,595580b1,HORUS,sys, Logout Char Horus money:1949654283, Store :0, conn:3  
+200805,152646,595580b1,HORUS,sta,Login char:Horus2 exp:73644 level:25 conn:3 money:3700, store:0 
+200805,152902,595580b1,HORUS,lvl Horus2 level up to 26 
+200805,152931,595580b1,HORUS,err,hitposition range 2087,2027 - 2093,2026 - D:6,R:5 - skill:151 
+200805,152944,595580b1,HORUS,lvl Horus2 level up to 27 
+200805,153022,595580b1,HORUS,lvl Horus2 level up to 28 
+200805,153037,189cd2ba,PUNISHER,adm,+set name [ADM] 
+200805,153041,189cd2ba,PUNISHER,adm,+set name [ADM] 
+200805,153041,189cd2ba,PUNISHER,adm,+set name [ADM] 
+200805,153042,189cd2ba,PUNISHER,adm,+set name [ADM] 
+200805,153056,189cd2ba,PUNISHER,sys, Logout Char [ADM] money:1698604131, Store :1911552, conn:2  
+200805,153058,595580b1,HORUS,err,hitposition 2137,1999 - 2139,1996 - 0,0 
+200805,153101,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8377464 level:1010 conn:2 money:1698604131, store:1911552 
+200805,153204,3c44638a,SEXYCODE,adm,+set name Sexy1 
+200805,153215,3c44638a,SEXYCODE,adm,+set name SexyCode Sexy 
+200805,153221,3c44638a,SEXYCODE,adm,+set name SexyC 
+200805,153232,3c44638a,SEXYCODE,sys, Logout Char SexyC money:1742668930, Store :0, conn:1  
+200805,153236,3c44638a,SEXYCODE,sys,set citizen 33-43:0 86:0 28:0 
+200805,153236,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1742668930, store:0 
+200805,153236,3c44638a,SEXYCODE,etc,townspeople 33-43:0 86:0 28:1 
+200805,153249,595580b1,HORUS,lvl Horus2 level up to 29 
+200805,153249,595580b1,HORUS,-CARGO 1606 43 0 0 0 
+200805,153256,3c44638a,SEXYCODE,adm,+set name Sexyc SexyCode 
+200805,153306,3c44638a,SEXYCODE,sys, Logout Char Sexyc money:1742668930, Store :0, conn:1  
+200805,153310,3c44638a,SEXYCODE,sys,set citizen 33-43:0 86:0 28:0 
+200805,153310,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1742668930, store:0 
+200805,153310,3c44638a,SEXYCODE,etc,townspeople 33-43:0 86:0 28:1 
+200805,153314,595580b1,HORUS,lvl Horus2 level up to 30 
+200805,153326,189cd2ba,PUNISHER,sys, Logout Char [PUNI] money:1698604131, Store :1911552, conn:2  
+200805,153343,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8377464 level:1010 conn:2 money:1698604131, store:1911552 
+200805,153348,595580b1,HORUS,lvl Horus2 level up to 31 
+200805,153415,595580b1,HORUS,inv,DeleteItem 816 
+200805,153425,595580b1,HORUS,lvl Horus2 level up to 32 
+200805,153605,189cd2ba,PUNISHER,err,hitposition range 2364,2108 - 2367,2114 - D:6,R:5 - skill:151 
+200805,153629,595580b1,HORUS,lvl Horus2 level up to 33 
+200805,153651,595580b1,HORUS,lvl Horus2 level up to 34 
+200805,153651,595580b1,HORUS,-CARGO 1609 43 0 0 0 
+200805,153836,595580b1,HORUS,lvl Horus2 level up to 35 
+200805,153839,595580b1,HORUS,get  07162b00481e3c08 
+200805,153842,595580b1,HORUS,get  0958000000000000 
+200805,153842,595580b1,HORUS,get  0958000000000000 
+200805,153844,595580b1,HORUS,inv,DeleteItem 1814 
+200805,153904,595580b1,HORUS,lvl Horus2 level up to 36 
+200805,153946,595580b1,HORUS,lvl Horus2 level up to 37 
+200805,154023,595580b1,HORUS,get  0958000000000000 
+200805,154025,595580b1,HORUS,lvl Horus2 level up to 38 
+200805,154049,595580b1,HORUS,get  03da2b003c104a12 
+200805,154054,595580b1,HORUS,inv,DeleteItem 986 
+200805,154105,595580b1,HORUS,lvl Horus2 level up to 39 
+200805,154105,595580b1,HORUS,-CARGO 1597 43 0 0 0 
+200805,154140,595580b1,HORUS,lvl Horus2 level up to 40 
+200805,154145,00000000,-system,DB set sapphire 388 / 320 
+200805,154145,00000000,-system,err,DB connection close. 
+200805,154145,00000000,-system,err,end reconnect DB 1968145854 
+200805,154145,00000000,-system,err,reconnect DB fail. 

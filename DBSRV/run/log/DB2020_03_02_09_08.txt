@@ -1,0 +1,4 @@
+200302,090818,-system,start log
+200302,090837,-system,sys,wsa_accept from 0 - 872
+200302,090902,ADMIN,sta,account login 0-0
+200302,121427,ADMIN,clo,svr:0 conn:1 save-mob

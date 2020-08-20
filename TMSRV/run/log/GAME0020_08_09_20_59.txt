@@ -1,0 +1,701 @@
+200809,205931,00000000,-system,sys,log start 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:0 item:1171 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:0 item:1297 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:0 item:1456 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:0 item:1606 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:1 item:1171 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:1 item:1297 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:1 item:1456 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:1 item:1606 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:0 item:1174 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:0 item:1309 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:0 item:1459 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:0 item:1609 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:1 item:1174 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:1 item:1309 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:1 item:1459 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:1 item:1609 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:0 item:1162 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:0 item:1261 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:0 item:1447 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:0 item:1597 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:1 item:1162 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:1 item:1261 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:1 item:1447 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:1 item:1597 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:0 item:1168 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:0 item:1285 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:0 item:1453 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:0 item:1603 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:1 item:1168 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:1 item:1285 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:1 item:1453 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:1 item:1603 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:0 item:1165 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:0 item:1273 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:0 item:1450 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:0 item:1600 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:1 item:1165 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:1 item:1273 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:1 item:1450 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:1 item:1600 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:0 item:1186 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:0 item:1321 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:0 item:1471 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:0 item:1621 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:1 item:1186 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:1 item:1321 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:1 item:1471 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:1 item:1621 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:0 item:1189 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:0 item:1324 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:0 item:1474 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:0 item:1624 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:1 item:1189 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:1 item:1324 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:1 item:1474 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:1 item:1624 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:0 item:1177 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:0 item:1312 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:0 item:1462 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:0 item:1612 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:1 item:1177 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:1 item:1312 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:1 item:1462 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:1 item:1612 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:0 item:1183 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:0 item:1318 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:0 item:1468 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:0 item:1618 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:1 item:1183 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:1 item:1318 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:1 item:1468 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:1 item:1618 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:0 item:1180 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:0 item:1315 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:0 item:1465 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:0 item:1615 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:1 item:1180 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:1 item:1315 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:1 item:1465 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:1 item:1615 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:0 item:1201 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:0 item:1336 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:0 item:1486 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:0 item:1636 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:1 item:1201 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:1 item:1336 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:1 item:1486 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:1 item:1636 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:0 item:1204 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:0 item:1339 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:0 item:1489 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:0 item:1639 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:1 item:1204 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:1 item:1339 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:1 item:1489 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:1 item:1639 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:0 item:1192 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:0 item:1327 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:0 item:1477 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:0 item:1627 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:1 item:1192 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:1 item:1327 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:1 item:1477 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:1 item:1627 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:0 item:1198 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:0 item:1333 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:0 item:1483 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:0 item:1633 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:1 item:1198 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:1 item:1333 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:1 item:1483 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:1 item:1633 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:0 item:1195 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:0 item:1330 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:0 item:1480 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:0 item:1630 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:1 item:1195 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:1 item:1330 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:1 item:1480 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:1 item:1630 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:0 item:2368 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:0 item:2368 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:0 item:2368 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:0 item:2368 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:1 item:2373 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:1 item:2373 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:1 item:2373 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:1 item:2368 100 100 50 10 100 100 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:0 item:809 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:0 item:824 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:0 item:809 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:0 item:824 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:1 item:854 43 3 60 20 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:1 item:899 43 3 60 20 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:1 item:854 43 3 60 20 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:1 item:824 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:0 item:1216 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:0 item:1351 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:0 item:1501 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:0 item:1651 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:1 item:1216 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:1 item:1351 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:1 item:1501 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:1 item:1651 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:0 item:1219 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:0 item:1354 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:0 item:1504 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:0 item:1654 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:1 item:1219 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:1 item:1354 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:1 item:1504 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:1 item:1654 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:0 item:1207 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:0 item:1342 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:0 item:1492 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:0 item:1642 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:1 item:1207 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:1 item:1342 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:1 item:1492 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:1 item:1642 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:0 item:1213 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:0 item:1348 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:0 item:1498 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:0 item:1648 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:1 item:1213 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:1 item:1348 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:1 item:1498 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:1 item:1648 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:0 item:1210 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:0 item:1345 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:0 item:1495 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:0 item:1645 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:1 item:1210 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:1 item:1345 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:1 item:1495 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:1 item:1645 43 0 0 0 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:0 item:3551 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:0 item:3556 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:0 item:3551 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:0 item:3556 43 3 2 45 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:1 item:3566 43 3 60 20 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:1 item:3582 43 3 60 20 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:1 item:3566 43 3 60 20 0 0 
+200809,205931,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:1 item:3556 43 3 2 45 0 0 
+200809,205931,00000000,-system,sys,start initialized 
+200809,205931,00000000,-system,DB set sapphire 388 / 320 
+200809,205931,00000000,-system,etc, guild report 0 - 6 0 3 3 3 
+200809,205931,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200809,205931,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200809,205931,00000000,system,3.COVID-19.FIKEMCASA.Tuberculos.. C(1) N(1) M(8) F(936) 
+200809,205931,00000000,system,4.VIKINGS.VALHALLA.RAGNAROK.KATTEGAT. C(1) N(1) M(8) F(100) 
+200809,205931,00000000,system,5.BLUELIXO.... C(0) N(1) M(7) F(0) 
+200809,205931,00000000,system,6.SUAMAE.... C(1) N(1) M(8) F(0) 
+200809,205931,00000000,system,Complate Server Init 
+200809,205942,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200809,205943,3c44638a,RICHA,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 2 - 0 -1977066711 (472) 
+200809,205950,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:0 level:1010 conn:2 money:996663600, store:0 
+200809,210002,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200809,210002,00000000,-system,sys,town tax report: 4752442 0 80909 5203785 33573800 -Exp : 0 
+200809,210002,00000000,-system,not Em 6 minutos, a Guerra de Castelos serА iniciada. 
+200809,210530,189cd2ba,PUNISHER,clo,fd 2-0 
+200809,210530,189cd2ba,PUNISHER,clo,fd 2-0 conn:1 
+200809,210531,189cd2ba,PUNISHER,sta,186.210.156.24 BA8B0044ECC14104AD50BF6EB5C0D65E 1 - 0 -1977116244 (476) 
+200809,210537,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8383064 level:349 conn:1 money:1600019331, store:1911552 
+200809,210546,3c44638a,FMPQOUTRABUG - Set Item Carry [2375 120:120:120:120:120:0],-system 
+200809,210557,3c44638a,RICHA,adm,+set con 0 
+200809,210600,00000000,-system,not Guerra de Castelos iniciada. 
+200809,210605,3c44638a,RICHA,adm,+con 0 
+200809,210618,189cd2ba,PUNISHER,err,wrong target 876,6  1065,1710 (127) - 1074,1710 (0) (0) 0-127 
+200809,210637,189cd2ba,PUNISHER,level up to 349 
+200809,210743,189cd2ba,PUNISHER,level up to 349 
+200809,210809,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210810,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210811,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210812,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210813,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210814,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210815,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210816,3c44638a,RICHA,adm,+set 6 900 
+200809,210816,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210817,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210818,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210819,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210820,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210821,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210822,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210823,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210824,3c44638a,RICHA,adm,+set 7 811 
+200809,210824,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210825,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210826,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210827,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210828,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210830,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210830,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210832,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210833,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210834,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210835,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210836,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210837,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210838,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210839,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210840,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210840,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210842,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210843,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210844,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210845,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210846,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210847,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210848,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210849,189cd2ba,PUNISHER,level up to 349 
+200809,210849,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210850,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210851,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210852,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210853,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210854,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210855,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210856,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210857,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210858,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210859,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210900,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210901,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210902,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210903,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210904,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210905,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210906,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210907,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210908,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210909,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210910,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210911,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210912,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210913,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210914,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210915,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210916,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210917,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210918,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210919,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210920,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210921,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210922,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210923,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210924,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210925,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210926,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210927,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210928,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210929,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210930,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210931,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210932,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210933,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210934,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210935,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210936,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210941,189cd2ba,PUNISHER,err,wrong target 876,6  1116,1709 (127) - 1116,1710 (127) (0) 127-127 
+200809,210942,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210943,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210944,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210945,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210946,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210947,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210948,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210949,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210950,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210951,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210952,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210953,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,210955,189cd2ba,PUNISHER,level up to 349 
+200809,211001,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211001,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211002,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211003,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211004,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211005,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211006,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211007,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211008,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211009,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211010,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211011,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211012,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211013,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211014,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211015,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211016,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211017,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211018,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211019,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211020,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211021,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211022,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211023,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211024,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211025,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211026,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211028,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211029,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211030,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211030,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211032,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211033,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211034,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211035,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211036,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211037,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211038,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211039,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211040,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211041,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211042,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211043,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211044,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211045,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211046,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211047,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211048,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211049,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211050,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211051,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211052,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211053,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211054,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211055,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211056,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211057,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211058,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211059,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211100,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211101,189cd2ba,PUNISHER,level up to 349 
+200809,211101,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211102,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211103,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211104,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211105,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211106,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211107,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211108,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211109,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211110,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211111,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211112,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211113,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211114,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211115,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211116,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211117,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211118,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211119,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211120,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211121,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211131,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211132,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211135,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211136,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211137,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211138,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211139,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211140,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211141,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211142,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211143,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211144,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211145,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211146,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211147,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211148,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211149,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211150,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211151,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211152,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211153,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211154,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211155,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211156,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211157,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211158,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211159,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211200,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211201,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211202,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211203,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211204,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211205,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211206,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211207,189cd2ba,PUNISHER,level up to 349 
+200809,211207,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211208,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211209,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211210,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211211,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211212,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211213,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211214,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211215,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211216,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211217,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211218,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211219,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211220,3c44638a,RICHA,adm,+dam 30000 
+200809,211220,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211221,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211222,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211223,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211224,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211225,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211226,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211227,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211228,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211229,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211230,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211231,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211232,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211233,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211234,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211235,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211236,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211237,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211238,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211239,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211240,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211241,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211242,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211243,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211244,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211245,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211258,189cd2ba,PUNISHER,err,hitposition 1049,1688 - 1046,1690 - 0,0 
+200809,211258,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211259,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211301,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211302,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211303,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211304,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211305,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211306,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211307,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211308,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211309,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211310,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211311,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211312,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211313,189cd2ba,PUNISHER,level up to 349 
+200809,211313,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211314,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211315,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211316,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211317,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211318,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211319,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211320,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211321,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211322,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211323,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211324,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211325,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211326,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211328,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211329,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211330,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211331,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211332,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211333,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211334,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211335,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211336,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211337,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211338,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211339,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211340,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211341,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211342,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211343,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211359,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200809,211508,00000000,-system,not A partir de agora, vocЙ pode ocupar o Altar de Thor.  
+200809,211513,00000000,-system,not O Jogador [[PUNI]] dominando o altar de thor. 
+200809,211516,189cd2ba,PUNISHER,level up to 349 
+200809,211545,00000000,-system,not O Jogador [[PUNI]] dominou o castelo de Noatun. 
+200809,211545,00000000,sys,etc,set guild fame 6-650-650 
+200809,211545,00000000,sys,etc,set guild fame 3-286--650 
+200809,211545,00000000,-system,sys,update guild result 6 type:1 
+200809,211545,00000000,-system,sys,update guild result 3 type:1 
+200809,211545,00000000,-system,etc, guild report 0 - 6 0 3 3 6 
+200809,211545,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200809,211545,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200809,211555,189cd2ba,PUNISHER,sys, Logout Char [PUNI] money:1599017031, Store :1911552, conn:1  
+200809,211600,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8689603 level:349 conn:1 money:1599017031, store:1911552 
+200809,211622,189cd2ba,PUNISHER,level up to 349 
+200810,211700,3c44638a,RICHA,adm,+set 15 546 
+200810,211708,3c44638a,RICHA,adm,+set 15 
+200810,211711,3c44638a,RICHA,adm,+set 16 545 
+200810,211720,3c44638a,RICHA,sys,create guild medal FMPQOUTRABUG(JAFOI) ,idx:7  count:8 
+200810,211728,3c44638a,RICHA,sys, Logout Char FMPQOUTRABUG money:895286500, Store :0, conn:2  
+200810,211728,189cd2ba,PUNISHER,level up to 349 
+200810,211732,3c44638a,RICHA,лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл@лллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллллл 
+200810,211732,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:70109 level:1010 conn:2 money:895286500, store:0 
+200810,211732,00000000,-system,sys,update guild result 7 type:3 
+200810,211803,3c44638a,FMPQOUTRABUG - Set Item Carry [2378 120:120:120:120:120:0],-system 
+200816,205924,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200816,205924,00000000,-system,sys,town tax report: 38451742 0 80909 5327535 350 -Exp : 57457 
+200816,205930,189cd2ba,PUNISHER,level up to 349 
+200816,205937,3c44638a,RICHA,adm,+champ 2 7 
+200816,205937,00000000,-system,etc, guild report 0 - 6 0 7 3 6 
+200816,205937,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200816,205937,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200816,205944,3c44638a,RICHA,sys, Logout Char FMPQOUTRABUG money:895286500, Store :0, conn:2  
+200816,205949,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:70109 level:1010 conn:2 money:895286500, store:0 
+200816,210004,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200816,210004,00000000,-system,sys,town tax report: 38451742 0 80909 5327535 350 -Exp : 57457 
+200816,210004,00000000,-system,not Em 6 minutos, a Guerra de Castelos serА iniciada. 
+200816,210007,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210010,3c44638a,RICHA,adm,+guildfame set 300 7 
+200816,210010,00000000,sys,etc,set guild fame 300-7 
+200816,210010,00000000,-system,sys,update guild result 300 type:1 
+200816,210018,3c44638a,RICHA,sys, Logout Char FMPQOUTRABUG money:895286500, Store :0, conn:2  
+200816,210022,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:70109 level:1010 conn:2 money:895286500, store:0 
+200816,210030,189cd2ba,PUNISHER,err,wrong target 876,6  1130,1703 (127) - 1133,1707 (0) (0) 0-127 
+200816,210036,189cd2ba,PUNISHER,level up to 349 
+200816,210600,00000000,-system,not Guerra de Castelos iniciada. 
+200816,210629,189cd2ba,PUNISHER,level up to 349 
+200816,210633,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210634,189cd2ba,PUNISHER,err,hitposition range 1132,1709 - 1129,1707 - D:4,R:2 - skill:-1 
+200816,210635,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210636,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210637,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210638,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210639,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210640,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210641,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210642,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210643,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210644,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210645,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210646,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210648,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210649,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210649,3c44638a,RICHA,adm,+teleport 1090 1690 
+200816,210650,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210651,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210652,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210653,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210654,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210655,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210656,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210657,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210658,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210659,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210700,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210701,189cd2ba,PUNISHER,lvl [PUNI] level up to 349 
+200816,210721,189cd2ba,PUNISHER,adm,+teleport 1046 1691 
+200816,211455,189cd2ba,PUNISHER,inv,DeleteItem 413 
+200816,211509,00000000,-system,not A partir de agora, vocЙ pode ocupar o Altar de Thor.  
+200816,211514,00000000,-system,not O Jogador [FMPQOUTRABUG] dominando o altar de thor. 
+200816,211546,00000000,-system,not O Jogador [FMPQOUTRABUG] dominou o castelo de Noatun. 
+200816,211546,00000000,sys,etc,set guild fame 7-650-650 
+200816,211546,00000000,sys,etc,set guild fame 6-0--650 
+200816,211546,189cd2ba,PUNISHER,etc,crown guild:6 level:2 charge:7-0-0-0-0 name:[PUNI] 
+200816,211546,00000000,-system,sys,update guild result 7 type:1 
+200816,211546,00000000,-system,sys,update guild result 6 type:1 
+200816,211546,00000000,-system,etc, guild report 0 - 6 0 7 3 7 
+200816,211546,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200816,211546,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200816,211606,189cd2ba,PUNISHER,sys, Logout Char [PUNI] money:1599017031, Store :1911552, conn:1  
+200816,211606,3c44638a,RICHA,clo,fd 22-5 
+200816,211606,3c44638a,RICHA,clo,fd 22-5 conn:2 
+200816,211610,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8689809 level:1010 conn:1 money:1599017031, store:1911552 
+200816,211618,3c44638a,SEXYCODE,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 2 - 0 -1978145460 (472) 
+200816,211625,3c44638a,SEXYCODE,clo,fd 11-0 
+200816,211625,3c44638a,SEXYCODE,clo,fd 11-0 conn:2 
+200816,211631,3c44638a,RICHA,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 2 - 0 -1978158202 (468) 
+200816,211636,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:78369 level:1010 conn:2 money:895285800, store:0 
+200816,211649,189cd2ba,PUNISHER,que,sapphire redistribution befor(17330), after(17430) 
+200816,211651,3c44638a,RICHA,adm,+level 349 
+200816,211657,3c44638a,RICHA,pim,set equip time item 3994-20915 
+200816,211713,3c44638a,RICHA,sys, Logout Char FMPQOUTRABUG money:895285800, Store :0, conn:2  
+200816,211717,3c44638a,RICHA,etc,KindomDraon guild:7 level:2 name:FMPQOUTRABUG 
+200816,211717,3c44638a,RICHA,etc,crown guild:7 level:2 charge:7-0-0-0-0 name:FMPQOUTRABUG 
+200816,211717,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:78369 level:349 conn:2 money:895285800, store:0 
+200816,211725,3c44638a,RICHA,inv,DeleteItem 3322 
+200816,211727,3c44638a,RICHA,inv,DeleteItem 3323 
+200816,211728,3c44638a,RICHA,inv,DeleteItem 3323 
+200816,211732,3c44638a,RICHA,pim,set equip time item 3994-20915 
+200816,211739,3c44638a,RICHA,sys, Logout Char FMPQOUTRABUG money:895285800, Store :0, conn:2  
+200816,211743,3c44638a,RICHA,etc,KindomDraon guild:7 level:2 name:FMPQOUTRABUG 
+200816,211743,3c44638a,RICHA,etc,crown guild:7 level:2 charge:7-0-0-0-0 name:FMPQOUTRABUG 
+200816,211743,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:78369 level:349 conn:2 money:895285800, store:0 
+200816,211753,189cd2ba,PUNISHER,etc, Town tax coin 38452092(0) 
+200816,211816,3c44638a,RICHA,pim,set equip time item 3994-20915 
+200823,210004,00000000,-system,not Em 6 minutos, a Guerra de Castelos serА iniciada. 
+200823,210559,189cd2ba,PUNISHER,err,wrong target 876,6  1064,1726 (127) - 1063,1721 (0) (0) 0-127 
+200823,210607,00000000,-system,not Guerra de Castelos iniciada. 
+200823,210615,189cd2ba,PUNISHER,err,wrong target 876,6  1073,1713 (0) - 1074,1714 (127) (0) 127-0 
+200823,210641,3c44638a,RICHA,adm,+teleport 1051 1700 
+200823,210647,3c44638a,RICHA,adm,+level 349 
+200823,211507,00000000,-system,not A partir de agora, vocЙ pode ocupar o Altar de Thor.  
+200823,211514,00000000,-system,not O Jogador [[PUNI]] dominando o altar de thor. 
+200823,211527,00000000,-system,err,no empty mobgrid: 2 x:2637 y:1724 
+200823,211533,189cd2ba,PUNISHER,adm,+level 399 
+200823,211546,00000000,-system,not O Jogador [[PUNI]] dominou o castelo de Noatun. 
+200823,211546,00000000,sys,etc,set guild fame 6-650-650 
+200823,211546,00000000,sys,etc,set guild fame 7-0--650 
+200823,211546,3c44638a,RICHA,etc,crown guild:7 level:2 charge:6-0-0-0-0 name:FMPQOUTRABUG 
+200823,211546,3c44638a,RICHA,etc,KindomDraon guild:7 level:2 name:FMPQOUTRABUG 
+200823,211546,00000000,-system,sys,update guild result 6 type:1 
+200823,211546,00000000,-system,sys,update guild result 7 type:1 
+200823,211546,00000000,-system,etc, guild report 0 - 6 0 7 3 6 
+200823,211546,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200823,211546,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200823,211556,189cd2ba,PUNISHER,sys, Logout Char [PUNI] money:1637467023, Store :1911552, conn:1  
+200823,211557,3c44638a,RICHA,clo,fd 22-2 
+200823,211557,3c44638a,RICHA,clo,fd 22-2 conn:2 
+200823,211603,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:8698049 level:349 conn:1 money:1637467023, store:1911552 
+200823,211608,3c44638a,RICHA,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 2 - 0 -1978486971 (472) 
+200823,211614,3c44638a,RICHA,sta,Login char:FMPQOUTRABUG exp:81008 level:349 conn:2 money:895285800, store:0 
+200823,211623,189cd2ba,PUNISHER,level up to 349 
+200823,211729,189cd2ba,PUNISHER,level up to 349 
+200823,211747,3c44638a,RICHA,pim,set equip time item 3994-20922 
+200823,211835,189cd2ba,PUNISHER,level up to 349 
+200823,211941,189cd2ba,PUNISHER,level up to 349 
+200823,212027,00000000,-system,etc,item drop count 00:0 01:0 02:0 03:0 04:0 05:0 06:0 07:0 

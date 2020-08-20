@@ -1,0 +1,8 @@
+200228,063759,-system,start log
+200228,063809,-system,sys,wsa_accept from 0 - 864
+200228,063835,ADMIN,sta,account login 0-0
+200228,072000,-system,clo,server fd 0
+200228,072021,-system,sys,wsa_accept from 0 - 860
+200228,072035,ADMIN,clo,svr:0 conn:1 do-not-save
+200228,072035,ADMIN,sta,account login 0-0
+200228,160455,ADMIN,clo,svr:0 conn:1 save-mob

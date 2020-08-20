@@ -1,0 +1,30 @@
+200323,205032,-system,start log
+200323,205032,-system,0,,,,,1,0,8,0
+200323,205035,-system,sys,wsa_accept from 0 - 412
+200323,205046,PUROPVP00,sta,account login 0-0
+200323,205139,KPOTA,sta,account login 0-0
+200323,205141,ADMIN,sta,account login 0-0
+200323,205156,CHAPAC,sta,account login 0-0
+200323,205214,CHAPAC,create character [ByUrubu]
+200323,205247,RENANJSANTOS,sta,account login 0-0
+200323,205317,FELIPE,sta,account login 0-0
+200323,205322,XUXU,sta,account login 0-0
+200323,205323,HGSILVA,sta,account login 0-0
+200323,205327,GIOVANIFRAGA,sta,account login 0-0
+200323,205327,GIOVANIFRAGA,clo,svr:0 conn:9 do-not-save
+200323,205339,PUROSWAP00,sta,account login 0-0
+200323,205339,RENANC5,sta,account login 0-0
+200323,205339,GIOVANIFRAGA,sta,account login 0-0
+200323,205339,GIOVANIFRAGA,clo,svr:0 conn:11 do-not-save
+200323,205342,GIOVANIFRAGA,sta,account login 0-0
+200323,205342,GIOVANIFRAGA,clo,svr:0 conn:11 do-not-save
+200323,205343,ROBERTINHO,sta,account login 0-0
+200323,205344,DUGS1,sta,account login 0-0
+200323,205345,GIOVANIFRAGA,sta,account login 0-0
+200323,205345,GIOVANIFRAGA,clo,svr:0 conn:13 do-not-save
+200323,205353,JUNINHOFRAGA,sta,account login 0-0
+200323,205358,DUGS1,clo,svr:0 conn:12 do-not-save
+200323,205358,JUNINHOFRAGA,clo,svr:0 conn:13 do-not-save
+200323,205416,DUGS1,sta,account login 0-0
+200323,205428,LOSTC5,sta,account login 0-0
+200323,205439,-system,clo,server fd 0

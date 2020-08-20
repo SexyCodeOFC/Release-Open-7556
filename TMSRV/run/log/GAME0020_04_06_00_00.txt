@@ -1,0 +1,164 @@
+200406,000001,00000000,-system,sys,town tax report: 45750 0 17977 56050 1489077 -Exp : 63389445 
+200406,000001,4eddb0bf,COTOCO2,prim,end primium mount:3981-2046 char:Zohan 
+200406,000226,4eddb0bf,AUSTSW,lvl Starked level up to 216 
+200406,000254,02dfb32d,LUCASLUID99,get  08bf2b0148193c08 
+200406,000615,02dfb32d,LUCAS99,get  08bf2b0048190218 
+200406,001246,02dfb32d,LUCAS99,get  04c02b014814020c 
+200406,001624,4eddb0bf,AUSTSW,lvl Starked level up to 217 
+200406,001837,c5b6deba,MATHEUS01,clo,fd 2-0 conn:2 
+200406,001846,7394cb22,MATHEUS01,Newbie Reward item send 
+200406,001846,c5b6deba,MATHEUS01,sta,186.222.182.197 F8E5B0E437314D349728902735FEC883 2 - 0 -1851875032 (636) 
+200406,001918,c5b6deba,MATHEUS01,sys,request new character Haladariel 
+200406,001918,c5b6deba,MATHEUS01,sys,confirm new character 
+200406,001922,c5b6deba,MATHEUS01,sys,set citizen 31-43:0 86:1 28:0 
+200406,001922,c5b6deba,MATHEUS01,sta,Login char:Haladariel exp:0 level:0 conn:2 money:0, store:0 
+200406,001922,c5b6deba,MATHEUS01,etc,townspeople 31-43:0 86:1 28:1 
+200406,001942,c5b6deba,MATHEUS01,lvl Haladariel level up to 1 
+200406,001944,c5b6deba,MATHEUS01,lvl Haladariel level up to 2 
+200406,001946,c5b6deba,MATHEUS01,lvl Haladariel level up to 3 
+200406,001947,c5b6deba,MATHEUS01,lvl Haladariel level up to 4 
+200406,001950,c5b6deba,MATHEUS01,lvl Haladariel level up to 5 
+200406,001951,c5b6deba,MATHEUS01,lvl Haladariel level up to 6 
+200406,001952,c5b6deba,MATHEUS01,lvl Haladariel level up to 7 
+200406,001953,c5b6deba,MATHEUS01,lvl Haladariel level up to 8 
+200406,001954,c5b6deba,MATHEUS01,lvl Haladariel level up to 9 
+200406,001958,c5b6deba,MATHEUS01,lvl Haladariel level up to 10 
+200406,002000,c5b6deba,MATHEUS01,lvl Haladariel level up to 11 
+200406,002000,c5b6deba,MATHEUS01,lvl Haladariel level up to 12 
+200406,002006,c5b6deba,MATHEUS01,lvl Haladariel level up to 13 
+200406,002023,c5b6deba,MATHEUS01,err,hitposition range 2100,2000 - 2094,1998 - D:6,R:5 - skill:151 
+200406,002025,c5b6deba,MATHEUS01,err,hitposition range 2108,1999 - 2101,1999 - D:8,R:5 - skill:151 
+200406,002025,c5b6deba,MATHEUS01,err,hitposition range 2108,1999 - 2102,2000 - D:6,R:5 - skill:151 
+200406,002029,c5b6deba,MATHEUS01,lvl Haladariel level up to 14 
+200406,002059,c5b6deba,MATHEUS01,que, chobo_quest2 befor: 0330000000000000 after: 03300000021b1a0c 
+200406,002122,c5b6deba,MATHEUS01,lvl Haladariel level up to 15 
+200406,002156,c5b6deba,MATHEUS01,ref, armor befor 1560-(43,3,0,0,0,0) after 1560-(43,3,60,6,72,25) - prc:1 
+200406,002200,c5b6deba,MATHEUS01,ref, armor befor 1557-(43,3,0,0,0,0) after 1557-(43,3,60,6,3,20) - prc:1 
+200406,002203,c5b6deba,MATHEUS01,ref, armor befor 1554-(43,3,0,0,0,0) after 1554-(43,3,2,18,3,25) - prc:1 
+200406,002207,c5b6deba,MATHEUS01,ref, armor befor 1563-(43,3,0,0,0,0) after 1563-(43,3,73,18,60,6) - prc:1 
+200406,002214,c5b6deba,MATHEUS01,ref, armor befor 1551-(43,3,0,0,0,0) after 1551-(43,3,4,50,60,6) - prc:1 
+200406,002226,c5b6deba,MATHEUS01,lvl Haladariel level up to 16 
+200406,002244,c5b6deba,MATHEUS01,lvl Haladariel level up to 17 
+200406,002302,c5b6deba,MATHEUS01,lvl Haladariel level up to 18 
+200406,002311,c5b6deba,MATHEUS01,lvl Haladariel level up to 19 
+200406,002320,c5b6deba,MATHEUS01,lvl Haladariel level up to 20 
+200406,002334,c5b6deba,MATHEUS01,lvl Haladariel level up to 21 
+200406,002340,c5b6deba,MATHEUS01,sys, Logout Char Haladariel money:4700, Store :0, conn:2  
+200406,002410,c5b6deba,MATHEUS01,sta,Login char:Haladariel exp:46356 level:21 conn:2 money:4700, store:0 
+200406,002423,c5b6deba,MATHEUS01,lvl Haladariel level up to 22 
+200406,002541,c5b6deba,GIOVANIFRAG,sta,186.222.182.197 A7D6D46426874C87B791EDF6B6585F30 3 - 0 -1852289441 (1076) 
+200406,002550,c5b6deba,GIOVANIFRAG,sta,Login char:OPOETA exp:1889792301 level:350 conn:3 money:245436759, store:2000000000 
+200406,002552,c5b6deba,GIOVANIFRAG,prim,end primium mount:3981-2046 char:OPOETA 
+200406,002601,c5b6deba,GIOVANIFRAG,pim,set equip time item 3981-2049 
+200406,002608,c5b6deba,GIOVANIFRAG,etc,kingdom command 7  
+200406,002702,c5b6deba,MATHEUS01,pim,set equip time item 3981-2049 
+200406,002702,c5b6deba,GIOVANIFRAG,etc,kingdom command 7  
+200406,002831,c5b6deba,MATHEUS01,clo,fd 22-2 
+200406,002831,c5b6deba,MATHEUS01,clo,fd 22-2 conn:2 
+200406,002849,02dfb32d,LUCAS99,get  08bf2b0048193c08 
+200406,002945,c5b6deba,GIOVANIFRAG,etc,kingdom command 0  
+200406,003004,4eddb0bf,AUSTSW,lvl Starked level up to 218 
+200406,003020,c5b6deba,GIOVANIFRAG,etc,kingdom command 0  
+200406,003106,c5b6deba,GIOVANIFRAG,que,get mantle 546 - sapphire:0 - newbie:0 
+200406,003113,c5b6deba,GIOVANIFRAG,etc,kingdom command 8  
+200406,003146,c5b6deba,GIOVANIFRAG,que,get mantle 544 - sapphire:0 - newbie:0 
+200406,003212,c5b6deba,GIOVANIFRAG,ref,refine success 544+1 - (413-120,0,0) <43 1 0 0 0 0> 
+200406,003217,c5b6deba,GIOVANIFRAG,ref,refine success 544+2 - (413-119,0,0) <43 2 0 0 0 0> 
+200406,003219,c5b6deba,GIOVANIFRAG,ref,refine success 544+3 - (413-118,0,0) <43 3 0 0 0 0> 
+200406,003220,c5b6deba,GIOVANIFRAG,ref,refine success 544+4 - (413-117,0,0) <43 4 0 0 0 0> 
+200406,003227,c5b6deba,GIOVANIFRAG,ref,refine success 544+5 - (413-116,0,0) <43 5 0 0 0 0> 
+200406,003229,c5b6deba,GIOVANIFRAG,ref,refine success 544+6 - (413-115,0,0) <43 6 0 0 0 0> 
+200406,003232,c5b6deba,GIOVANIFRAG,ref,fail,544,6,413,114 0 0 <43 6 0 0 0 0> 
+200406,003232,c5b6deba,GIOVANIFRAG,ref,refine success 544+6 - (413-113,0,0) <43 16 0 0 0 0> 
+200406,003233,c5b6deba,GIOVANIFRAG,ref,refine success 544+7 - (413-113,0,0) <43 7 0 0 0 0> 
+200406,003235,c5b6deba,GIOVANIFRAG,ref,fail,544,7,413,112 0 0 <43 7 0 0 0 0> 
+200406,003235,c5b6deba,GIOVANIFRAG,ref,refine success 544+7 - (413-111,0,0) <43 17 0 0 0 0> 
+200406,003238,c5b6deba,GIOVANIFRAG,ref,fail,544,7,413,111 0 0 <43 17 0 0 0 0> 
+200406,003238,c5b6deba,GIOVANIFRAG,ref,refine success 544+7 - (413-110,0,0) <43 27 0 0 0 0> 
+200406,003239,c5b6deba,GIOVANIFRAG,ref,refine success 544+8 - (413-110,0,0) <43 8 0 0 0 0> 
+200406,003241,c5b6deba,GIOVANIFRAG,ref,fail,544,8,413,109 0 0 <43 8 0 0 0 0> 
+200406,003241,c5b6deba,GIOVANIFRAG,ref,refine success 544+8 - (413-108,0,0) <43 18 0 0 0 0> 
+200406,003243,c5b6deba,GIOVANIFRAG,ref,fail,544,8,413,108 0 0 <43 18 0 0 0 0> 
+200406,003243,c5b6deba,GIOVANIFRAG,ref,refine success 544+8 - (413-107,0,0) <43 18 0 0 0 0> 
+200406,003246,c5b6deba,GIOVANIFRAG,ref,fail,544,8,413,107 0 0 <43 18 0 0 0 0> 
+200406,003246,c5b6deba,GIOVANIFRAG,ref,refine success 544+8 - (413-106,0,0) <43 28 0 0 0 0> 
+200406,003248,c5b6deba,GIOVANIFRAG,ref,fail,544,8,413,106 0 0 <43 28 0 0 0 0> 
+200406,003248,c5b6deba,GIOVANIFRAG,ref,refine success 544+8 - (413-105,0,0) <43 38 0 0 0 0> 
+200406,003251,c5b6deba,GIOVANIFRAG,ref,refine success 544+9 - (413-105,0,0) <43 9 0 0 0 0> 
+200406,003431,c5b6deba,GIOVANIFRAG,clo,fd 22-2 
+200406,003431,c5b6deba,GIOVANIFRAG,clo,fd 22-2 conn:3 
+200406,004358,4eddb0bf,AUSTSW,lvl Starked level up to 219 
+200406,004727,02dfb32d,LUCAS99,get  05472b004814020c 
+200406,005217,4eddb0bf,AUSTSW,etc, Starked Learned 8th Skill coin:1362242 
+200406,005430,4eddb0bf,STARKED,sel,C. de Montaria 13418  08ab2b0048190212 
+200406,005437,4eddb0bf,STARKED,sel,C. de Montaria 13418  08ab2b00480f0218 
+200406,005459,4eddb0bf,AUSTSW,get  05dd2b0048190218 
+200406,005500,02dfb32d,LOUKO99,get  08832b0048140212 
+200406,005927,4eddb0bf,AUSTSW,lvl Starked level up to 220 
+200406,010004,00000000,-system,sys,town tax report: 46450 0 39661 56400 4337511 -Exp : 65139113 
+200406,010817,02dfb32d,LOUKO99,get  08972b0048143c08 
+200406,010835,02dfb32d,LOUKO99,Player using Magic Attack has just attacked from a distance 
+200406,010835,4eddb0bf,COTOCO2,Player with weapon has just attacked from a distance 
+200406,011247,4eddb0bf,AUSTSW,lvl Starked level up to 221 
+200406,011257,02dfb32d,LOUKO99,get  04c02b0048143c08 
+200406,011525,4eddb0bf,COTOCO2,lvl Zohan level up to 288 
+200406,012649,4eddb0bf,AUSTSW,lvl Starked level up to 222 
+200406,012903,02dfb32d,LOUKO99,Player using Magic Attack has just attacked from a distance 
+200406,012903,4eddb0bf,COTOCO2,Player with weapon has just attacked from a distance 
+200406,013345,c5b6deba,GIOVANIFRAG,sta,186.222.182.197 A7D6D46426874C87B791EDF6B6585F30 2 - 0 -1856374159 (1076) 
+200406,013349,02dfb32d,LUCASLUID99,lvl louko999 level up to 361 
+200406,013352,c5b6deba,GIOVANIFRAG,sta,Login char:Furioso exp:85778 level:26 conn:2 money:4300, store:2000000000 
+200406,013440,c5b6deba,GIOVANIFRAG,clo,fd 22-2 
+200406,013440,c5b6deba,GIOVANIFRAG,clo,fd 22-2 conn:2 
+200406,014056,4eddb0bf,AUSTSW,lvl Starked level up to 223 
+200406,015500,4eddb0bf,AUSTSW,lvl Starked level up to 224 
+200406,020007,00000000,-system,sys,town tax report: 46450 0 39661 56400 4337511 -Exp : 66807017 
+200406,020400,02dfb32d,LOUKO99,lvl louko99 level up to 376 
+200406,020811,4eddb0bf,COTOCO,lvl Amigo level up to 291 
+200406,020916,4eddb0bf,AUSTSW,lvl Starked level up to 225 
+200406,022357,4eddb0bf,AUSTSW,lvl Starked level up to 226 
+200406,023842,4eddb0bf,AUSTSW,lvl Starked level up to 227 
+200406,025333,4eddb0bf,AUSTSW,lvl Starked level up to 228 
+200406,025430,c4f49ab3,JUZAO,sta,179.154.244.196 A279F16E4D44A089553EF72E4B6D092 2 - 0 -1861218865 (1076) 
+200406,025435,c4f49ab3,JUZAO,etc,townspeople 11-43:0 86:1 28:1 
+200406,025435,c4f49ab3,JUZAO,sta,Login char:Skunkz exp:3699453389 level:395 conn:2 money:8311531, store:0 
+200406,025509,86e12ab1,KPOTA,sta,177.42.225.134 1C03F2DFF94B4DE3A10F4BFB74953ADA 3 - 0 -1861257472 (1248) 
+200406,025517,86e12ab1,KPOTA,etc,townspeople 29-43:0 86:101 28:1 
+200406,025517,86e12ab1,KPOTA,sta,Login char:Floki exp:1734550994 level:350 conn:3 money:7333742, store:0 
+200406,025528,c4f49ab3,JUZAO2,sta,179.154.244.196 A279F16E4D44A089553EF72E4B6D092 4 - 0 -1861276583 (636) 
+200406,025532,c4f49ab3,JUZAO2,sta,Login char:swoRd exp:533523293 level:295 conn:4 money:35739175, store:0 
+200406,025537,c4f49ab3,JUZAO,etc,PK MOB killer:Tauron(351,-3) killed:Skunkz(395,150) kingdom:0 war:0 
+200406,025547,c4f49ab3,JUZAO2,clo,fd 22-2 
+200406,025547,c4f49ab3,JUZAO2,clo,fd 22-2 conn:4 
+200406,025555,c4f49ab3,JUZAO,clo,fd 22-5 
+200406,025555,c4f49ab3,JUZAO,clo,fd 22-5 conn:2 
+200406,025725,86e12ab1,KPOTA,clo,fd 22-2 
+200406,025725,86e12ab1,KPOTA,clo,fd 22-2 conn:3 
+200406,025844,4eddb0bf,COTOCO2,lvl Zohan level up to 289 
+200406,030009,00000000,-system,sys,town tax report: 46450 0 39661 56400 4337511 -Exp : 68468485 
+200406,030903,4eddb0bf,AUSTSW,lvl Starked level up to 229 
+200406,032413,4eddb0bf,AUSTSW,lvl Starked level up to 230 
+200406,033954,4eddb0bf,AUSTSW,lvl Starked level up to 231 
+200406,034432,4eddb0bf,COTOCO2,Player with weapon has just attacked from a distance 
+200406,035458,02dfb32d,LUCAS99,get  08832b0148190212 
+200406,035545,4eddb0bf,AUSTSW,lvl Starked level up to 232 
+200406,040001,00000000,-system,sys,town tax report: 46450 0 39661 56400 4337511 -Exp : 70117011 
+200406,041136,4eddb0bf,AUSTSW,lvl Starked level up to 233 
+200406,042737,4eddb0bf,AUSTSW,lvl Starked level up to 234 
+200406,042959,4eddb0bf,COTOCO,lvl Amigo level up to 292 
+200406,044407,4eddb0bf,AUSTSW,lvl Starked level up to 235 
+200406,045348,4eddb0bf,COTOCO2,lvl Zohan level up to 290 
+200406,050004,00000000,-system,sys,town tax report: 46450 0 39661 56400 4337511 -Exp : 71785431 
+200406,050028,02dfb32d,LUCAS99,clo,fd 22-2 
+200406,050028,02dfb32d,LUCAS99,clo,fd 22-2 conn:12 
+200406,050028,02dfb32d,LOUKO99,clo,fd 22-5 
+200406,050028,02dfb32d,LOUKO99,clo,fd 22-5 conn:1 
+200406,050028,02dfb32d,LUCASLUID99,clo,fd 22-5 
+200406,050028,02dfb32d,LUCASLUID99,clo,fd 22-5 conn:8 
+200406,050110,4eddb0bf,AUSTSW,lvl Starked level up to 236 
+200406,050254,4eddb0bf,COTOCO2,etc,PK MOB killer:Tauron(351,-3) killed:Zohan(290,150) kingdom:0 war:0 
+200406,051359,4eddb0bf,AUSTSW,lvl Starked level up to 237 
+200406,052730,4eddb0bf,AUSTSW,lvl Starked level up to 238 
+200406,054019,4eddb0bf,AUSTSW,lvl Starked level up to 239 
+200406,055353,4eddb0bf,AUSTSW,lvl Starked level up to 240 
+200406,060006,00000000,-system,etc,item drop count 00:7 01:5 02:0 03:0 04:0 05:0 06:0 07:0 

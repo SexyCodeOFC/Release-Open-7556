@@ -1,0 +1,232 @@
+All GM Commands by OPSY
+
+
+Obs: cod p apagar Celestiais e Archs
+12346545
+
++read256questexp - Reload Item quest
++read256questcoin - Reload Coins quest
++readitemlist - RELOAD ITEMLIST
++readskilldata - RELOAD SKILLDATA
++rebuildlang - RELOAD LANGUAGE.TXT
++blessmoney - 10 = 100% TAXA DE DROP
++kheprafield - Bloqueia todo o kefra
++kheprastart - Libera o kefra
++log - reseta os logs
++nightmare - Bloqueia a entrada no pesadelo
++maxlevel - MAXIMO LEVEL ATE ONDE ARCH IRÁ UPAR
++guildfame - USE /guildfame "index da guilda" para ver a fama da guilda
++guildfame set - id fame
++set - Use /gm +set "classe / Face"
++removeall - Limpa o inventario
++setheight - Monstra sua coodernada no mapa" bom para usar na carta de duelo" 
++mute - MUTE AN PLAYER
+
++8thskill - SET 8TH SKILL BUY STATUS
++create -  Cria o monstro citado no comando ( Tem que estar na pasta Boss )
++drop - MAYBE BONUS DROP
++setcastledoor - Summon Gate do castelo de Noatum
++setchangeRuneZone - LEBRA A PISTA DE RUNAS SEM MATA O KEFRA
+
++quizmode - Ativa o Quiz (usa o ingresso do BigCubo)
++quizdoor - Abre os muros do big cubo
++quizresultx - Limpa a area do O
++quizresulto - Limpa a area do X
+
++randomquiz - Possivel ativação das perguntas
++setrandomquiz - Define a Exp e o Gold
++readrandomquiz - Atualiza o arquivo de pergunta
++sendrandomquiz - envia a pergunta do quiz na tela
+
++pkgate - 0 para abri a Porta do PVP armia é 1 para fechar;
+
+
++resetsock - ???
++cpoint - SET CPOINT IN CHAR
++sanc - SET REF IN ALL EQUIPMENTS
++buildhtml - BUILD AN HTML AT TMSRV DIR
++clearquest - SET PLAYER->QUESTINFO 0
++clearskill - SET LEARN 0
++level - SET BASE LEVEL
++hp - SET MAX HP
++mp - SET MAX MP
++ac - SET BASE DEFENSE
++dam - SET BASE DAMAGE (PHYSICAL)
++exp - SET CURRENT EXPERIENCE
++str - SET BASE STR
++int - SET BASE INT
++dex - SET BASE DEX
++con - SET BASE CON
++coin - SET GOLD (MAX 2.000.000.000)
++fame - SET PLAYER FAME
++merchant - CHANGE PLAYER MERCHANT
++skillbonus - SET SKILLPOINTS
++special0 - SET SPECIAL0 (Max: 255)
++special1 - SET SPECIAL1 (Max: 255)
++special2 - SET SPECIAL2 (Max: 255)
++special3 - SET SPECIAL3 (Max: 255)
++scorebonus - SET SCOREBONUS
++attackrun - SET PLAYER VELOCITY
++critical - SET PLAYER CRITICAL
++special - ???
++save - SAVE AN NPC?
++read - MAKE PLAYER AN NPC
++name - CHANGE PLAYER NAME?
++remote - ???
++jackpotmode - CASSINO
++jackpottouser - ???
++setsnowfielddrop - ???
++movestopcheck - ???
++deleteitem - ???
++missionitem - ???
++killmob - ???
++check - ???
++kingdom - ???
++guildwar - ???
++smname - ???
++smconn - ???
++checkname - ???
++checkconn - ???
++clean - ???
++setusename - ???
++timer - ???
++gsummon - SUMMON AN GUILD TO GM
++saveall - SAVE ALL ACCS ONLINE AND DC
++decay - ???
++marathonserver - Não deixa equipar nem tirar itens
++itemdestroy - ???
++setitemmaster - ???
++champname - ???
++challname - ???
++billfree - ???
++charselbill - ???
++potioncount - ???
++partybonus - ???
++guildboard - ???
++start - ???
++end - ???
++erase - ???
++rare - ???
++blockclan - ???
++reboot - TURN OFF THE SERVER
++delayreboot - TIME TO TURN OFF
++generate - GENERATE SPAWN
++generateitem - GENERATE ITEM
++snowquest - ???
++create - ???
++guildday - ???
++guildhour - ???
++eventhour - ???
++readitemeffect - RELOAD ITEMEFFECT
++weekmode - Inicia guerra na hora
++reloadnpc - RELOAD NPCS
++reloadguild - RELOAD GUILDS
++kingdomclan - CHANGE KINGDOM TO GUILD
++readquest - ???
++trtarget - ???
++trsource - ???
++trrate - ???
++statsapphire - ???
++sapphire - ???
++battleroyal - MAYBE ROYAL WAR
++moneycube - ???
++translevel - ???
++vsmode - CHANGE VS MODE
++evstart - START THE EVENT
++evend - FINISH THE EVENT
++evitem - CHANGE EVENT ITEM
++evrate - CHANGE EVRATE 1/RATE
++evindex - ???
++evdelete - CHANGE DELETE STATUS EVENT
++evon - EVENT CHANGE STATUS
++evnotice - CHANGE NOTICE EVENT
++nopatch - ???
++double - DOUBLE EXP
++doublelev - DOUBLE EXP LEVEL
++doublezone - DOUBLE EXP ZONE
++monitor - ???
++deadpoint - ???
++dungeonevent - ???
++clearrune - ???
++setRuneZoneTax - ???
+
++setncharexp - ???
++openserver - ???
++champ - Declara vencedor
++chall - Declara Aposta
++useguildmantle - SET 1  OR 0
++casinoticket - ???
++cleartelzone - ???
++sealofsoul - SKILL STATUS
++itemprice - ???
++exportmobname - ???
++maxlevelticket - ???
++lottoticket - ???
++towntax - SET % TAX
+
++appversionup - UPGRADE SERVER VERSION
+
+
+
+
++addcrackerror - ???
++CreateHardCharacter - CAN CREATE HARDCORE
++newbielev - ???
++duelletterlimit - ???
++raresswitch - ???
++block - BAN AN PLAYER
++createchar - ???
++usedmobnum - ???
++gameroom - ???
++reloadhellrate - ???
++stopmileage - ???
++stopquest - ???
++readblockip - ???
++useblockcountry - ???
++setblockcountry - ???
++readpcroomip - ???
+
++leavevill - ???
++stoplevelup - ???
++stoppotal - ???
++weather - SET CURRENT WEATHER
++encode - ??? (SHIT)
++readlotto - ???
++stopmatch - ???
++matchscore - ???
++readtotogame - ???
++stopranking - ???
++clearranking - ???
++billmode - ???
++crypt - ???
++readquiz - ???
++billdisconnect - ???
++billconnect - ???
++warhour - ???
+
++notice - SEND NOTICE TO ALL
++mission - ???
++chiefnotice - NOTICE TO ONLINE ADMINS
++chiefsummon - SUMMON AN ONLINE ADMIN
++rebuild - ???
++snoop - BE INVISIBLE
++event - ???
++teleport - GO TO AN PLACE
++kick - DC TO PLAYER
++config - ???
++setmobhp - ???
++eventdoor - ???
++eventdoor2 - ???
++stopgoldcoin - ???
++localserver - ???
++panelserver - ???
++nonepk - ???
++pkdrop - ???
++setgambleserver - ???
++gamble - ???
++readkhepraitem - ???
++showdropitem - ???
++setcastleserver - ???
++color - ???
++bossgate - ???
++height - ???

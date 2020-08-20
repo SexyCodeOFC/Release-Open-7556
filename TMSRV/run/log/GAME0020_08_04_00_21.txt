@@ -1,0 +1,526 @@
+200804,002118,00000000,-system,sys,log start 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:0 item:1171 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:0 item:1297 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:0 item:1456 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:0 item:1606 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:1 item:1171 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:1 item:1297 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:1 item:1456 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:1 item:1606 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:0 item:1174 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:0 item:1309 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:0 item:1459 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:0 item:1609 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:1 item:1174 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:1 item:1309 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:1 item:1459 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:1 item:1609 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:0 item:1162 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:0 item:1261 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:0 item:1447 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:0 item:1597 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:1 item:1162 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:1 item:1261 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:1 item:1447 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:1 item:1597 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:0 item:1168 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:0 item:1285 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:0 item:1453 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:0 item:1603 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:1 item:1168 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:1 item:1285 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:1 item:1453 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:1 item:1603 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:0 item:1165 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:0 item:1273 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:0 item:1450 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:0 item:1600 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:1 item:1165 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:1 item:1273 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:1 item:1450 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:1 item:1600 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:0 item:1186 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:0 item:1321 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:0 item:1471 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:0 item:1621 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:1 item:1186 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:1 item:1321 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:1 item:1471 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:1 item:1621 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:0 item:1189 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:0 item:1324 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:0 item:1474 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:0 item:1624 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:1 item:1189 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:1 item:1324 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:1 item:1474 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:1 item:1624 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:0 item:1177 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:0 item:1312 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:0 item:1462 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:0 item:1612 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:1 item:1177 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:1 item:1312 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:1 item:1462 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:1 item:1612 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:0 item:1183 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:0 item:1318 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:0 item:1468 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:0 item:1618 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:1 item:1183 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:1 item:1318 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:1 item:1468 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:1 item:1618 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:0 item:1180 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:0 item:1315 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:0 item:1465 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:0 item:1615 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:1 item:1180 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:1 item:1315 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:1 item:1465 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:1 item:1615 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:0 item:1201 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:0 item:1336 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:0 item:1486 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:0 item:1636 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:1 item:1201 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:1 item:1336 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:1 item:1486 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:1 item:1636 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:0 item:1204 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:0 item:1339 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:0 item:1489 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:0 item:1639 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:1 item:1204 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:1 item:1339 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:1 item:1489 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:1 item:1639 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:0 item:1192 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:0 item:1327 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:0 item:1477 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:0 item:1627 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:1 item:1192 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:1 item:1327 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:1 item:1477 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:1 item:1627 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:0 item:1198 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:0 item:1333 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:0 item:1483 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:0 item:1633 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:1 item:1198 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:1 item:1333 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:1 item:1483 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:1 item:1633 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:0 item:1195 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:0 item:1330 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:0 item:1480 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:0 item:1630 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:1 item:1195 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:1 item:1330 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:1 item:1480 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:1 item:1630 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:0 item:2368 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:0 item:2368 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:0 item:2368 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:0 item:2368 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:1 item:2373 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:1 item:2373 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:1 item:2373 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:1 item:2368 100 100 50 10 100 100 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:0 item:809 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:0 item:824 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:0 item:809 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:0 item:824 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:1 item:854 43 3 60 20 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:1 item:899 43 3 60 20 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:1 item:854 43 3 60 20 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:1 item:824 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:0 item:1216 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:0 item:1351 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:0 item:1501 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:0 item:1651 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:1 item:1216 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:1 item:1351 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:1 item:1501 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:1 item:1651 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:0 item:1219 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:0 item:1354 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:0 item:1504 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:0 item:1654 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:1 item:1219 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:1 item:1354 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:1 item:1504 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:1 item:1654 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:0 item:1207 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:0 item:1342 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:0 item:1492 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:0 item:1642 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:1 item:1207 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:1 item:1342 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:1 item:1492 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:1 item:1642 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:0 item:1213 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:0 item:1348 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:0 item:1498 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:0 item:1648 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:1 item:1213 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:1 item:1348 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:1 item:1498 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:1 item:1648 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:0 item:1210 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:0 item:1345 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:0 item:1495 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:0 item:1645 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:1 item:1210 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:1 item:1345 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:1 item:1495 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:1 item:1645 43 0 0 0 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:0 item:3551 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:0 item:3556 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:0 item:3551 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:0 item:3556 43 3 2 45 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:1 item:3566 43 3 60 20 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:1 item:3582 43 3 60 20 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:1 item:3566 43 3 60 20 0 0 
+200804,002118,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:1 item:3556 43 3 2 45 0 0 
+200804,002118,00000000,-system,sys,start initialized 
+200804,002118,00000000,-system,DB set sapphire 388 / 320 
+200804,002118,00000000,-system,etc, guild report 0 - 3 0 3 3 3 
+200804,002118,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200804,002118,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200804,002118,00000000,system,3.COVID-19.FIKEMCASA.Tuberculos.. C(1) N(1) M(8) F(936) 
+200804,002118,00000000,system,4.VIKINGS.VALHALLA.RAGNAROK.KATTEGAT. C(1) N(1) M(8) F(100) 
+200804,002118,00000000,system,5.BLUELIXO.... C(0) N(1) M(7) F(0) 
+200804,002118,00000000,system,Complate Server Init 
+200804,002127,3c44638a,SEXYCODE,sta,138.99.68.60 BDB9003821C74B9B85BEBAFC8CB0B55E 2 - 0 -1825750233 (360) 
+200804,002129,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,002131,53fe6ab1,PUNISHER,clo,fd 2-0 
+200804,002131,53fe6ab1,PUNISHER,clo,fd 2-0 conn:1 
+200804,002132,53fe6ab1,PUNISHER,sta,177.106.254.83 BA8B0044ECC14104AD50BF6EB5C0D65E 1 - 0 -1825754984 (476) 
+200804,002134,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:2 money:1882635450, store:0 
+200804,002137,53fe6ab1,PUNISHER,sta,Login char:[PUNI] exp:0 level:1010 conn:1 money:1812966259, store:1911552 
+200804,002413,53fe6ab1,[PUNI] - Set Item Carry [413 61:127:0:0:0:0],-system 
+200804,002447,3c44638a,SEXYCODE,sel,Armas Celestial 9375000  0bd33d6f00000000 
+200804,002449,3c44638a,SEXYCODE,sel,Armas Celestial 9375000  0bd6000000000000 
+200804,002508,3c44638a,SEXYCODE,pim,set primium bag :3467-2093 char:SexyCode 
+200804,002508,3c44638a,SEXYCODE,pim,set primium bag :3467-2093 char:SexyCode 
+200804,002510,3c44638a,SEXYCODE,sel,Evolucoes 1425  036f2b000209021b 
+200804,002512,3c44638a,SEXYCODE,sel,Evolucoes 7377  051d2b0149183c08 
+200804,002604,3c44638a,SEXYCODE,clo,fd 22-2 
+200804,002604,3c44638a,SEXYCODE,clo,fd 22-2 conn:2 
+200804,002654,53fe6ab1,PUNISHER,inv,DeleteItem 997 
+200804,002655,53fe6ab1,[PUNI] - Set Item Carry [1011 43:253:2:120:3:120],-system 
+200804,002702,53fe6ab1,PUNISHER,inv,DeleteItem 1713 
+200804,002737,53fe6ab1,[PUNI] - Set Item Carry [1015 43:253:2:120:3:120],-system 
+200804,003222,3c44638a,SEXYCODE,sta,138.99.68.60 BDB9003821C74B9B85BEBAFC8CB0B55E 2 - 0 -1826405265 (496) 
+200804,003239,3c44638a,SEXYCODE,sys,request delete character sadafg 
+200804,003239,3c44638a,SEXYCODE,sys,confirm delete character 
+200804,003244,3c44638a,SEXYCODE,sys,request delete character Deliciosa 
+200804,003244,3c44638a,SEXYCODE,sys,confirm delete character 
+200804,003251,3c44638a,SEXYCODE,sys,request delete character Sexy 
+200804,003251,3c44638a,SEXYCODE,sys,confirm delete character 
+200804,003259,3c44638a,SEXYCODE,sys,request new character Sexy 
+200804,003259,6b056ba2,,Newbie Reward item send 
+200804,003259,3c44638a,SEXYCODE,sys,confirm new character 
+200804,003303,3c44638a,SEXYCODE,sys,set citizen 31-43:0 86:1 28:0 
+200804,003303,3c44638a,SEXYCODE,sta,Login char:Sexy exp:0 level:0 conn:2 money:0, store:0 
+200804,003303,3c44638a,SEXYCODE,etc,townspeople 31-43:0 86:1 28:1 
+200804,003337,3c44638a,SEXYCODE,lvl Sexy level up to 1 
+200804,003349,3c44638a,SEXYCODE,level up to 2 
+200804,003354,3c44638a,SEXYCODE,lvl Sexy level up to 3 
+200804,003510,3c44638a,Sexy - Set Item Carry [4011 61:120:0:0:0:0],-system 
+200804,003511,53fe6ab1,PUNISHER,clo,fd 22-2 
+200804,003511,53fe6ab1,PUNISHER,clo,fd 22-2 conn:1 
+200804,003512,3c44638a,SEXYCODE,etc,use silver coin 4011 - 0, 1000000000 
+200804,003514,3c44638a,SEXYCODE,etc,use silver coin 4011 - 1000000000, 2000000000 
+200804,003525,3c44638a,SEXYCODE,adm,+level 349 
+200804,003535,3c44638a,SEXYCODE,sys, Logout Char Sexy money:2000000000, Store :0, conn:2  
+200804,003540,3c44638a,SEXYCODE,sta,Login char:Sexy exp:2208 level:349 conn:2 money:2000000000, store:0 
+200804,003711,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,0,0,0,0) after 3863-(43,9,60,6,71,50) - prc:0 
+200804,003713,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,60,6,71,50) after 3863-(43,9,2,24,3,25) - prc:0 
+200804,003717,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,2,24,3,25) after 3863-(43,9,2,24,71,50) - prc:0 
+200804,003719,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,2,24,71,50) after 3863-(43,9,3,45,0,0) - prc:0 
+200804,003721,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,3,45,0,0) after 3863-(43,9,60,10,3,20) - prc:0 
+200804,003723,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,60,10,3,20) after 3863-(43,9,3,15,71,70) - prc:0 
+200804,003725,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,3,15,71,70) after 3863-(43,9,60,6,71,50) - prc:0 
+200804,003727,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,60,6,71,50) after 3863-(43,9,3,15,71,70) - prc:0 
+200804,003729,3c44638a,SEXYCODE,ref, armor befor 3863-(43,9,3,15,71,70) after 3863-(43,9,60,8,3,30) - prc:0 
+200804,003735,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,0,0,0,0) after 3862-(43,9,2,18,3,20) - prc:0 
+200804,003737,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,2,18,3,20) after 3862-(43,9,2,18,71,70) - prc:0 
+200804,003739,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,2,18,71,70) after 3862-(43,9,60,8,71,50) - prc:0 
+200804,003741,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,60,8,71,50) after 3862-(43,9,2,18,3,20) - prc:0 
+200804,003744,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,2,18,3,20) after 3862-(43,9,2,24,3,30) - prc:0 
+200804,003748,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,2,24,3,30) after 3862-(43,9,2,24,3,25) - prc:0 
+200804,003750,3c44638a,SEXYCODE,ref, armor befor 3862-(43,9,2,24,3,25) after 3862-(43,9,2,30,71,70) - prc:0 
+200804,003754,3c44638a,SEXYCODE,ref, armor befor 3865-(43,9,0,0,0,0) after 3865-(43,9,73,12,74,12) - prc:0 
+200804,003756,3c44638a,SEXYCODE,ref, armor befor 3865-(43,9,73,12,74,12) after 3865-(43,9,73,6,60,10) - prc:0 
+200804,003759,3c44638a,SEXYCODE,ref, armor befor 3865-(43,9,73,6,60,10) after 3865-(43,9,73,6,60,6) - prc:0 
+200804,003801,3c44638a,SEXYCODE,ref, armor befor 3865-(43,9,73,6,60,6) after 3865-(43,9,73,18,74,15) - prc:0 
+200804,003806,3c44638a,SEXYCODE,ref, armor befor 3864-(43,9,0,0,0,0) after 3864-(43,9,2,30,72,20) - prc:0 
+200804,003809,3c44638a,SEXYCODE,ref, armor befor 3864-(43,9,2,30,72,20) after 3864-(43,9,74,12,72,30) - prc:0 
+200804,003811,3c44638a,SEXYCODE,ref, armor befor 3864-(43,9,74,12,72,30) after 3864-(43,9,74,12,72,25) - prc:0 
+200804,003834,53fe6ab1,PUNISHER,sta,177.106.254.83 BA8B0044ECC14104AD50BF6EB5C0D65E 1 - 0 -1826777015 (480) 
+200804,003840,53fe6ab1,PUNISHER,sta,Login char:[PUNI] exp:0 level:1010 conn:1 money:1812966259, store:1911552 
+200804,003920,3c44638a,SEXYCODE,ref,fail,541,0,413,120 0 0 <43 0 0 0 0 0> 
+200804,003920,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-119,0,0) <43 0 0 0 0 0> 
+200804,003921,3c44638a,SEXYCODE,ref,fail,541,0,413,119 0 0 <43 0 0 0 0 0> 
+200804,003921,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-118,0,0) <43 10 0 0 0 0> 
+200804,003922,3c44638a,SEXYCODE,ref,fail,541,0,413,118 0 0 <43 0 0 0 0 0> 
+200804,003922,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-117,0,0) <43 10 0 0 0 0> 
+200804,003925,3c44638a,SEXYCODE,ref,fail,541,0,413,117 0 0 <43 0 0 0 0 0> 
+200804,003925,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-116,0,0) <43 20 0 0 0 0> 
+200804,003936,3c44638a,SEXYCODE,ref,refine success 593+1 - (413-116,0,0) <43 1 0 0 0 0> 
+200804,003939,3c44638a,SEXYCODE,ref,refine success 593+2 - (413-115,0,0) <43 2 0 0 0 0> 
+200804,003942,3c44638a,SEXYCODE,ref,refine success 593+3 - (413-114,0,0) <43 3 0 0 0 0> 
+200804,003944,3c44638a,SEXYCODE,ref,refine success 593+4 - (413-113,0,0) <43 4 0 0 0 0> 
+200804,003953,3c44638a,SEXYCODE,ref,refine success 593+5 - (413-112,0,0) <43 5 0 0 0 0> 
+200804,003955,3c44638a,SEXYCODE,ref,refine success 593+6 - (413-111,0,0) <43 6 0 0 0 0> 
+200804,003956,3c44638a,SEXYCODE,ref,refine success 593+7 - (413-110,0,0) <43 7 0 0 0 0> 
+200804,003957,3c44638a,SEXYCODE,ref,refine success 593+8 - (413-109,0,0) <43 8 0 0 0 0> 
+200804,003958,3c44638a,SEXYCODE,ref,refine success 593+9 - (413-108,0,0) <43 9 0 0 0 0> 
+200804,003959,3c44638a,SEXYCODE,ref,fail,593,9,413,106 0 0 <43 9 0 0 0 0> 
+200804,004026,3c44638a,SEXYCODE,ref,fail,541,0,412,50 0 0 <43 0 0 0 0 0> 
+200804,004026,3c44638a,SEXYCODE,ref,refine success 541+0 - (412-49,0,0) <43 10 0 0 0 0> 
+200804,004028,3c44638a,SEXYCODE,ref,fail,541,0,412,49 0 0 <43 0 0 0 0 0> 
+200804,004028,3c44638a,SEXYCODE,ref,refine success 541+0 - (412-48,0,0) <43 20 0 0 0 0> 
+200804,004029,3c44638a,SEXYCODE,ref,fail,541,0,412,48 0 0 <43 0 0 0 0 0> 
+200804,004029,3c44638a,SEXYCODE,ref,refine success 541+0 - (412-47,0,0) <43 30 0 0 0 0> 
+200804,004030,3c44638a,SEXYCODE,ref,fail,541,0,412,47 0 0 <43 0 0 0 0 0> 
+200804,004030,3c44638a,SEXYCODE,ref,refine success 541+0 - (412-46,0,0) <43 40 0 0 0 0> 
+200804,004037,3c44638a,SEXYCODE,ref,fail,541,0,412,46 0 0 <43 0 0 0 0 0> 
+200804,004037,3c44638a,SEXYCODE,ref,refine success 541+0 - (412-45,0,0) <43 50 0 0 0 0> 
+200804,004039,3c44638a,SEXYCODE,ref,fail,541,0,413,106 0 0 <43 0 0 0 0 0> 
+200804,004039,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-105,0,0) <43 30 0 0 0 0> 
+200804,004039,3c44638a,SEXYCODE,ref,fail,541,0,413,105 0 0 <43 0 0 0 0 0> 
+200804,004039,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-104,0,0) <43 40 0 0 0 0> 
+200804,004040,3c44638a,SEXYCODE,ref,fail,541,0,413,104 0 0 <43 0 0 0 0 0> 
+200804,004040,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-103,0,0) <43 50 0 0 0 0> 
+200804,004042,3c44638a,SEXYCODE,ref,fail,541,0,413,103 0 0 <43 0 0 0 0 0> 
+200804,004042,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-102,0,0) <43 60 0 0 0 0> 
+200804,004043,3c44638a,SEXYCODE,ref,fail,541,0,413,102 0 0 <43 0 0 0 0 0> 
+200804,004043,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-101,0,0) <43 20 0 0 0 0> 
+200804,004043,3c44638a,SEXYCODE,ref,fail,541,0,413,101 0 0 <43 0 0 0 0 0> 
+200804,004043,3c44638a,SEXYCODE,ref,refine success 541+0 - (413-100,0,0) <43 60 0 0 0 0> 
+200804,004057,3c44638a,SEXYCODE,ref,fail,540,0,413,100 0 0 <43 0 0 0 0 0> 
+200804,004057,3c44638a,SEXYCODE,ref,refine success 540+0 - (413-99,0,0) <43 0 0 0 0 0> 
+200804,004141,3c44638a,SEXYCODE,ref,refine success 593+1 - (413-99,0,0) <43 1 0 0 0 0> 
+200804,004142,3c44638a,SEXYCODE,ref,refine success 593+2 - (413-98,0,0) <43 2 0 0 0 0> 
+200804,004145,3c44638a,SEXYCODE,ref,refine success 593+3 - (413-120,0,0) <43 3 0 0 0 0> 
+200804,004146,3c44638a,SEXYCODE,ref,refine success 593+4 - (413-97,0,0) <43 4 0 0 0 0> 
+200804,004147,3c44638a,SEXYCODE,ref,refine success 593+5 - (413-96,0,0) <43 5 0 0 0 0> 
+200804,004148,3c44638a,SEXYCODE,ref,refine success 593+6 - (413-95,0,0) <43 6 0 0 0 0> 
+200804,004204,3c44638a,SEXYCODE,ref,refine success 593+7 - (413-94,0,0) <43 7 0 0 0 0> 
+200804,004206,3c44638a,SEXYCODE,ref,refine success 593+8 - (413-93,0,0) <43 8 0 0 0 0> 
+200804,004208,3c44638a,SEXYCODE,ref,refine success 593+9 - (413-92,0,0) <43 9 0 0 0 0> 
+200804,004210,3c44638a,SEXYCODE,ref,fail,593,9,413,90 0 0 <43 9 0 0 0 0> 
+200804,004213,3c44638a,SEXYCODE,ref,refine success 593+1 - (413-90,0,0) <43 1 0 0 0 0> 
+200804,004214,3c44638a,SEXYCODE,ref,refine success 593+2 - (413-89,0,0) <43 2 0 0 0 0> 
+200804,004215,3c44638a,SEXYCODE,ref,refine success 593+3 - (413-88,0,0) <43 3 0 0 0 0> 
+200804,004216,3c44638a,SEXYCODE,ref,refine success 593+4 - (413-87,0,0) <43 4 0 0 0 0> 
+200804,004217,3c44638a,SEXYCODE,ref,refine success 593+5 - (413-86,0,0) <43 5 0 0 0 0> 
+200804,004221,3c44638a,SEXYCODE,ref,refine success 593+6 - (413-85,0,0) <43 6 0 0 0 0> 
+200804,004222,3c44638a,SEXYCODE,ref,refine success 593+7 - (413-84,0,0) <43 7 0 0 0 0> 
+200804,004227,3c44638a,SEXYCODE,ref,refine success 593+8 - (413-83,0,0) <43 8 0 0 0 0> 
+200804,004227,3c44638a,SEXYCODE,ref,refine success 593+9 - (413-82,0,0) <43 9 0 0 0 0> 
+200804,004228,3c44638a,SEXYCODE,ref,fail,593,9,413,80 0 0 <43 9 0 0 0 0> 
+200804,004237,3c44638a,SEXYCODE,ref,refine success 593+1 - (413-80,0,0) <43 1 0 0 0 0> 
+200804,004238,3c44638a,SEXYCODE,ref,refine success 593+2 - (413-79,0,0) <43 2 0 0 0 0> 
+200804,004240,3c44638a,SEXYCODE,ref,refine success 593+3 - (413-78,0,0) <43 3 0 0 0 0> 
+200804,004242,3c44638a,SEXYCODE,ref,refine success 593+4 - (413-77,0,0) <43 4 0 0 0 0> 
+200804,004243,3c44638a,SEXYCODE,ref,refine success 593+5 - (413-76,0,0) <43 5 0 0 0 0> 
+200804,004244,3c44638a,SEXYCODE,ref,refine success 593+6 - (413-75,0,0) <43 6 0 0 0 0> 
+200804,004246,3c44638a,SEXYCODE,ref,refine success 593+7 - (413-74,0,0) <43 7 0 0 0 0> 
+200804,004248,3c44638a,SEXYCODE,ref,refine success 593+8 - (413-73,0,0) <43 8 0 0 0 0> 
+200804,004249,3c44638a,SEXYCODE,ref,refine success 593+9 - (413-72,0,0) <43 9 0 0 0 0> 
+200804,004250,3c44638a,SEXYCODE,ref,fail,593,9,413,70 0 0 <43 9 0 0 0 0> 
+200804,004937,53fe6ab1,PUNISHER,etc,mount resurrect from:10 to:9 - 2365 
+200804,004942,53fe6ab1,PUNISHER,etc,mount resurrect from:10 to:8 - 2361 
+200804,004945,53fe6ab1,PUNISHER,etc,mount resurrect from:10 to:9 - 2364 
+200804,004959,3c44638a,SEXYCODE,clo,fd 22-2 
+200804,004959,3c44638a,SEXYCODE,clo,fd 22-2 conn:2 
+200804,005101,53fe6ab1,[PUNI] - Set Item Carry [2364 100:127:127:127:127:0],-system 
+200804,005410,53fe6ab1,PUNISHER,clo,fd 22-2 
+200804,005410,53fe6ab1,PUNISHER,clo,fd 22-2 conn:1 
+200804,010009,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,010009,00000000,-system,sys,town tax report: 3223329 0 79509 5203435 13081595 -Exp : 342 
+200804,020009,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,020009,00000000,-system,sys,town tax report: 3223329 0 79509 5203435 13081595 -Exp : 342 
+200804,020313,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020325,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020501,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020513,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020555,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020716,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020825,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,020934,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021322,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021540,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021616,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021816,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021858,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021934,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,021958,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,022034,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,022328,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,022643,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,022731,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,022822,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023101,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023249,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023355,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023425,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023516,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023546,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023804,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023810,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,023855,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024110,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024404,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024452,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024543,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024619,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024722,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024734,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024828,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,024840,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025031,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025113,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025131,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025155,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025616,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025622,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,025849,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030009,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,030009,00000000,-system,sys,town tax report: 3223329 0 79509 5203435 13081595 -Exp : 342 
+200804,030037,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030219,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030543,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030613,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030740,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030840,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030846,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,030934,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031122,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031140,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031604,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031634,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031728,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031734,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031822,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031925,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,031949,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,032039,3144638a,,clo,fd 1-0 
+200804,032039,3144638a,,clo,fd 1-0 conn:1 
+200804,032113,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,032443,3144638a,,clo,fd 1-0 
+200804,032443,3144638a,,clo,fd 1-0 conn:1 
+200804,032534,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,032755,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,032919,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034040,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034231,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034328,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034334,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034549,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034749,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034819,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,034946,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035237,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035243,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035355,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035555,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035658,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035734,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035840,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035931,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,035943,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,040009,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,040009,00000000,-system,sys,town tax report: 3223329 0 79509 5203435 13081595 -Exp : 342 
+200804,040110,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,040225,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,040631,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,040737,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,041016,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,041501,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,041707,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,041719,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,041907,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042104,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042140,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042234,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042258,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042431,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042610,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042846,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,042852,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,043034,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,043534,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,043810,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,044525,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,044531,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,044619,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,044731,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,044934,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045134,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045516,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045604,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045710,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045740,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045825,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045837,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,045922,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050009,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,050009,00000000,-system,sys,town tax report: 3223329 0 79509 5203435 13081595 -Exp : 342 
+200804,050010,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050143,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050149,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050313,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050455,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050507,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,050822,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,051044,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,051232,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,051659,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,051811,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052041,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052126,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052202,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052456,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052605,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052720,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052732,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,052953,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053029,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053214,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053226,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053508,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053526,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053620,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053650,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053750,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053917,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,053953,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054023,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054235,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054311,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054329,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054553,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054617,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054720,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,054756,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055150,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055202,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055247,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055402,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055444,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055656,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055841,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,055923,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,060009,00000000,-system,etc,item drop count 00:0 01:0 02:0 03:0 04:0 05:0 06:0 07:0 

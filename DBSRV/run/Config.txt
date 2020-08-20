@@ -1,0 +1,4 @@
+Sapphire 388
+MaxConcurrent 550
+Version 1
+Capsule 3

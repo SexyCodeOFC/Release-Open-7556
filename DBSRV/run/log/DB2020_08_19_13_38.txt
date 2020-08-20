@@ -1,0 +1,18 @@
+200819,133859,-system,start log
+200819,133859,-system,0,,,,,0,0,0,7
+200819,133859,-system,3,COVID-19,FIKEMCASA,Tuberculose,,1,1,8,286
+200819,133859,-system,4,VIKINGS,VALHALLA,RAGNAROK,KATTEGAT,1,1,8,100
+200819,133859,-system,5,BLUELIXO,,,,0,1,7,0
+200819,133859,-system,6,SUAMAE,,,,1,1,8,650
+200819,133859,-system,7,JAFOI,,,,1,1,7,0
+200819,134049,-system,sys,wsa_accept from 0 - 416
+200819,134210,-system,clo,server fd 0
+200819,134212,-system,sys,wsa_accept from 0 - 420
+200819,134219,-system,clo,server fd 0
+200819,134227,-system,sys,wsa_accept from 0 - 420
+200819,134230,SEXYCODE,sta,account login 0-0
+200819,134242,SEXYCODE,create character [SexyCode]
+200819,134401,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,134459,SEXYCODE,sta,account login 0-0
+200819,134612,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,135228,-system,clo,server fd 0

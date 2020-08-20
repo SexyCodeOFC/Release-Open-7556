@@ -1,0 +1,19 @@
+200805,000007,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200805,000007,00000000,-system,sys,town tax report: 4639253 0 80559 5203785 14538943 -Exp : 0 
+200805,000046,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1866736377, store:0 
+200805,000157,3c44638a,SEXYCODE,sys, Logout Char SexyCode money:1866736377, Store :0, conn:1  
+200805,000222,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1866736377, store:0 
+200805,000236,3c44638a,SEXYCODE,sys, Logout Char SexyCode money:1866736377, Store :0, conn:1  
+200805,000241,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1866736377, store:0 
+200805,000505,3c44638a,SEXYCODE,sys, Logout Char SexyCode money:1866736377, Store :0, conn:1  
+200805,000556,3c44638a,SEXYCODE,sys,set citizen 7-43:0 86:0 28:0 
+200805,000556,3c44638a,SEXYCODE,sta,Login char:Sexy exp:2208 level:1010 conn:1 money:1986921250, store:0 
+200805,000628,3c44638a,SEXYCODE,sys, Logout Char Sexy money:1986921250, Store :0, conn:1  
+200805,000630,3c44638a,SEXYCODE,clo,fd 11-0 
+200805,000630,3c44638a,SEXYCODE,clo,fd 11-0 conn:1 
+200805,000743,3c44638a,RICHA,sta,138.99.68.60 D35F0041FCED4EB0B07E56B129A257B8 1 - 0 -1912104162 (444) 
+200805,000748,3c44638a,RICHA,sta,Login char:FMBoladona exp:0 level:1010 conn:1 money:990010625, store:0 
+200805,000758,3c44638a,RICHA,sys, Logout Char FMBoladona money:990010625, Store :0, conn:1  
+200805,001255,3c44638a,RICHA,clo,fd 11-0 
+200805,001255,3c44638a,RICHA,clo,fd 11-0 conn:1 
+200805,001314,00000000,-system,etc,item drop count 00:0 01:0 02:0 03:0 04:0 05:0 06:0 07:0 

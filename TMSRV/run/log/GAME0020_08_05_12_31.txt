@@ -1,0 +1,1607 @@
+200805,123139,00000000,-system,sys,log start 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:0 item:1171 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:0 item:1297 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:0 item:1456 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:0 item:1606 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:1 item:1171 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:1 item:1297 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:1 item:1456 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:1 item:1606 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:0 item:1174 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:0 item:1309 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:0 item:1459 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:0 item:1609 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:1 item:1174 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:1 item:1309 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:1 item:1459 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:1 item:1609 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:0 item:1162 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:0 item:1261 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:0 item:1447 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:0 item:1597 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:1 item:1162 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:1 item:1261 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:1 item:1447 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:1 item:1597 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:0 item:1168 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:0 item:1285 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:0 item:1453 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:0 item:1603 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:1 item:1168 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:1 item:1285 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:1 item:1453 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:1 item:1603 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:0 item:1165 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:0 item:1273 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:0 item:1450 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:0 item:1600 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:1 item:1165 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:1 item:1273 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:1 item:1450 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:1 item:1600 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:0 item:1186 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:0 item:1321 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:0 item:1471 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:0 item:1621 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:1 item:1186 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:1 item:1321 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:1 item:1471 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:1 item:1621 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:0 item:1189 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:0 item:1324 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:0 item:1474 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:0 item:1624 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:1 item:1189 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:1 item:1324 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:1 item:1474 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:1 item:1624 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:0 item:1177 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:0 item:1312 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:0 item:1462 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:0 item:1612 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:1 item:1177 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:1 item:1312 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:1 item:1462 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:1 item:1612 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:0 item:1183 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:0 item:1318 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:0 item:1468 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:0 item:1618 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:1 item:1183 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:1 item:1318 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:1 item:1468 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:1 item:1618 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:0 item:1180 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:0 item:1315 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:0 item:1465 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:0 item:1615 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:1 item:1180 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:1 item:1315 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:1 item:1465 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:1 item:1615 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:0 item:1201 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:0 item:1336 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:0 item:1486 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:0 item:1636 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:1 item:1201 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:1 item:1336 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:1 item:1486 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:1 item:1636 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:0 item:1204 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:0 item:1339 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:0 item:1489 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:0 item:1639 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:1 item:1204 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:1 item:1339 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:1 item:1489 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:1 item:1639 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:0 item:1192 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:0 item:1327 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:0 item:1477 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:0 item:1627 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:1 item:1192 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:1 item:1327 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:1 item:1477 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:1 item:1627 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:0 item:1198 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:0 item:1333 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:0 item:1483 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:0 item:1633 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:1 item:1198 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:1 item:1333 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:1 item:1483 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:1 item:1633 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:0 item:1195 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:0 item:1330 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:0 item:1480 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:0 item:1630 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:1 item:1195 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:1 item:1330 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:1 item:1480 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:1 item:1630 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:0 item:2368 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:0 item:2368 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:0 item:2368 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:0 item:2368 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:1 item:2373 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:1 item:2373 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:1 item:2373 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:1 item:2368 100 100 50 10 100 100 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:0 item:809 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:0 item:824 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:0 item:809 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:0 item:824 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:1 item:854 43 3 60 20 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:1 item:899 43 3 60 20 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:1 item:854 43 3 60 20 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:1 item:824 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:0 item:1216 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:0 item:1351 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:0 item:1501 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:0 item:1651 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:1 item:1216 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:1 item:1351 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:1 item:1501 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:1 item:1651 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:0 item:1219 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:0 item:1354 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:0 item:1504 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:0 item:1654 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:1 item:1219 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:1 item:1354 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:1 item:1504 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:1 item:1654 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:0 item:1207 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:0 item:1342 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:0 item:1492 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:0 item:1642 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:1 item:1207 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:1 item:1342 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:1 item:1492 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:1 item:1642 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:0 item:1213 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:0 item:1348 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:0 item:1498 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:0 item:1648 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:1 item:1213 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:1 item:1348 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:1 item:1498 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:1 item:1648 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:0 item:1210 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:0 item:1345 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:0 item:1495 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:0 item:1645 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:1 item:1210 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:1 item:1345 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:1 item:1495 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:1 item:1645 43 0 0 0 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:0 item:3551 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:0 item:3556 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:0 item:3551 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:0 item:3556 43 3 2 45 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:1 item:3566 43 3 60 20 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:1 item:3582 43 3 60 20 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:1 item:3566 43 3 60 20 0 0 
+200805,123139,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:1 item:3556 43 3 2 45 0 0 
+200805,123139,00000000,-system,sys,start initialized 
+200805,123139,00000000,-system,DB set sapphire 388 / 320 
+200805,123139,00000000,-system,etc, guild report 0 - 3 0 3 3 3 
+200805,123139,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200805,123139,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200805,123139,00000000,system,3.COVID-19.FIKEMCASA.Tuberculos.. C(1) N(1) M(8) F(936) 
+200805,123139,00000000,system,4.VIKINGS.VALHALLA.RAGNAROK.KATTEGAT. C(1) N(1) M(8) F(100) 
+200805,123139,00000000,system,5.BLUELIXO.... C(0) N(1) M(7) F(0) 
+200805,123139,00000000,system,Complate Server Init 
+200805,123150,3c44638a,SEXYCODE,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 1 - 0 -1956751470 (468) 
+200805,123150,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200805,123155,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1866691377, store:0 
+200805,123214,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Bow(Ancient) 
+200805,123214,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Bow(Ancient) sucess 
+200805,123238,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,123324,189cd2ba,PUNISHER,clo,fd 2-0 
+200805,123324,189cd2ba,PUNISHER,clo,fd 2-0 conn:2 
+200805,123324,189cd2ba,PUNISHER,sta,186.210.156.24 BA8B0044ECC14104AD50BF6EB5C0D65E 2 - 0 -1956845466 (476) 
+200805,123331,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:569064 level:1010 conn:2 money:1717025677, store:1911552 
+200805,123344,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,123345,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,123354,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,123356,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,123356,00000000,-system,not [PUNI] acaba de adquirir Baldr_Of_Axe(Ancient) 
+200805,123356,00000000,AlquimistaOdim,[PUNI] comp Baldr_Of_Axe(Ancient) sucess 
+200805,123357,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,123740,3c44638a,SEXYCODE,clo,fd 22-2 
+200805,123740,3c44638a,SEXYCODE,clo,fd 22-2 conn:1 
+200805,123800,3c44638a,HORUS,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 1 - 0 -1957120967 (492) 
+200805,123804,189cd2ba,PUNISHER,inv,DeleteItem 3605 
+200805,123807,3c44638a,HORUS,sys,request new character Horus 
+200805,123819,3c44638a,HORUS,sys,request new character Horus 
+200805,123819,672ef28a,,Newbie Reward item send 
+200805,123819,3c44638a,HORUS,sys,confirm new character 
+200805,123824,3c44638a,HORUS,clo,fd 11-0 
+200805,123824,3c44638a,HORUS,clo,fd 11-0 conn:1 
+200805,123830,3c44638a,SEXYCODE,sta,138.99.68.60 BDB9003721C74B9B85BEBAFC8CB0B55E 1 - 0 -1957151469 (496) 
+200805,123834,3c44638a,SEXYCODE,sta,Login char:SexyCode exp:189327 level:1010 conn:1 money:1866691377, store:0 
+200805,124048,189cd2ba,PUNISHER,sel,Set Celestial 17800  055a2b0900000000 
+200805,124049,3c44638a,SEXYCODE,inv,DeleteItem 2551 
+200805,124050,3c44638a,SEXYCODE,inv,DeleteItem 3338 
+200805,124200,189cd2ba,PUNISHER,pim,set primium bag :3467-2094 char:[PUNI] 
+200805,124201,189cd2ba,PUNISHER,pim,set primium bag :3467-2094 char:[PUNI] 
+200805,124208,3c44638a,SEXYCODE,sel,Evolucoes 9375000  0bd33d0a00000000 
+200805,124212,3c44638a,SEXYCODE,sel,Evolucoes 25312  032b2bfa00000000 
+200805,124213,3c44638a,SEXYCODE,sel,Evolucoes 60937  09f702512bea0000 
+200805,124214,3c44638a,SEXYCODE,sel,Evolucoes 25312  032b02312bea0000 
+200805,124216,3c44638a,SEXYCODE,sel,Evolucoes 25312  032b2bef022d0000 
+200805,124218,3c44638a,SEXYCODE,sel,Evolucoes 25312  032b022d2be60000 
+200805,124219,3c44638a,SEXYCODE,sel,Evolucoes 25312  032b02312beb0000 
+200805,124222,3c44638a,SEXYCODE,inv,DeleteItem 413 
+200805,124250,595580b1,HORUS,sta,177.128.85.89 31DB0041C1AD45BF9ADFB00449613066 3 - 0 -1957410969 (492) 
+200805,124315,595580b1,HORUS,sys,set citizen 31-43:0 86:1 28:0 
+200805,124315,595580b1,HORUS,sta,Login char:Horus exp:0 level:0 conn:3 money:0, store:0 
+200805,124315,595580b1,HORUS,etc,townspeople 31-43:0 86:1 28:1 
+200805,124358,189cd2ba,[PUNI] - Set Item Carry [1656 43:253:2:120:3:120],-system 
+200805,124431,189cd2ba,[PUNI] - Set Item Carry [1657 43:253:2:120:3:120],-system 
+200805,124438,595580b1,Horus - Set Item Carry [4027 0:0:0:0:0:0],-system 
+200805,124438,189cd2ba,[PUNI] - Set Item Carry [1658 43:253:2:120:3:120],-system 
+200805,124440,595580b1,HORUS,etc,use silver coin 4027 - 0, 5000000 
+200805,124444,189cd2ba,[PUNI] - Set Item Carry [1659 43:253:2:120:3:120],-system 
+200805,124447,595580b1,Horus - Set Item Carry [4030 0:0:0:0:0:0],-system 
+200805,124450,595580b1,HORUS,inv,DeleteItem 4030 
+200805,124453,595580b1,Horus - Set Item Carry [4028 0:0:0:0:0:0],-system 
+200805,124453,595580b1,HORUS,etc,use silver coin 4028 - 5000000, 15000000 
+200805,124456,595580b1,Horus - Set Item Carry [4029 0:0:0:0:0:0],-system 
+200805,124457,595580b1,HORUS,etc,use silver coin 4029 - 15000000, 65000000 
+200805,124459,595580b1,Horus - Set Item Carry [4029 61:120:0:0:0:0],-system 
+200805,124500,595580b1,HORUS,etc,use silver coin 4029 - 65000000, 115000000 
+200805,124500,595580b1,HORUS,etc,use silver coin 4029 - 115000000, 165000000 
+200805,124500,595580b1,HORUS,etc,use silver coin 4029 - 165000000, 215000000 
+200805,124500,595580b1,HORUS,etc,use silver coin 4029 - 215000000, 265000000 
+200805,124501,595580b1,HORUS,etc,use silver coin 4029 - 265000000, 315000000 
+200805,124501,595580b1,HORUS,etc,use silver coin 4029 - 315000000, 365000000 
+200805,124501,595580b1,HORUS,etc,use silver coin 4029 - 365000000, 415000000 
+200805,124501,595580b1,HORUS,etc,use silver coin 4029 - 415000000, 465000000 
+200805,124502,595580b1,HORUS,etc,use silver coin 4029 - 465000000, 515000000 
+200805,124502,595580b1,HORUS,etc,use silver coin 4029 - 515000000, 565000000 
+200805,124502,595580b1,HORUS,etc,use silver coin 4029 - 565000000, 615000000 
+200805,124502,595580b1,HORUS,etc,use silver coin 4029 - 615000000, 665000000 
+200805,124502,595580b1,HORUS,etc,use silver coin 4029 - 665000000, 715000000 
+200805,124503,595580b1,HORUS,etc,use silver coin 4029 - 715000000, 765000000 
+200805,124503,595580b1,HORUS,etc,use silver coin 4029 - 765000000, 815000000 
+200805,124503,595580b1,HORUS,etc,use silver coin 4029 - 815000000, 865000000 
+200805,124503,595580b1,HORUS,etc,use silver coin 4029 - 865000000, 915000000 
+200805,124503,595580b1,HORUS,etc,use silver coin 4029 - 915000000, 965000000 
+200805,124504,595580b1,HORUS,etc,use silver coin 4029 - 965000000, 1015000000 
+200805,124504,595580b1,HORUS,etc,use silver coin 4029 - 1015000000, 1065000000 
+200805,124504,595580b1,HORUS,etc,use silver coin 4029 - 1065000000, 1115000000 
+200805,124504,595580b1,HORUS,etc,use silver coin 4029 - 1115000000, 1165000000 
+200805,124504,595580b1,HORUS,etc,use silver coin 4029 - 1165000000, 1215000000 
+200805,124505,595580b1,HORUS,etc,use silver coin 4029 - 1215000000, 1265000000 
+200805,124505,595580b1,HORUS,etc,use silver coin 4029 - 1265000000, 1315000000 
+200805,124505,595580b1,HORUS,etc,use silver coin 4029 - 1315000000, 1365000000 
+200805,124505,595580b1,HORUS,etc,use silver coin 4029 - 1365000000, 1415000000 
+200805,124505,595580b1,HORUS,etc,use silver coin 4029 - 1415000000, 1465000000 
+200805,124506,595580b1,HORUS,etc,use silver coin 4029 - 1465000000, 1515000000 
+200805,124506,595580b1,HORUS,etc,use silver coin 4029 - 1515000000, 1565000000 
+200805,124506,595580b1,HORUS,etc,use silver coin 4029 - 1565000000, 1615000000 
+200805,124506,595580b1,HORUS,etc,use silver coin 4029 - 1615000000, 1665000000 
+200805,124507,595580b1,HORUS,etc,use silver coin 4029 - 1665000000, 1715000000 
+200805,124507,595580b1,HORUS,etc,use silver coin 4029 - 1715000000, 1765000000 
+200805,124507,595580b1,HORUS,etc,use silver coin 4029 - 1765000000, 1815000000 
+200805,124507,595580b1,HORUS,etc,use silver coin 4029 - 1815000000, 1865000000 
+200805,124507,595580b1,HORUS,etc,use silver coin 4029 - 1865000000, 1915000000 
+200805,124508,595580b1,HORUS,etc,use silver coin 4029 - 1915000000, 1965000000 
+200805,124509,595580b1,HORUS,inv,DeleteItem 4029 
+200805,124526,189cd2ba,[PUNI] - Set Item Carry [1506 43:253:2:120:3:120],-system 
+200805,124535,189cd2ba,[PUNI] - Set Item Carry [1507 43:253:2:120:3:120],-system 
+200805,124543,189cd2ba,[PUNI] - Set Item Carry [1508 43:253:2:120:3:120],-system 
+200805,124550,3c44638a,SexyCode - Set Item Carry [2491 43:250:2:45:0:0],-system 
+200805,124550,189cd2ba,[PUNI] - Set Item Carry [1509 43:253:2:120:3:120],-system 
+200805,124558,595580b1,HORUS,sys, Logout Char Horus money:1963125000, Store :0, conn:3  
+200805,124600,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Axe(Ancient) 
+200805,124600,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Axe(Ancient) sucess 
+200805,124604,595580b1,HORUS,sta,Login char:Horus exp:0 level:1010 conn:3 money:1963125000, store:0 
+200805,124618,189cd2ba,[PUNI] - Set Item Carry [1356 43:253:2:120:3:120],-system 
+200805,124637,189cd2ba,[PUNI] - Set Item Carry [1510 43:253:2:120:3:120],-system 
+200805,124642,189cd2ba,PUNISHER,inv,DeleteItem 1510 
+200805,124642,595580b1,HORUS,etc,mount resurrect from:10 to:8 - 2388 
+200805,124707,189cd2ba,[PUNI] - Set Item Carry [1357 43:253:2:120:3:120],-system 
+200805,124724,189cd2ba,[PUNI] - Set Item Carry [1358 43:253:2:120:3:120],-system 
+200805,124730,189cd2ba,[PUNI] - Set Item Carry [1359 43:253:2:120:3:120],-system 
+200805,124811,00000000,-system,not [PUNI] acaba de adquirir Ariel_Breast 
+200805,124811,00000000,AlquimistaOdim,[PUNI] comp Ariel_Breast sucess 
+200805,124840,00000000,-system,not [PUNI] acaba de adquirir Ariel_Boots 
+200805,124840,00000000,AlquimistaOdim,[PUNI] comp Ariel_Boots sucess 
+200805,124900,00000000,-system,not [PUNI] acaba de adquirir Ariel_Pants 
+200805,124900,00000000,AlquimistaOdim,[PUNI] comp Ariel_Pants sucess 
+200805,124900,3c44638a,SexyCode - Set Item Carry [1711 43:250:0:0:0:0],-system 
+200805,124919,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Shield 
+200805,124919,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Shield sucess 
+200805,125007,00000000,-system,not [PUNI] acaba de adquirir Ariel_Brace 
+200805,125007,00000000,AlquimistaOdim,[PUNI] comp Ariel_Brace sucess 
+200805,125013,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125014,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125017,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125018,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125021,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125022,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125024,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125025,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125026,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125027,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125029,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125031,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125033,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125042,00000000,-system,not [PUNI] acaba de adquirir Oread_Breastplate 
+200805,125042,00000000,AlquimistaOdim,[PUNI] comp Oread_Breastplate sucess 
+200805,125107,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125109,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (1713)Baldr_Of_Shield -Sucess 
+200805,125115,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125117,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125118,595580b1,HORUS,sel,Armas Celestial 16500  06872b0900000000 
+200805,125118,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125120,595580b1,HORUS,sel,Armas Celestial 16687  06852b0900000000 
+200805,125120,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125121,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125121,595580b1,HORUS,sel,Armas Celestial 16687  06862b0900000000 
+200805,125122,595580b1,HORUS,sel,Armas Celestial 16312  06882b0900000000 
+200805,125123,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125124,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125221,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125223,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125224,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125226,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125229,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125232,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125235,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125237,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3605)Baldr_Of_Axe(Ancient) -Sucess 
+200805,125250,3c44638a,SexyCode - Set Item Carry [413 43:120:0:0:0:0],-system 
+200805,125257,3c44638a,SexyCode - Set Item Carry [413 61:120:0:0:0:0],-system 
+200805,125300,00000000,-system,not [PUNI] acaba de adquirir Oread_Boots 
+200805,125300,00000000,AlquimistaOdim,[PUNI] comp Oread_Boots sucess 
+200805,125313,3c44638a,SEXYCODE,inv,DeleteItem 413 
+200805,125316,3c44638a,SexyCode - Set Item Carry [413 61:120:0:0:0:0],-system 
+200805,125324,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125326,00000000,-system,not [PUNI] acaba de adquirir Oread_Pants 
+200805,125326,00000000,AlquimistaOdim,[PUNI] comp Oread_Pants sucess 
+200805,125326,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125327,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125329,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125330,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125335,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125337,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125339,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125342,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3625)Baldr_Of_Bow(Ancient) -Sucess 
+200805,125351,00000000,-system,not [PUNI] acaba de adquirir Oread_Gloves 
+200805,125351,00000000,AlquimistaOdim,[PUNI] comp Oread_Gloves sucess 
+200805,125403,595580b1,Horus - Set Item Carry [1711 43:249:0:0:0:0],-system 
+200805,125406,595580b1,HORUS,inv,DeleteItem 1711 
+200805,125408,595580b1,Horus - Set Item Carry [1711 43:254:0:0:0:0],-system 
+200805,125410,00000000,-system,not [PUNI] acaba de adquirir Naiad_Tunic 
+200805,125410,00000000,AlquimistaOdim,[PUNI] comp Naiad_Tunic sucess 
+200805,125412,595580b1,HORUS,inv,DeleteItem 1711 
+200805,125413,595580b1,Horus - Set Item Carry [1711 43:253:0:0:0:0],-system 
+200805,125510,00000000,-system,not Horus acaba de adquirir Baldr_Of_Shield 
+200805,125510,00000000,AlquimistaOdim,Horus comp Baldr_Of_Shield sucess 
+200805,125518,595580b1,HORUS,inv,DeleteItem 1909 
+200805,125519,595580b1,HORUS,inv,DeleteItem 1910 
+200805,125519,595580b1,HORUS,inv,DeleteItem 1906 
+200805,125520,595580b1,HORUS,inv,DeleteItem 1907 
+200805,125522,595580b1,HORUS,inv,DeleteItem 1904 
+200805,125523,595580b1,HORUS,inv,DeleteItem 1905 
+200805,125524,595580b1,HORUS,inv,DeleteItem 1908 
+200805,125525,595580b1,HORUS,inv,DeleteItem 1903 
+200805,125527,595580b1,HORUS,inv,DeleteItem 1901 
+200805,125614,595580b1,Horus - Set Item Carry [2551 2:63:43:234:0:0],-system 
+200805,125616,3c44638a,SEXYCODE,sel,Evolucoes 0  0d8b000000000000 
+200805,125619,595580b1,Horus - Set Item Carry [2551 2:63:43:253:0:0],-system 
+200805,125621,595580b1,HORUS,inv,DeleteItem 2551 
+200805,125622,00000000,-system,not [PUNI] acaba de adquirir Naiad_Boots 
+200805,125622,00000000,AlquimistaOdim,[PUNI] comp Naiad_Boots sucess 
+200805,125634,3c44638a,SEXYCODE,inv,DeleteItem 412 
+200805,125646,00000000,-system,not Horus acaba de adquirir Baldr_Of_Bow(Ancient) 
+200805,125646,00000000,AlquimistaOdim,Horus comp Baldr_Of_Bow(Ancient) sucess 
+200805,125652,00000000,-system,not [PUNI] acaba de adquirir Naiad_Pants 
+200805,125652,00000000,AlquimistaOdim,[PUNI] comp Naiad_Pants sucess 
+200805,125710,595580b1,HORUS,inv,DeleteItem 3625 
+200805,125714,3c44638a,SEXYCODE,sel,Evolucoes3 0  0fcb2b0900000000 
+200805,125715,3c44638a,SEXYCODE,sel,Evolucoes3 0  0fcb2b0900000000 
+200805,125716,3c44638a,SEXYCODE,sel,Evolucoes3 0  0fcb2b0900000000 
+200805,125717,3c44638a,SEXYCODE,sel,Evolucoes3 0  0fcb2b0900000000 
+200805,125719,3c44638a,SEXYCODE,sel,Evolucoes3 0  0fcb2b0900000000 
+200805,125721,3c44638a,SEXYCODE,sel,Evolucoes3 0  0d0a2b0900000000 
+200805,125722,3c44638a,SEXYCODE,sel,Evolucoes3 0  0d0a2b0900000000 
+200805,125726,00000000,-system,not [PUNI] acaba de adquirir Naiad_Gloves 
+200805,125726,00000000,AlquimistaOdim,[PUNI] comp Naiad_Gloves sucess 
+200805,125730,3c44638a,SEXYCODE,sel,Evolucoes3 0  0d0a2b0900000000 
+200805,125733,3c44638a,SEXYCODE,sel,Evolucoes3 0  0d0a2b0900000000 
+200805,125735,3c44638a,SEXYCODE,sel,Evolucoes3 0  0d0a2b0900000000 
+200805,125807,595580b1,Horus - Set Item Carry [2491 43:234:0:0:0:0],-system 
+200805,125813,189cd2ba,[PUNI] - Set Item Carry [1221 43:253:2:120:3:120],-system 
+200805,125814,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,125817,595580b1,Horus - Set Item Carry [2491 2:63:43:253:0:0],-system 
+200805,125819,595580b1,HORUS,inv,DeleteItem 2491 
+200805,125821,595580b1,HORUS,inv,DeleteItem 2491 
+200805,125824,189cd2ba,[PUNI] - Set Item Carry [1222 43:253:2:120:3:120],-system 
+200805,125829,00000000,-system,not Horus acaba de adquirir Baldr_Of_Axe(Ancient) 
+200805,125829,00000000,AlquimistaOdim,Horus comp Baldr_Of_Axe(Ancient) sucess 
+200805,125831,189cd2ba,[PUNI] - Set Item Carry [1223 43:253:2:120:3:120],-system 
+200805,125831,3c44638a,SexyCode - Set Item Carry [3645 43:250:2:45:0:0],-system 
+200805,125833,595580b1,HORUS,inv,DeleteItem 3605 
+200805,125846,189cd2ba,[PUNI] - Set Item Carry [1224 43:253:2:120:3:120],-system 
+200805,125923,3c44638a,SEXYCODE,inv,DeleteItem 3645 
+200805,125926,3c44638a,SexyCode - Set Item Carry [0 0:0:0:0:0:0],-system 
+200805,125934,3c44638a,SexyCode - Set Item Carry [2611 43:250:2:45:0:0],-system 
+200805,125945,00000000,-system,not [PUNI] acaba de adquirir Pheonix_Breastplate 
+200805,125945,00000000,AlquimistaOdim,[PUNI] comp Pheonix_Breastplate sucess 
+200805,125952,595580b1,Horus - Set Item Carry [2671 60:28:43:243:0:0],-system 
+200805,125959,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Claw(Ancient) 
+200805,125959,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Claw(Ancient) sucess 
+200805,130000,00000000,-system,not [PUNI] acaba de adquirir Pheonix_Pants 
+200805,130000,00000000,AlquimistaOdim,[PUNI] comp Pheonix_Pants sucess 
+200805,130000,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200805,130000,00000000,-system,sys,town tax report: 4733352 0 80909 5203785 33554710 -Exp : 0 
+200805,130008,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130010,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130012,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130013,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130014,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130017,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130018,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130019,00000000,-system,not [PUNI] acaba de adquirir Pheonix_Gloves 
+200805,130019,00000000,AlquimistaOdim,[PUNI] comp Pheonix_Gloves sucess 
+200805,130019,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130021,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130022,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130024,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130026,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130027,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130028,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130029,595580b1,Horus - Set Item Carry [2731 2:63:43:243:0:0],-system 
+200805,130029,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3645)Baldr_Of_Claw(Ancient) -Sucess 
+200805,130033,00000000,-system,not [PUNI] acaba de adquirir Pheonix_Boots 
+200805,130033,00000000,AlquimistaOdim,[PUNI] comp Pheonix_Boots sucess 
+200805,130114,595580b1,Horus - Set Item Carry [2791 43:243:0:0:0:0],-system 
+200805,130128,595580b1,Horus - Set Item Carry [2863 43:243:0:0:0:0],-system 
+200805,130139,595580b1,Horus - Set Item Carry [2859 43:243:0:0:0:0],-system 
+200805,130142,00000000,-system,NPC do not have his own grid 
+200805,130144,3c44638a,SexyCode - Set Item Carry [2731 43:250:2:45:0:0],-system 
+200805,130154,595580b1,Horus - Set Item Carry [2895 43:243:0:0:0:0],-system 
+200805,130205,595580b1,Horus - Set Item Carry [2935 43:243:0:0:0:0],-system 
+200805,130232,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Shard(Ancient) 
+200805,130232,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Shard(Ancient) sucess 
+200805,130238,595580b1,Horus - Set Item Carry [2611 43:243:0:0:0:0],-system 
+200805,130241,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130242,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130244,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130245,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130246,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130247,595580b1,Horus - Set Item Carry [2611 43:253:0:0:0:0],-system 
+200805,130248,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130249,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130250,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130251,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130253,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130253,595580b1,HORUS,inv,DeleteItem 2611 
+200805,130254,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130255,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130256,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130257,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130258,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3685)Baldr_Of_Shard(Ancient) -Sucess 
+200805,130300,00000000,-system,not Horus acaba de adquirir Baldr_Of_Claw(Ancient) 
+200805,130300,00000000,AlquimistaOdim,Horus comp Baldr_Of_Claw(Ancient) sucess 
+200805,130303,595580b1,HORUS,inv,DeleteItem 3645 
+200805,130309,595580b1,HORUS,inv,DeleteItem 2895 
+200805,130309,595580b1,HORUS,inv,DeleteItem 2859 
+200805,130310,595580b1,HORUS,inv,DeleteItem 2791 
+200805,130311,595580b1,HORUS,inv,DeleteItem 2731 
+200805,130312,595580b1,HORUS,inv,DeleteItem 2671 
+200805,130313,595580b1,HORUS,inv,DeleteItem 2863 
+200805,130313,595580b1,HORUS,inv,DeleteItem 2935 
+200805,130320,189cd2ba,PUNISHER,ref,Rune Combine Fail 
+200805,130351,595580b1,Horus - Set Item Carry [2671 43:253:0:0:0:0],-system 
+200805,130358,00000000,-system,not Horus acaba de adquirir Baldr_Of_Spear(Ancient) 
+200805,130358,00000000,AlquimistaOdim,Horus comp Baldr_Of_Spear(Ancient) sucess 
+200805,130400,189cd2ba,PUNISHER,ref,Rune Combine Complleted 
+200805,130402,595580b1,HORUS,inv,DeleteItem 3665 
+200805,130422,595580b1,Horus - Set Item Carry [2731 43:253:0:0:0:0],-system 
+200805,130434,595580b1,HORUS,inv,DeleteItem 1904 
+200805,130511,00000000,-system,not Horus acaba de adquirir Baldr_Of_Shard(Ancient) 
+200805,130511,00000000,AlquimistaOdim,Horus comp Baldr_Of_Shard(Ancient) sucess 
+200805,130515,595580b1,HORUS,inv,DeleteItem 3685 
+200805,130535,595580b1,Horus - Set Item Carry [2791 43:253:0:0:0:0],-system 
+200805,130546,595580b1,Horus - Set Item Carry [2863 43:253:0:0:0:0],-system 
+200805,130555,595580b1,Horus - Set Item Carry [2859 43:253:0:0:0:0],-system 
+200805,130607,595580b1,Horus - Set Item Carry [2895 43:253:0:0:0:0],-system 
+200805,130617,595580b1,HORUS,adm,+item 2935 43 253 
+200805,130625,3c44638a,SexyCode - Set Item Carry [2791 43:250:2:45:0:0],-system 
+200805,130631,595580b1,Horus - Set Item Carry [2935 43:253:0:0:0:0],-system 
+200805,130642,595580b1,Horus - Set Item Carry [2491 43:253:0:0:0:0],-system 
+200805,130648,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Cross(Ancient) 
+200805,130648,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Cross(Ancient) sucess 
+200805,130656,00000000,-system,not Horus acaba de adquirir Baldr_Of_Cross(Ancient) 
+200805,130656,00000000,AlquimistaOdim,Horus comp Baldr_Of_Cross(Ancient) sucess 
+200805,130657,189cd2ba,PUNISHER,sel,Set +10 17800  04c52be600000000 
+200805,130658,189cd2ba,PUNISHER,sel,Set +10 17800  04c62be600000000 
+200805,130659,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130659,189cd2ba,PUNISHER,sel,Set +10 17400  04c82be600000000 
+200805,130700,189cd2ba,PUNISHER,sel,Set +10 17600  04c72be600000000 
+200805,130701,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130702,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130704,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130705,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130706,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130709,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130710,00000000,-system,not Horus acaba de adquirir Baldr_Of_Rune_Rod(Ancient) 
+200805,130710,00000000,AlquimistaOdim,Horus comp Baldr_Of_Rune_Rod(Ancient) sucess 
+200805,130711,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130712,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130713,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130714,189cd2ba,PUNISHER,ref,refine success 1657+14 - (413-120,0,0) <43 -22 0 0 0 0> 
+200805,130715,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130716,189cd2ba,PUNISHER,ref,refine success 1658+14 - (413-119,0,0) <43 -22 0 0 0 0> 
+200805,130716,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130717,189cd2ba,PUNISHER,ref,refine success 1656+14 - (413-118,0,0) <43 -22 0 0 0 0> 
+200805,130717,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130719,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130719,00000000,-system,not Horus acaba de adquirir Baldr_Of_Zen_Rod(Ancient) 
+200805,130719,00000000,AlquimistaOdim,Horus comp Baldr_Of_Zen_Rod(Ancient) sucess 
+200805,130720,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3705)Baldr_Of_Cross(Ancient) -Sucess 
+200805,130724,595580b1,HORUS,inv,DeleteItem 3733 
+200805,130725,595580b1,HORUS,inv,DeleteItem 3729 
+200805,130727,595580b1,HORUS,inv,DeleteItem 3705 
+200805,130748,3c44638a,SexyCode - Set Item Carry [2859 43:250:2:45:0:0],-system 
+200805,130810,00000000,-system,not Horus acaba de adquirir Baldr_Of_Breaker(Ancient) 
+200805,130810,00000000,AlquimistaOdim,Horus comp Baldr_Of_Breaker(Ancient) sucess 
+200805,130820,00000000,-system,not Horus acaba de adquirir Baldr_Of_Hammer(Ancient) 
+200805,130820,00000000,AlquimistaOdim,Horus comp Baldr_Of_Hammer(Ancient) sucess 
+200805,130826,00000000,-system,not Horus acaba de adquirir Baldr_Of_Axe(Ancient) 
+200805,130826,00000000,AlquimistaOdim,Horus comp Baldr_Of_Axe(Ancient) sucess 
+200805,130828,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Rune_Rod(Ancient) 
+200805,130828,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Rune_Rod(Ancient) sucess 
+200805,130833,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130834,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130835,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130836,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130837,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130839,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130840,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130842,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3729)Baldr_Of_Rune_Rod(Ancient) -Sucess 
+200805,130846,595580b1,HORUS,inv,DeleteItem 3785 
+200805,130848,595580b1,HORUS,inv,DeleteItem 3765 
+200805,130849,595580b1,HORUS,inv,DeleteItem 3605 
+200805,130902,189cd2ba,PUNISHER,ref, Combine fail 12item 1656-(43,-22,0,0,0,0) after 1656-(43,-26,0,0,0,0) 
+200805,131135,3c44638a,SexyCode - Set Item Carry [2863 43:250:2:45:0:0],-system 
+200805,131158,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Zen_Rod(Ancient) 
+200805,131158,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Zen_Rod(Ancient) sucess 
+200805,131205,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131208,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131209,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131210,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131214,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131216,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131217,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131218,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131219,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131220,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131221,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131223,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131224,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131225,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131226,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3733)Baldr_Of_Zen_Rod(Ancient) -Sucess 
+200805,131232,189cd2ba,PUNISHER,ref,refine success 1656+14 - (413-117,0,0) <43 -22 0 0 0 0> 
+200805,131248,595580b1,Horus - Set Item Carry [2491 43:234:0:0:0:0],-system 
+200805,131249,595580b1,Horus - Set Item Carry [2491 43:234:0:0:0:0],-system 
+200805,131250,595580b1,Horus - Set Item Carry [2491 43:234:0:0:0:0],-system 
+200805,131250,595580b1,Horus - Set Item Carry [2491 43:234:0:0:0:0],-system 
+200805,131303,189cd2ba,PUNISHER,ref, Combine 12item 1656-(43,-22,0,0,0,0) after 1656-(43,-18,0,0,0,0) 
+200805,131303,00000000,system,+notice !!!  
+200805,131303,00000000,system,adm,+notice !!!  
+200805,131303,00000000,-system,not  !!!  
+200805,131318,3c44638a,SexyCode - Set Item Carry [2895 43:250:2:45:0:0],-system 
+200805,131320,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131321,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131322,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131324,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131326,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131328,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131331,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131332,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131344,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131347,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131347,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Breaker(Ancient) 
+200805,131347,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Breaker(Ancient) sucess 
+200805,131347,189cd2ba,PUNISHER,ref, Combine 12item 1656-(43,-18,0,0,0,0) after 1656-(43,-14,0,0,0,0) 
+200805,131347,00000000,system,+notice !!!  
+200805,131347,00000000,system,adm,+notice !!!  
+200805,131347,00000000,-system,not  !!!  
+200805,131348,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131350,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131400,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131403,595580b1,HORUS,ref, Combine fail 12item 2491-(43,-22,0,0,0,0) after 2491-(43,-26,0,0,0,0) 
+200805,131403,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131405,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131407,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131408,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131410,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131412,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131412,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131413,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131414,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131414,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131415,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131415,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131416,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131418,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131419,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131421,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131423,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131423,189cd2ba,PUNISHER,sel,Evolucoes 0  0d0a2b0900000000 
+200805,131424,595580b1,HORUS,ref, Combine fail 12item 2491-(43,-22,0,0,0,0) after 2491-(43,-26,0,0,0,0) 
+200805,131425,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131427,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3765)Baldr_Of_Breaker(Ancient) -Sucess 
+200805,131427,189cd2ba,PUNISHER,sel,Evolucoes 0  0d0a2b0900000000 
+200805,131427,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131428,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131429,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131430,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131431,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131438,595580b1,HORUS,ref, Combine 12item 2491-(43,-22,0,0,0,0) after 2491-(43,-18,0,0,0,0) 
+200805,131438,00000000,system,+notice !!!  
+200805,131438,00000000,system,adm,+notice !!!  
+200805,131438,00000000,-system,not  !!!  
+200805,131441,189cd2ba,PUNISHER,ref, Combine 12item 1656-(43,-14,0,0,0,0) after 1656-(43,-10,0,0,0,0) 
+200805,131441,00000000,system,+notice !!!  
+200805,131441,00000000,system,adm,+notice !!!  
+200805,131441,00000000,-system,not  !!!  
+200805,131448,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131449,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131450,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131450,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131500,189cd2ba,PUNISHER,ref, Combine 12item 1656-(43,-10,0,0,0,0) after 1656-(43,-6,0,0,0,0) 
+200805,131501,00000000,system,+notice !!!  
+200805,131501,00000000,system,adm,+notice !!!  
+200805,131501,00000000,-system,not  !!!  
+200805,131505,595580b1,HORUS,ref, Combine fail 12item 2491-(43,-18,0,0,0,0) after 2491-(43,-22,0,0,0,0) 
+200805,131508,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131510,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131515,3c44638a,SexyCode - Set Item Carry [2935 43:250:2:45:0:0],-system 
+200805,131540,595580b1,Horus - Set Item Carry [2491 2:63:43:253:0:0],-system 
+200805,131547,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131550,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131552,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131556,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131558,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131601,189cd2ba,[PUNI] - Set Item Carry [1656 43:237:2:120:3:120],-system 
+200805,131601,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131605,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131607,595580b1,Horus - Set Item Carry [2491 2:63:43:234:0:0],-system 
+200805,131615,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Hammer(Ancient) 
+200805,131615,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Hammer(Ancient) sucess 
+200805,131617,189cd2ba,PUNISHER,ref, Combine 12item 1656-(43,-19,2,120,3,120) after 1656-(43,-15,2,120,3,120) 
+200805,131617,00000000,system,+notice !!!  
+200805,131617,00000000,system,adm,+notice !!!  
+200805,131617,00000000,-system,not  !!!  
+200805,131622,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131623,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131624,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131625,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131626,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131627,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131628,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131628,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131629,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131629,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131630,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131630,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131631,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131632,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131633,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131633,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131634,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131634,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131635,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131639,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131641,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131641,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131642,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131643,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131643,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131644,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131645,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131645,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131646,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,131647,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3785)Baldr_Of_Hammer(Ancient) -Sucess 
+200805,131653,189cd2ba,PUNISHER,inv,DeleteItem 1656 
+200805,131658,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131702,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131704,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131705,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131718,595580b1,HORUS,ref, Combine 12item 2491-(2,63,43,-22,0,0) after 2491-(2,67,43,-22,0,0) 
+200805,131718,00000000,system,+notice !!!  
+200805,131718,00000000,system,adm,+notice !!!  
+200805,131718,00000000,-system,not  !!!  
+200805,131732,189cd2ba,PUNISHER,sel,Evolucoes 1000  055e2bfd02780378 
+200805,131735,189cd2ba,PUNISHER,sel,Evolucoes 1000  055d2bfd02780378 
+200805,131736,189cd2ba,PUNISHER,sel,Evolucoes 1000  05602bfd02780378 
+200805,131738,189cd2ba,PUNISHER,sel,Evolucoes 1000  055f2bfd02780378 
+200805,131744,3c44638a,SexyCode - Set Item Carry [2671 43:250:2:60:20:0],-system 
+200805,131752,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131753,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131754,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131755,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131802,00000000,-system,not SexyCode acaba de adquirir Baldr_Of_Spear(Ancient) 
+200805,131802,00000000,AlquimistaOdim,SexyCode comp Baldr_Of_Spear(Ancient) sucess 
+200805,131806,189cd2ba,PUNISHER,ref, Combine fail 12item 1658-(43,-22,0,0,0,0) after 1658-(43,-26,0,0,0,0) 
+200805,131806,595580b1,HORUS,ref, Combine 12item 2491-(2,67,43,-22,0,0) after 2491-(2,71,43,-22,0,0) 
+200805,131806,00000000,system,+notice !!!  
+200805,131806,00000000,system,adm,+notice !!!  
+200805,131806,00000000,-system,not  !!!  
+200805,131808,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 0 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131810,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 1 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131812,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 2 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131820,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131821,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 3 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131821,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131822,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 4 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131823,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131823,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 5 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131824,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131824,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 6 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131827,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 7 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131828,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 8 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131833,595580b1,HORUS,ref, Combine 12item 2491-(2,71,43,-22,0,0) after 2491-(2,75,43,-22,0,0) 
+200805,131833,00000000,system,+notice !!!  
+200805,131833,00000000,system,adm,+notice !!!  
+200805,131833,00000000,-system,not  !!!  
+200805,131833,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 9 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131835,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 10 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131836,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 14 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131836,189cd2ba,PUNISHER,ref,refine success 1658+14 - (413-116,0,0) <43 -22 0 0 0 0> 
+200805,131838,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 18 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131839,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131840,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131848,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 22 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131848,189cd2ba,PUNISHER,ref, Combine 12item 1658-(43,-22,0,0,0,0) after 1658-(43,-18,0,0,0,0) 
+200805,131848,00000000,system,+notice !!!  
+200805,131848,00000000,system,adm,+notice !!!  
+200805,131848,00000000,-system,not  !!!  
+200805,131850,3c44638a,FixRefItemCele,SEXYCODE, SexyCode Ref 26 Item Cele (3665)Baldr_Of_Spear(Ancient) -Sucess 
+200805,131854,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131855,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131855,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131856,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131859,595580b1,HORUS,ref, Combine 12item 2491-(2,75,43,-22,0,0) after 2491-(2,79,43,-22,0,0) 
+200805,131859,00000000,system,+notice !!!  
+200805,131859,00000000,system,adm,+notice !!!  
+200805,131859,00000000,-system,not  !!!  
+200805,131902,189cd2ba,PUNISHER,ref, Combine 12item 1658-(43,-18,0,0,0,0) after 1658-(43,-14,0,0,0,0) 
+200805,131902,00000000,system,+notice !!!  
+200805,131902,00000000,system,adm,+notice !!!  
+200805,131902,00000000,-system,not  !!!  
+200805,131907,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131907,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131908,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131909,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131915,595580b1,HORUS,ref, Combine 12item 2491-(2,79,43,-22,0,0) after 2491-(2,83,43,-22,0,0) 
+200805,131915,00000000,system,+notice !!!  
+200805,131915,00000000,system,adm,+notice !!!  
+200805,131915,00000000,-system,not  !!!  
+200805,131923,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131924,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131925,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131925,595580b1,HORUS,inv,DeleteItem 2491 
+200805,131929,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131931,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131932,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131932,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,131942,595580b1,HORUS,ref, Combine 12item 2491-(2,83,43,-22,0,0) after 2491-(2,87,43,-22,0,0) 
+200805,131942,00000000,system,+notice !!!  
+200805,131942,00000000,system,adm,+notice !!!  
+200805,131942,00000000,-system,not  !!!  
+200805,131952,189cd2ba,PUNISHER,ref, Combine 12item 1658-(43,-14,0,0,0,0) after 1658-(43,-10,0,0,0,0) 
+200805,131952,00000000,system,+notice !!!  
+200805,131952,00000000,system,adm,+notice !!!  
+200805,131952,00000000,-system,not  !!!  
+200805,132005,189cd2ba,PUNISHER,ref, Combine 12item 1658-(43,-10,0,0,0,0) after 1658-(43,-6,0,0,0,0) 
+200805,132005,00000000,system,+notice !!!  
+200805,132005,00000000,system,adm,+notice !!!  
+200805,132005,00000000,-system,not  !!!  
+200805,132026,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132027,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132028,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132028,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132030,189cd2ba,PUNISHER,ref, Combine fail 12item 1657-(43,-22,0,0,0,0) after 1657-(43,-26,0,0,0,0) 
+200805,132058,595580b1,Horus - Set Item Carry [43 253:2:63:0:0:0],-system 
+200805,132102,595580b1,HORUS,inv,DeleteItem 2491 
+200805,132106,3c44638a,SEXYCODE,pim,set primium bag :3467-2094 char:SexyCode 
+200805,132107,3c44638a,SEXYCODE,pim,set primium bag :3467-2094 char:SexyCode 
+200805,132112,595580b1,Horus - Set Item Carry [2491 43:253:2:63:0:0],-system 
+200805,132115,595580b1,HORUS,inv,DeleteItem 2491 
+200805,132122,595580b1,Horus - Set Item Carry [2491 43:233:2:63:0:0],-system 
+200805,132128,595580b1,Horus - Set Item Carry [2491 43:234:2:63:0:0],-system 
+200805,132130,595580b1,HORUS,inv,DeleteItem 2491 
+200805,132139,595580b1,HORUS,ref, Combine 12item 2491-(43,-22,2,63,0,0) after 2491-(43,-18,2,63,0,0) 
+200805,132139,00000000,system,+notice !!!  
+200805,132139,00000000,system,adm,+notice !!!  
+200805,132139,00000000,-system,not  !!!  
+200805,132247,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132304,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132305,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132305,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132319,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132320,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132330,595580b1,HORUS,ref, Combine fail 12item 2491-(43,-18,2,63,0,0) after 2491-(43,-22,2,63,0,0) 
+200805,132331,189cd2ba,[PUNI] - Set Item Carry [2388 100:127:127:127:127:127],-system 
+200805,132333,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132334,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132334,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132335,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132339,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132340,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132342,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132343,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132349,595580b1,HORUS,ref, Combine 12item 2491-(43,-22,2,63,0,0) after 2491-(43,-18,2,63,0,0) 
+200805,132349,00000000,system,+notice !!!  
+200805,132349,00000000,system,adm,+notice !!!  
+200805,132349,00000000,-system,not  !!!  
+200805,132353,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132354,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132355,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132356,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132401,595580b1,HORUS,ref, Combine 12item 2491-(43,-18,2,63,0,0) after 2491-(43,-14,2,63,0,0) 
+200805,132401,00000000,system,+notice !!!  
+200805,132401,00000000,system,adm,+notice !!!  
+200805,132401,00000000,-system,not  !!!  
+200805,132401,189cd2ba,[PUNI] - Set Item Carry [2364 100:127:127:127:127:127],-system 
+200805,132404,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132405,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132406,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132407,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132408,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132409,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132410,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132411,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132412,189cd2ba,PUNISHER,ref,refine success 1657+14 - (413-115,0,0) <43 -22 0 0 0 0> 
+200805,132417,595580b1,HORUS,ref, Combine 12item 2491-(43,-14,2,63,0,0) after 2491-(43,-10,2,63,0,0) 
+200805,132417,00000000,system,+notice !!!  
+200805,132417,00000000,system,adm,+notice !!!  
+200805,132417,00000000,-system,not  !!!  
+200805,132422,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132423,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132424,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132425,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132426,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132427,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132434,595580b1,HORUS,ref, Combine 12item 2491-(43,-10,2,63,0,0) after 2491-(43,-6,2,63,0,0) 
+200805,132434,00000000,system,+notice !!!  
+200805,132434,00000000,system,adm,+notice !!!  
+200805,132434,00000000,-system,not  !!!  
+200805,132501,595580b1,HORUS,inv,DeleteItem 2491 
+200805,132506,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132507,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132535,3c44638a,SexyCode - Set Item Carry [3467 0:0:0:0:0:0],-system 
+200805,132536,3c44638a,SexyCode - Set Item Carry [3467 0:0:0:0:0:0],-system 
+200805,132539,3c44638a,SexyCode - Set Item Carry [3467 0:0:0:0:0:0],-system 
+200805,132539,3c44638a,SexyCode - Set Item Carry [3467 0:0:0:0:0:0],-system 
+200805,132549,3c44638a,SEXYCODE,tra,HORUS 0 0d8b000000000000 0d8b000000000000 
+200805,132551,595580b1,HORUS,pim,set primium bag :3467-2094 char:Horus 
+200805,132551,595580b1,HORUS,pim,set primium bag :3467-2094 char:Horus 
+200805,132741,189cd2ba,PUNISHER,inv,DeleteItem 1659 
+200805,132743,189cd2ba,PUNISHER,inv,DeleteItem 1657 
+200805,132744,189cd2ba,PUNISHER,inv,DeleteItem 1658 
+200805,132746,189cd2ba,PUNISHER,inv,DeleteItem 1656 
+200805,132801,595580b1,Horus - Set Item Carry [2935 43:234:2:60:0:0],-system 
+200805,132812,595580b1,Horus - Set Item Carry [2935 43:234:2:60:0:0],-system 
+200805,132812,595580b1,Horus - Set Item Carry [2935 43:234:2:60:0:0],-system 
+200805,132824,595580b1,Horus - Set Item Carry [5053 0:0:0:0:0:0],-system 
+200805,132833,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132835,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132836,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132910,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132912,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132912,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132920,595580b1,HORUS,ref, Combine fail 12item 2935-(43,-22,2,60,0,0) after 2935-(43,-26,2,60,0,0) 
+200805,132923,595580b1,HORUS,inv,DeleteItem 2935 
+200805,132924,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132925,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132926,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132926,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132932,595580b1,HORUS,ref, Combine fail 12item 2935-(43,-22,2,60,0,0) after 2935-(43,-26,2,60,0,0) 
+200805,132936,595580b1,HORUS,inv,DeleteItem 2935 
+200805,132938,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132938,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132939,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132940,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132942,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132943,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132948,595580b1,HORUS,ref, Combine 12item 2935-(43,-22,2,60,0,0) after 2935-(43,-18,2,60,0,0) 
+200805,132948,00000000,system,+notice !!!  
+200805,132948,00000000,system,adm,+notice !!!  
+200805,132948,00000000,-system,not  !!!  
+200805,132951,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132952,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,132954,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132955,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132956,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,132956,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133002,595580b1,HORUS,ref, Combine 12item 2935-(43,-18,2,60,0,0) after 2935-(43,-14,2,60,0,0) 
+200805,133002,00000000,system,+notice !!!  
+200805,133002,00000000,system,adm,+notice !!!  
+200805,133002,00000000,-system,not  !!!  
+200805,133006,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133007,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133008,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133009,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133011,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133011,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133017,595580b1,HORUS,ref, Combine fail 12item 2935-(43,-14,2,60,0,0) after 2935-(43,-18,2,60,0,0) 
+200805,133020,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133021,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133022,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133023,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133027,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133028,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133033,595580b1,HORUS,ref, Combine 12item 2935-(43,-18,2,60,0,0) after 2935-(43,-14,2,60,0,0) 
+200805,133033,00000000,system,+notice !!!  
+200805,133033,00000000,system,adm,+notice !!!  
+200805,133033,00000000,-system,not  !!!  
+200805,133038,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133039,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133040,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133041,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133043,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133043,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133049,595580b1,HORUS,ref, Combine fail 12item 2935-(43,-14,2,60,0,0) after 2935-(43,-18,2,60,0,0) 
+200805,133053,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133054,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133056,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133056,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133057,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133058,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133106,595580b1,HORUS,ref, Combine 12item 2935-(43,-18,2,60,0,0) after 2935-(43,-14,2,60,0,0) 
+200805,133106,00000000,system,+notice !!!  
+200805,133106,00000000,system,adm,+notice !!!  
+200805,133106,00000000,-system,not  !!!  
+200805,133109,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133110,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133112,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133113,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133114,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133116,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133123,189cd2ba,[PUNI] - Set Item Carry [5120 0:0:0:0:0:0],-system 
+200805,133125,595580b1,HORUS,ref, Combine fail 12item 2935-(43,-14,2,60,0,0) after 2935-(43,-18,2,60,0,0) 
+200805,133136,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133137,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133138,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133139,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133142,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133143,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133149,595580b1,HORUS,ref, Combine 12item 2935-(43,-18,2,60,0,0) after 2935-(43,-14,2,60,0,0) 
+200805,133149,00000000,system,+notice !!!  
+200805,133149,00000000,system,adm,+notice !!!  
+200805,133149,00000000,-system,not  !!!  
+200805,133151,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133153,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133154,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133155,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133156,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133200,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133209,595580b1,HORUS,ref, Combine 12item 2935-(43,-14,2,60,0,0) after 2935-(43,-10,2,60,0,0) 
+200805,133209,00000000,system,+notice !!!  
+200805,133209,00000000,system,adm,+notice !!!  
+200805,133209,00000000,-system,not  !!!  
+200805,133213,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133214,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133215,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133216,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133217,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133220,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133221,189cd2ba,[PUNI] - Set Item Carry [5119 0:0:0:0:0:0],-system 
+200805,133226,595580b1,HORUS,ref, Combine 12item 2935-(43,-10,2,60,0,0) after 2935-(43,-6,2,60,0,0) 
+200805,133226,00000000,system,+notice !!!  
+200805,133226,00000000,system,adm,+notice !!!  
+200805,133226,00000000,-system,not  !!!  
+200805,133230,595580b1,HORUS,inv,DeleteItem 2935 
+200805,133244,189cd2ba,PUNISHER,adm,+level 79 
+200805,133247,189cd2ba,PUNISHER,ref,Rune Combine Fail 
+200805,133254,595580b1,Horus - Set Item Carry [2895 43:234:2:60:0:0],-system 
+200805,133257,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133300,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133303,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133304,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133305,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133306,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133307,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133309,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133317,595580b1,HORUS,ref, Combine fail 12item 2895-(43,-22,2,60,0,0) after 2895-(43,-26,2,60,0,0) 
+200805,133322,595580b1,HORUS,inv,DeleteItem 2895 
+200805,133328,595580b1,Horus - Set Item Carry [2895 43:234:2:60:0:0],-system 
+200805,133330,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133332,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133334,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133336,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133342,595580b1,HORUS,ref, Combine fail 12item 2895-(43,-22,2,60,0,0) after 2895-(43,-26,2,60,0,0) 
+200805,133348,595580b1,HORUS,inv,DeleteItem 2895 
+200805,133349,595580b1,Horus - Set Item Carry [2895 43:234:2:60:0:0],-system 
+200805,133350,595580b1,Horus - Set Item Carry [2895 43:234:2:60:0:0],-system 
+200805,133350,595580b1,Horus - Set Item Carry [2895 43:234:2:60:0:0],-system 
+200805,133351,595580b1,Horus - Set Item Carry [2895 43:234:2:60:0:0],-system 
+200805,133355,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133357,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133358,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133359,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133414,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133415,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133421,595580b1,HORUS,ref, Combine 12item 2895-(43,-22,2,60,0,0) after 2895-(43,-18,2,60,0,0) 
+200805,133421,00000000,system,+notice !!!  
+200805,133421,00000000,system,adm,+notice !!!  
+200805,133421,00000000,-system,not  !!!  
+200805,133426,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133427,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133428,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133429,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133431,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133433,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133434,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133435,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133440,595580b1,HORUS,ref, Combine 12item 2895-(43,-18,2,60,0,0) after 2895-(43,-14,2,60,0,0) 
+200805,133440,00000000,system,+notice !!!  
+200805,133440,00000000,system,adm,+notice !!!  
+200805,133440,00000000,-system,not  !!!  
+200805,133443,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133444,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133446,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133446,189cd2ba,PUNISHER,sel,Evolucoes 0  0fcb2b0900000000 
+200805,133447,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133449,595580b1,HORUS,ref, Combine 12item 2895-(43,-14,2,60,0,0) after 2895-(43,-10,2,60,0,0) 
+200805,133449,00000000,system,+notice !!!  
+200805,133449,00000000,system,adm,+notice !!!  
+200805,133449,00000000,-system,not  !!!  
+200805,133453,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133454,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133455,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133456,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133457,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133458,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133459,189cd2ba,PUNISHER,adm,+level 89 
+200805,133502,595580b1,HORUS,ref, Combine fail 12item 2895-(43,-10,2,60,0,0) after 2895-(43,-14,2,60,0,0) 
+200805,133506,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133507,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133509,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133510,189cd2ba,PUNISHER,sys, Logout Char [PUNI] money:1704686389, Store :1911552, conn:2  
+200805,133510,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133510,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133513,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133514,189cd2ba,PUNISHER,sta,Login char:[PUNI] exp:569064 level:89 conn:2 money:1704686389, store:1911552 
+200805,133517,595580b1,HORUS,ref, Combine 12item 2895-(43,-14,2,60,0,0) after 2895-(43,-10,2,60,0,0) 
+200805,133517,00000000,system,+notice !!!  
+200805,133517,00000000,system,adm,+notice !!!  
+200805,133517,00000000,-system,not  !!!  
+200805,133519,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133520,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133522,189cd2ba,PUNISHER,etc,god_2 90 limit complete 
+200805,133522,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133523,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133524,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133525,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133532,595580b1,HORUS,ref, Combine 12item 2895-(43,-10,2,60,0,0) after 2895-(43,-6,2,60,0,0) 
+200805,133532,00000000,system,+notice !!!  
+200805,133532,00000000,system,adm,+notice !!!  
+200805,133532,00000000,-system,not  !!!  
+200805,133537,595580b1,HORUS,inv,DeleteItem 2895 
+200805,133539,595580b1,HORUS,inv,DeleteItem 2895 
+200805,133540,595580b1,HORUS,inv,DeleteItem 2895 
+200805,133540,595580b1,HORUS,inv,DeleteItem 2895 
+200805,133557,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133558,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133613,595580b1,Horus - Set Item Carry [2859 43:234:60:28:0:0],-system 
+200805,133615,595580b1,Horus - Set Item Carry [2859 43:234:60:28:0:0],-system 
+200805,133616,595580b1,Horus - Set Item Carry [2859 43:234:60:28:0:0],-system 
+200805,133617,595580b1,Horus - Set Item Carry [2859 43:234:60:28:0:0],-system 
+200805,133618,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133620,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133621,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133622,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133628,595580b1,HORUS,ref, Combine 12item 2859-(43,-22,60,28,0,0) after 2859-(43,-18,60,28,0,0) 
+200805,133628,00000000,system,+notice !!!  
+200805,133628,00000000,system,adm,+notice !!!  
+200805,133628,00000000,-system,not  !!!  
+200805,133632,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133633,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133634,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133635,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133637,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133638,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133646,595580b1,HORUS,ref, Combine fail 12item 2859-(43,-18,60,28,0,0) after 2859-(43,-22,60,28,0,0) 
+200805,133650,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133651,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133652,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133653,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133655,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133656,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133658,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133659,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133700,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133701,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133708,189cd2ba,PUNISHER,ref,fail,540,0,413,114 0 0 <43 0 0 0 0 0> 
+200805,133708,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-113,0,0) <43 10 0 0 0 0> 
+200805,133708,595580b1,HORUS,ref, Combine 12item 2859-(43,-22,60,28,0,0) after 2859-(43,-18,60,28,0,0) 
+200805,133708,00000000,system,+notice !!!  
+200805,133708,00000000,system,adm,+notice !!!  
+200805,133708,00000000,-system,not  !!!  
+200805,133708,189cd2ba,PUNISHER,ref,fail,540,0,413,113 0 0 <43 0 0 0 0 0> 
+200805,133708,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-112,0,0) <43 20 0 0 0 0> 
+200805,133709,189cd2ba,PUNISHER,ref,fail,540,0,413,112 0 0 <43 0 0 0 0 0> 
+200805,133709,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-111,0,0) <43 30 0 0 0 0> 
+200805,133710,189cd2ba,PUNISHER,ref,fail,540,0,413,111 0 0 <43 0 0 0 0 0> 
+200805,133710,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-110,0,0) <43 40 0 0 0 0> 
+200805,133710,189cd2ba,PUNISHER,ref,fail,540,0,413,110 0 0 <43 0 0 0 0 0> 
+200805,133710,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-109,0,0) <43 50 0 0 0 0> 
+200805,133711,189cd2ba,PUNISHER,ref,fail,540,0,413,109 0 0 <43 0 0 0 0 0> 
+200805,133711,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-108,0,0) <43 60 0 0 0 0> 
+200805,133712,189cd2ba,PUNISHER,ref,fail,540,0,413,108 0 0 <43 0 0 0 0 0> 
+200805,133712,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-107,0,0) <43 70 0 0 0 0> 
+200805,133712,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133712,189cd2ba,PUNISHER,ref,fail,540,0,413,107 0 0 <43 0 0 0 0 0> 
+200805,133712,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-106,0,0) <43 80 0 0 0 0> 
+200805,133713,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133713,189cd2ba,PUNISHER,ref,fail,540,0,413,106 0 0 <43 0 0 0 0 0> 
+200805,133713,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-105,0,0) <43 90 0 0 0 0> 
+200805,133714,189cd2ba,PUNISHER,ref,fail,540,0,413,105 0 0 <43 0 0 0 0 0> 
+200805,133714,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-104,0,0) <43 90 0 0 0 0> 
+200805,133714,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133715,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133716,189cd2ba,PUNISHER,ref,fail,540,0,413,104 0 0 <43 0 0 0 0 0> 
+200805,133716,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-103,0,0) <43 100 0 0 0 0> 
+200805,133716,189cd2ba,PUNISHER,ref,fail,540,0,413,103 0 0 <43 0 0 0 0 0> 
+200805,133716,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-102,0,0) <43 100 0 0 0 0> 
+200805,133717,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133717,189cd2ba,PUNISHER,ref,fail,540,0,413,102 0 0 <43 0 0 0 0 0> 
+200805,133717,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-101,0,0) <43 110 0 0 0 0> 
+200805,133718,189cd2ba,PUNISHER,ref,fail,540,0,413,101 0 0 <43 0 0 0 0 0> 
+200805,133718,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-100,0,0) <43 120 0 0 0 0> 
+200805,133718,189cd2ba,PUNISHER,ref,fail,540,0,413,100 0 0 <43 0 0 0 0 0> 
+200805,133718,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-99,0,0) <43 120 0 0 0 0> 
+200805,133719,595580b1,HORUS,ref, Combine 12item 2859-(43,-18,60,28,0,0) after 2859-(43,-14,60,28,0,0) 
+200805,133719,00000000,system,+notice !!!  
+200805,133719,00000000,system,adm,+notice !!!  
+200805,133719,00000000,-system,not  !!!  
+200805,133719,189cd2ba,PUNISHER,ref,fail,540,0,413,99 0 0 <43 0 0 0 0 0> 
+200805,133719,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-98,0,0) <43 -126 0 0 0 0> 
+200805,133720,189cd2ba,PUNISHER,ref,fail,540,0,413,98 0 0 <43 0 0 0 0 0> 
+200805,133720,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-97,0,0) <43 -126 0 0 0 0> 
+200805,133720,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133721,189cd2ba,PUNISHER,ref,fail,540,0,413,97 0 0 <43 0 0 0 0 0> 
+200805,133721,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-96,0,0) <43 -116 0 0 0 0> 
+200805,133721,189cd2ba,PUNISHER,ref,fail,540,0,413,96 0 0 <43 0 0 0 0 0> 
+200805,133721,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-95,0,0) <43 -116 0 0 0 0> 
+200805,133722,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133723,189cd2ba,PUNISHER,ref,fail,540,0,413,95 0 0 <43 0 0 0 0 0> 
+200805,133723,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-94,0,0) <43 -106 0 0 0 0> 
+200805,133723,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133724,189cd2ba,PUNISHER,ref,fail,540,0,413,94 0 0 <43 0 0 0 0 0> 
+200805,133724,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-93,0,0) <43 -96 0 0 0 0> 
+200805,133724,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133726,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133727,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133729,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133731,595580b1,HORUS,ref, Combine 12item 2859-(43,-14,60,28,0,0) after 2859-(43,-10,60,28,0,0) 
+200805,133731,00000000,system,+notice !!!  
+200805,133731,00000000,system,adm,+notice !!!  
+200805,133731,00000000,-system,not  !!!  
+200805,133734,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133735,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133736,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133737,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133742,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133743,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133748,595580b1,HORUS,ref, Combine 12item 2859-(43,-10,60,28,0,0) after 2859-(43,-6,60,28,0,0) 
+200805,133748,00000000,system,+notice !!!  
+200805,133748,00000000,system,adm,+notice !!!  
+200805,133748,00000000,-system,not  !!!  
+200805,133751,595580b1,HORUS,inv,DeleteItem 2859 
+200805,133753,595580b1,HORUS,inv,DeleteItem 2859 
+200805,133754,595580b1,HORUS,inv,DeleteItem 2859 
+200805,133755,595580b1,HORUS,inv,DeleteItem 2859 
+200805,133757,189cd2ba,[PUNI] - Set Item Carry [540 0:0:0:0:0:0],-system 
+200805,133805,189cd2ba,PUNISHER,ref,fail,540,0,413,93 0 0 <43 0 0 0 0 0> 
+200805,133805,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-92,0,0) <43 -96 0 0 0 0> 
+200805,133805,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133806,189cd2ba,PUNISHER,ref,fail,540,0,413,92 0 0 <43 0 0 0 0 0> 
+200805,133806,189cd2ba,PUNISHER,ref,refine success 540+0 - (413-91,0,0) <43 -96 0 0 0 0> 
+200805,133806,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133808,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133809,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133810,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133811,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133813,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133813,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133815,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133816,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133816,189cd2ba,PUNISHER,inv,DeleteItem 540 
+200805,133817,189cd2ba,PUNISHER,inv,DeleteItem 540 
+200805,133818,189cd2ba,PUNISHER,inv,DeleteItem 540 
+200805,133821,189cd2ba,[PUNI] - Set Item Carry [631 0:0:0:0:0:0],-system 
+200805,133822,189cd2ba,[PUNI] - Set Item Carry [632 0:0:0:0:0:0],-system 
+200805,133824,189cd2ba,[PUNI] - Set Item Carry [633 0:0:0:0:0:0],-system 
+200805,133828,189cd2ba,PUNISHER,inv,DeleteItem 540 
+200805,133828,595580b1,Horus - Set Item Carry [2863 43:234:60:28:0:0],-system 
+200805,133829,189cd2ba,PUNISHER,ref,fail,631,0,413,91 0 0 <43 0 0 0 0 0> 
+200805,133829,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-90,0,0) <43 0 0 0 0 0> 
+200805,133830,595580b1,Horus - Set Item Carry [2863 43:234:60:28:0:0],-system 
+200805,133830,189cd2ba,PUNISHER,ref,fail,631,0,413,90 0 0 <43 0 0 0 0 0> 
+200805,133830,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-89,0,0) <43 10 0 0 0 0> 
+200805,133831,595580b1,Horus - Set Item Carry [2863 43:234:60:28:0:0],-system 
+200805,133831,189cd2ba,PUNISHER,ref,fail,631,0,413,89 0 0 <43 0 0 0 0 0> 
+200805,133831,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-88,0,0) <43 10 0 0 0 0> 
+200805,133831,595580b1,Horus - Set Item Carry [2863 43:234:60:28:0:0],-system 
+200805,133832,189cd2ba,PUNISHER,ref,fail,631,0,413,88 0 0 <43 0 0 0 0 0> 
+200805,133832,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-87,0,0) <43 20 0 0 0 0> 
+200805,133839,595580b1,HORUS,ref, Combine fail 12item 2863-(43,-22,60,28,0,0) after 2863-(43,-26,60,28,0,0) 
+200805,133841,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133844,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133844,189cd2ba,PUNISHER,ref,fail,631,0,413,87 0 0 <43 0 0 0 0 0> 
+200805,133844,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-86,0,0) <43 30 0 0 0 0> 
+200805,133845,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133846,189cd2ba,PUNISHER,ref,fail,631,0,413,86 0 0 <43 0 0 0 0 0> 
+200805,133846,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-85,0,0) <43 40 0 0 0 0> 
+200805,133846,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133848,595580b1,HORUS,inv,DeleteItem 2863 
+200805,133849,189cd2ba,PUNISHER,ref,fail,631,0,413,85 0 0 <43 0 0 0 0 0> 
+200805,133849,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-84,0,0) <43 50 0 0 0 0> 
+200805,133850,189cd2ba,PUNISHER,ref,fail,631,0,413,84 0 0 <43 0 0 0 0 0> 
+200805,133850,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-83,0,0) <43 60 0 0 0 0> 
+200805,133851,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133852,189cd2ba,PUNISHER,ref,fail,631,0,413,83 0 0 <43 0 0 0 0 0> 
+200805,133852,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-82,0,0) <43 70 0 0 0 0> 
+200805,133853,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133854,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133854,189cd2ba,PUNISHER,ref,fail,633,0,413,82 0 0 <43 0 0 0 0 0> 
+200805,133854,189cd2ba,PUNISHER,ref,refine success 633+0 - (413-81,0,0) <43 10 0 0 0 0> 
+200805,133855,189cd2ba,PUNISHER,ref,fail,633,0,413,81 0 0 <43 0 0 0 0 0> 
+200805,133855,189cd2ba,PUNISHER,ref,refine success 633+0 - (413-80,0,0) <43 20 0 0 0 0> 
+200805,133856,189cd2ba,PUNISHER,ref,fail,633,0,413,80 0 0 <43 0 0 0 0 0> 
+200805,133856,189cd2ba,PUNISHER,ref,refine success 633+0 - (413-79,0,0) <43 30 0 0 0 0> 
+200805,133857,595580b1,HORUS,ref, Combine 12item 2863-(43,-22,60,28,0,0) after 2863-(43,-18,60,28,0,0) 
+200805,133857,00000000,system,+notice !!!  
+200805,133857,00000000,system,adm,+notice !!!  
+200805,133857,00000000,-system,not  !!!  
+200805,133900,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133904,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133905,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133906,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133908,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133909,595580b1,HORUS,ref, Combine 12item 2863-(43,-18,60,28,0,0) after 2863-(43,-14,60,28,0,0) 
+200805,133909,00000000,system,+notice !!!  
+200805,133909,00000000,system,adm,+notice !!!  
+200805,133909,00000000,-system,not  !!!  
+200805,133913,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133914,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133915,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133916,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133917,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133918,595580b1,HORUS,ref, Combine fail 12item 2863-(43,-14,60,28,0,0) after 2863-(43,-18,60,28,0,0) 
+200805,133920,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133921,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133922,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133923,189cd2ba,[PUNI] - Set Item Carry [567 0:0:0:0:0:0],-system 
+200805,133926,189cd2ba,[PUNI] - Set Item Carry [568 0:0:0:0:0:0],-system 
+200805,133927,595580b1,HORUS,ref, Combine fail 12item 2863-(43,-18,60,28,0,0) after 2863-(43,-22,60,28,0,0) 
+200805,133927,189cd2ba,[PUNI] - Set Item Carry [569 0:0:0:0:0:0],-system 
+200805,133929,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133930,189cd2ba,PUNISHER,ref,refine success 567+1 - (413-79,0,0) <43 1 0 0 0 0> 
+200805,133931,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133932,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133933,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133935,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133936,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133937,189cd2ba,PUNISHER,ref,refine success 567+2 - (413-78,0,0) <43 2 0 0 0 0> 
+200805,133937,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133938,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133938,189cd2ba,PUNISHER,ref,refine success 567+3 - (413-77,0,0) <43 3 0 0 0 0> 
+200805,133939,189cd2ba,PUNISHER,ref,refine success 567+4 - (413-76,0,0) <43 4 0 0 0 0> 
+200805,133939,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133940,189cd2ba,PUNISHER,ref,refine success 567+5 - (413-75,0,0) <43 5 0 0 0 0> 
+200805,133940,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133941,189cd2ba,PUNISHER,ref,refine success 567+6 - (413-74,0,0) <43 6 0 0 0 0> 
+200805,133943,189cd2ba,PUNISHER,ref,refine success 567+7 - (413-73,0,0) <43 7 0 0 0 0> 
+200805,133945,595580b1,HORUS,ref, Combine 12item 2863-(43,-22,60,28,0,0) after 2863-(43,-18,60,28,0,0) 
+200805,133945,00000000,system,+notice !!!  
+200805,133945,00000000,system,adm,+notice !!!  
+200805,133945,00000000,-system,not  !!!  
+200805,133947,189cd2ba,PUNISHER,ref,refine success 567+8 - (413-72,0,0) <43 8 0 0 0 0> 
+200805,133948,189cd2ba,PUNISHER,ref,refine success 567+9 - (413-71,0,0) <43 9 0 0 0 0> 
+200805,133949,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133950,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,133952,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133953,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133954,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133955,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,133958,595580b1,HORUS,ref, Combine 12item 2863-(43,-18,60,28,0,0) after 2863-(43,-14,60,28,0,0) 
+200805,133958,00000000,system,+notice !!!  
+200805,133958,00000000,system,adm,+notice !!!  
+200805,133958,00000000,-system,not  !!!  
+200805,134000,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134001,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134002,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134003,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134004,189cd2ba,PUNISHER,ref,refine success 569+1 - (413-70,0,0) <43 1 0 0 0 0> 
+200805,134006,595580b1,HORUS,ref, Combine 12item 2863-(43,-14,60,28,0,0) after 2863-(43,-10,60,28,0,0) 
+200805,134006,00000000,system,+notice !!!  
+200805,134006,00000000,system,adm,+notice !!!  
+200805,134006,00000000,-system,not  !!!  
+200805,134006,189cd2ba,PUNISHER,ref,refine success 569+2 - (413-69,0,0) <43 2 0 0 0 0> 
+200805,134013,595580b1,HORUS,ref, Combine fail 12item 2863-(43,-10,60,28,0,0) after 2863-(43,-14,60,28,0,0) 
+200805,134015,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134016,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134017,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134018,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134020,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134021,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134022,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134023,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134024,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134025,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134031,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134032,595580b1,HORUS,ref, Combine fail 12item 2863-(43,-14,60,28,0,0) after 2863-(43,-18,60,28,0,0) 
+200805,134033,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134034,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134035,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134036,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134041,595580b1,HORUS,ref, Combine 12item 2863-(43,-18,60,28,0,0) after 2863-(43,-14,60,28,0,0) 
+200805,134041,00000000,system,+notice !!!  
+200805,134041,00000000,system,adm,+notice !!!  
+200805,134041,00000000,-system,not  !!!  
+200805,134043,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134044,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134045,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134046,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134048,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134049,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134053,595580b1,HORUS,ref, Combine 12item 2863-(43,-14,60,28,0,0) after 2863-(43,-10,60,28,0,0) 
+200805,134053,00000000,system,+notice !!!  
+200805,134053,00000000,system,adm,+notice !!!  
+200805,134053,00000000,-system,not  !!!  
+200805,134057,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134057,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134059,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134100,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134102,595580b1,HORUS,ref, Combine 12item 2863-(43,-10,60,28,0,0) after 2863-(43,-6,60,28,0,0) 
+200805,134102,00000000,system,+notice !!!  
+200805,134102,00000000,system,adm,+notice !!!  
+200805,134102,00000000,-system,not  !!!  
+200805,134103,189cd2ba,[PUNI] - Set Item Carry [661 0:0:0:0:0:0],-system 
+200805,134105,189cd2ba,[PUNI] - Set Item Carry [662 0:0:0:0:0:0],-system 
+200805,134106,189cd2ba,[PUNI] - Set Item Carry [663 0:0:0:0:0:0],-system 
+200805,134107,595580b1,HORUS,inv,DeleteItem 2863 
+200805,134110,595580b1,HORUS,inv,DeleteItem 2863 
+200805,134111,595580b1,HORUS,inv,DeleteItem 2863 
+200805,134112,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134113,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134114,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134115,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134116,189cd2ba,PUNISHER,ref,refine success 663+1 - (413-68,0,0) <43 1 0 0 0 0> 
+200805,134116,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134117,189cd2ba,PUNISHER,ref,refine success 663+2 - (413-67,0,0) <43 2 0 0 0 0> 
+200805,134118,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134119,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134121,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134123,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134124,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134125,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134126,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134128,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134129,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134130,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134135,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134136,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134137,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134138,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134140,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134141,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134142,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134143,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134144,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134209,595580b1,Horus - Set Item Carry [2791 43:234:2:63:0:0],-system 
+200805,134210,595580b1,Horus - Set Item Carry [2791 43:234:2:63:0:0],-system 
+200805,134211,595580b1,Horus - Set Item Carry [2791 43:234:2:63:0:0],-system 
+200805,134212,595580b1,Horus - Set Item Carry [2791 43:234:2:63:0:0],-system 
+200805,134217,595580b1,HORUS,ref, Combine fail 12item 2791-(43,-22,2,63,0,0) after 2791-(43,-26,2,63,0,0) 
+200805,134227,595580b1,HORUS,ref, Combine fail 12item 2791-(43,-22,2,63,0,0) after 2791-(43,-26,2,63,0,0) 
+200805,134235,595580b1,HORUS,ref, Combine 12item 2791-(43,-22,2,63,0,0) after 2791-(43,-18,2,63,0,0) 
+200805,134235,00000000,system,+notice !!!  
+200805,134235,00000000,system,adm,+notice !!!  
+200805,134235,00000000,-system,not  !!!  
+200805,134240,595580b1,HORUS,inv,DeleteItem 2791 
+200805,134242,595580b1,HORUS,inv,DeleteItem 2791 
+200805,134244,595580b1,HORUS,inv,DeleteItem 2791 
+200805,134245,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134246,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134247,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134248,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134252,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134253,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134256,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134257,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134258,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134303,595580b1,HORUS,ref, Combine 12item 2791-(43,-18,2,63,0,0) after 2791-(43,-14,2,63,0,0) 
+200805,134303,00000000,system,+notice !!!  
+200805,134303,00000000,system,adm,+notice !!!  
+200805,134303,00000000,-system,not  !!!  
+200805,134308,595580b1,HORUS,ref, Combine fail 12item 2791-(43,-14,2,63,0,0) after 2791-(43,-18,2,63,0,0) 
+200805,134310,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134311,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134312,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134313,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134316,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134317,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134321,595580b1,HORUS,ref, Combine fail 12item 2791-(43,-18,2,63,0,0) after 2791-(43,-22,2,63,0,0) 
+200805,134322,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134322,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134325,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134326,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134327,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134328,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134331,595580b1,HORUS,ref, Combine fail 12item 2791-(43,-22,2,63,0,0) after 2791-(43,-26,2,63,0,0) 
+200805,134337,595580b1,HORUS,inv,DeleteItem 2791 
+200805,134417,189cd2ba,PUNISHER,ref,fail,631,0,413,66 0 0 <43 0 0 0 0 0> 
+200805,134417,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-65,0,0) <43 80 0 0 0 0> 
+200805,134419,189cd2ba,PUNISHER,ref,fail,631,0,413,65 0 0 <43 0 0 0 0 0> 
+200805,134419,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-64,0,0) <43 90 0 0 0 0> 
+200805,134419,189cd2ba,PUNISHER,ref,fail,631,0,413,64 0 0 <43 0 0 0 0 0> 
+200805,134419,189cd2ba,PUNISHER,ref,refine success 631+0 - (413-63,0,0) <43 100 0 0 0 0> 
+200805,134420,189cd2ba,PUNISHER,ref,fail,633,0,413,63 0 0 <43 0 0 0 0 0> 
+200805,134420,189cd2ba,PUNISHER,ref,refine success 633+0 - (413-62,0,0) <43 40 0 0 0 0> 
+200805,134421,189cd2ba,PUNISHER,ref,fail,633,0,413,62 0 0 <43 0 0 0 0 0> 
+200805,134421,189cd2ba,PUNISHER,ref,refine success 633+0 - (413-61,0,0) <43 50 0 0 0 0> 
+200805,134432,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134434,3c44638a,SEXYCODE,adm,+readitemlist 
+200805,134434,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134435,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134436,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134437,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134441,189cd2ba,PUNISHER,ref,refine success 631+1 - (413-61,0,0) <43 1 0 0 0 0> 
+200805,134442,189cd2ba,PUNISHER,ref,refine success 631+2 - (413-60,0,0) <43 2 0 0 0 0> 
+200805,134443,189cd2ba,PUNISHER,ref,refine success 631+3 - (413-59,0,0) <43 3 0 0 0 0> 
+200805,134446,189cd2ba,PUNISHER,ref,refine success 631+4 - (413-58,0,0) <43 4 0 0 0 0> 
+200805,134446,189cd2ba,PUNISHER,ref,refine success 631+5 - (413-57,0,0) <43 5 0 0 0 0> 
+200805,134447,189cd2ba,PUNISHER,ref,refine success 631+6 - (413-56,0,0) <43 6 0 0 0 0> 
+200805,134449,189cd2ba,PUNISHER,ref,refine success 631+7 - (413-55,0,0) <43 7 0 0 0 0> 
+200805,134450,189cd2ba,PUNISHER,ref,refine success 631+8 - (413-54,0,0) <43 8 0 0 0 0> 
+200805,134452,189cd2ba,PUNISHER,ref,refine success 631+9 - (413-53,0,0) <43 9 0 0 0 0> 
+200805,134456,189cd2ba,PUNISHER,ref,refine success 633+1 - (413-52,0,0) <43 1 0 0 0 0> 
+200805,134457,189cd2ba,PUNISHER,ref,refine success 633+2 - (413-51,0,0) <43 2 0 0 0 0> 
+200805,134458,189cd2ba,PUNISHER,ref,refine success 633+3 - (413-50,0,0) <43 3 0 0 0 0> 
+200805,134459,189cd2ba,PUNISHER,ref,refine success 633+4 - (413-49,0,0) <43 4 0 0 0 0> 
+200805,134500,189cd2ba,PUNISHER,ref,refine success 633+5 - (413-48,0,0) <43 5 0 0 0 0> 
+200805,134501,595580b1,Horus - Set Item Carry [2731 43:234:2:63:0:0],-system 
+200805,134501,189cd2ba,PUNISHER,ref,refine success 633+6 - (413-47,0,0) <43 6 0 0 0 0> 
+200805,134502,189cd2ba,PUNISHER,ref,refine success 633+7 - (413-46,0,0) <43 7 0 0 0 0> 
+200805,134503,595580b1,Horus - Set Item Carry [2731 43:234:2:63:0:0],-system 
+200805,134504,595580b1,Horus - Set Item Carry [2731 43:234:2:63:0:0],-system 
+200805,134505,189cd2ba,PUNISHER,ref,refine success 633+8 - (413-45,0,0) <43 8 0 0 0 0> 
+200805,134505,595580b1,Horus - Set Item Carry [2731 43:234:2:63:0:0],-system 
+200805,134505,189cd2ba,PUNISHER,ref,refine success 633+9 - (413-44,0,0) <43 9 0 0 0 0> 
+200805,134506,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134511,595580b1,HORUS,ref, Combine fail 12item 2731-(43,-22,2,63,0,0) after 2731-(43,-26,2,63,0,0) 
+200805,134515,595580b1,HORUS,inv,DeleteItem 2731 
+200805,134517,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134518,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134520,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134521,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134522,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134523,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134531,595580b1,HORUS,ref, Combine 12item 2731-(43,-22,2,63,0,0) after 2731-(43,-18,2,63,0,0) 
+200805,134531,00000000,system,+notice !!!  
+200805,134531,00000000,system,adm,+notice !!!  
+200805,134531,00000000,-system,not  !!!  
+200805,134534,595580b1,HORUS,inv,DeleteItem 2731 
+200805,134535,595580b1,HORUS,inv,DeleteItem 2731 
+200805,134537,595580b1,HORUS,inv,DeleteItem 2731 
+200805,134547,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134548,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134549,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134550,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134553,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134554,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134556,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134557,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134559,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134600,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134602,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134604,595580b1,Horus - Set Item Carry [4043 0:0:0:0:0:0],-system 
+200805,134605,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134607,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134608,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134610,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134612,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134613,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134614,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134615,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134616,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134617,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134619,595580b1,Horus - Set Item Carry [3338 43:9:0:0:0:0],-system 
+200805,134644,595580b1,Horus - Set Item Carry [2671 43:234:0:0:0:0],-system 
+200805,134647,595580b1,HORUS,inv,DeleteItem 2671 
+200805,134651,595580b1,Horus - Set Item Carry [2671 43:234:60:28:0:0],-system 
+200805,134653,595580b1,Horus - Set Item Carry [2671 43:234:60:28:0:0],-system 
+200805,134655,595580b1,Horus - Set Item Carry [2671 43:234:60:28:0:0],-system 
+200805,134707,595580b1,HORUS,ref, Combine 12item 2671-(43,-22,60,28,0,0) after 2671-(43,-18,60,28,0,0) 
+200805,134707,00000000,system,+notice !!!  
+200805,134707,00000000,system,adm,+notice !!!  
+200805,134707,00000000,-system,not  !!!  
+200805,134713,595580b1,HORUS,inv,DeleteItem 2671 
+200805,134714,595580b1,HORUS,inv,DeleteItem 2671 
+200805,134714,595580b1,HORUS,inv,DeleteItem 2671 
+200805,134735,595580b1,Horus - Set Item Carry [2611 43:234:2:63:0:0],-system 
+200805,134748,595580b1,HORUS,ref, Combine 12item 2611-(43,-22,2,63,0,0) after 2611-(43,-18,2,63,0,0) 
+200805,134748,00000000,system,+notice !!!  
+200805,134748,00000000,system,adm,+notice !!!  
+200805,134748,00000000,-system,not  !!!  
+200805,134754,595580b1,HORUS,inv,DeleteItem 2611 
+200805,134814,3c44638a,SEXYCODE,adm,+goto [PUNI] 
+200805,134816,595580b1,Horus - Set Item Carry [2551 43:234:2:63:0:0],-system 
+200805,134824,3c44638a,SEXYCODE,adm,+set goto [PUNI] 
+200805,134825,595580b1,HORUS,ref, Combine 12item 2551-(43,-22,2,63,0,0) after 2551-(43,-18,2,63,0,0) 
+200805,134825,00000000,system,+notice !!!  
+200805,134825,00000000,system,adm,+notice !!!  
+200805,134825,00000000,-system,not  !!!  
+200805,134830,595580b1,HORUS,inv,DeleteItem 2551 
+200805,134846,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134846,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134848,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134849,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134850,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134851,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134852,595580b1,HORUS,inv,DeleteItem 3338 
+200805,134914,3c44638a,SEXYCODE,adm,+teleport 1179 1721 
+200805,134941,595580b1,HORUS,adm,+teleport 1179 1721 
+200805,135118,595580b1,HORUS,inv,DeleteItem 2388 
+200805,135131,3c44638a,SEXYCODE,clo,fd 22-5 
+200805,135131,3c44638a,SEXYCODE,clo,fd 22-5 conn:1 
+200805,135134,595580b1,Horus - Set Item Carry [2388 100:83:120:0:0:0],-system 
+200805,135232,595580b1,HORUS,ref, armor befor 3862-(43,9,0,0,0,0) after 3862-(43,9,60,6,71,50) - prc:0 
+200805,135234,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,71,50) after 3862-(43,9,2,24,3,25) - prc:0 
+200805,135236,595580b1,HORUS,ref, armor befor 3862-(43,9,2,24,3,25) after 3862-(43,9,2,24,71,50) - prc:0 
+200805,135238,595580b1,HORUS,ref, armor befor 3862-(43,9,2,24,71,50) after 3862-(43,9,3,45,0,0) - prc:0 
+200805,135240,595580b1,HORUS,ref, armor befor 3862-(43,9,3,45,0,0) after 3862-(43,9,60,10,3,20) - prc:0 
+200805,135243,595580b1,HORUS,ref, armor befor 3862-(43,9,60,10,3,20) after 3862-(43,9,3,15,71,70) - prc:0 
+200805,135245,595580b1,HORUS,ref, armor befor 3862-(43,9,3,15,71,70) after 3862-(43,9,60,6,71,50) - prc:0 
+200805,135246,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,71,50) after 3862-(43,9,3,15,71,70) - prc:0 
+200805,135248,595580b1,HORUS,ref, armor befor 3862-(43,9,3,15,71,70) after 3862-(43,9,60,8,3,30) - prc:0 
+200805,135250,595580b1,HORUS,ref, armor befor 3862-(43,9,60,8,3,30) after 3862-(43,9,2,18,3,20) - prc:0 
+200805,135252,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,3,20) after 3862-(43,9,2,18,71,70) - prc:0 
+200805,135253,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,71,70) after 3862-(43,9,60,8,71,50) - prc:0 
+200805,135255,595580b1,HORUS,ref, armor befor 3862-(43,9,60,8,71,50) after 3862-(43,9,2,18,3,20) - prc:0 
+200805,135256,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,3,20) after 3862-(43,9,2,24,3,30) - prc:0 
+200805,135258,595580b1,HORUS,ref, armor befor 3862-(43,9,2,24,3,30) after 3862-(43,9,2,24,3,25) - prc:0 
+200805,135300,595580b1,HORUS,ref, armor befor 3862-(43,9,2,24,3,25) after 3862-(43,9,2,30,71,70) - prc:0 
+200805,135301,595580b1,HORUS,ref, armor befor 3862-(43,9,2,30,71,70) after 3862-(43,9,60,6,71,70) - prc:0 
+200805,135303,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,71,70) after 3862-(43,9,2,18,71,50) - prc:0 
+200805,135305,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,71,50) after 3862-(43,9,2,24,71,60) - prc:0 
+200805,135307,595580b1,HORUS,ref, armor befor 3862-(43,9,2,24,71,60) after 3862-(43,9,2,18,3,20) - prc:0 
+200805,135309,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,3,20) after 3862-(43,9,60,6,3,25) - prc:0 
+200805,135311,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,3,25) after 3862-(43,9,2,24,71,50) - prc:0 
+200805,135313,595580b1,HORUS,ref, armor befor 3862-(43,9,2,24,71,50) after 3862-(43,9,60,6,3,20) - prc:0 
+200805,135314,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,3,20) after 3862-(43,9,2,18,71,50) - prc:0 
+200805,135316,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,71,50) after 3862-(43,9,60,8,3,20) - prc:0 
+200805,135322,595580b1,HORUS,ref, armor befor 3862-(43,9,60,8,3,20) after 3862-(43,9,2,18,3,20) - prc:0 
+200805,135324,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,3,20) after 3862-(43,9,2,30,71,60) - prc:0 
+200805,135327,595580b1,HORUS,ref, armor befor 3862-(43,9,2,30,71,60) after 3862-(43,9,60,4,71,60) - prc:0 
+200805,135328,595580b1,HORUS,ref, armor befor 3862-(43,9,60,4,71,60) after 3862-(43,9,60,6,71,70) - prc:0 
+200805,135330,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,71,70) after 3862-(43,9,60,6,3,20) - prc:0 
+200805,135333,595580b1,HORUS,ref, armor befor 3862-(43,9,60,6,3,20) after 3862-(43,9,3,20,71,70) - prc:0 
+200805,135334,595580b1,HORUS,ref, armor befor 3862-(43,9,3,20,71,70) after 3862-(43,9,2,30,71,60) - prc:0 
+200805,135337,595580b1,HORUS,ref, armor befor 3862-(43,9,2,30,71,60) after 3862-(43,9,2,18,3,30) - prc:0 
+200805,135341,595580b1,HORUS,ref, armor befor 3862-(43,9,2,18,3,30) after 3862-(43,9,60,10,3,30) - prc:0 
+200805,135357,189cd2ba,PUNISHER,etc,mount resurrect from:10 to:8 - 2363 
+200805,135420,189cd2ba,[PUNI] - Set Item Carry [2363 100:127:127:127:127:127],-system 
+200805,135500,595580b1,Horus - Set Item Carry [2663 100:83:120:0:0:0],-system 
+200805,135521,595580b1,Horus - Set Item Carry [2363 100:83:120:0:0:0],-system 
+200805,135535,00000000,-system,etc,item drop count 00:0 01:0 02:0 03:0 04:0 05:0 06:0 07:0 

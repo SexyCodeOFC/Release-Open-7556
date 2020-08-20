@@ -1,0 +1,98 @@
+ItemIndex,PosX,PosY,Rotation
+471,217,215,1 // Portões Guerra de Cidades
+471,217,221,1 // Portões Guerra de Cidades
+471,217,227,1 // Portões Guerra de Cidades
+471,217,151,1 // Portões Guerra de Cidades
+471,217,157,1 // Portões Guerra de Cidades
+471,217,163,1 // Portões Guerra de Cidades
+471,161,215,1 // Portões Guerra de Cidades
+471,161,221,1 // Portões Guerra de Cidades
+471,161,227,1 // Portões Guerra de Cidades
+471,161,151,1 // Portões Guerra de Cidades
+471,161,157,1 // Portões Guerra de Cidades
+471,161,163,1 // Portões Guerra de Cidades
+472,2603,1717,1 // Portões Coliseu (Frente)
+472,2603,1733,1 // Portões Coliseu (Frente)
+471,2624,1739,1 // Portões Coliseu (Dentro)
+471,2624,1731,1 // Portões Coliseu (Dentro)
+471,2624,1725,1 // Portões Coliseu (Dentro)
+471,2624,1719,1 // Portões Coliseu (Dentro)
+471,2624,1711,1 // Portões Coliseu (Dentro)
+1733,786,3676,0 // Runa Carta de Duelo
+1733,786,3677,0 // Runa Carta de Duelo
+1733,787,3676,0 // Runa Carta de Duelo
+1733,787,3677,0 // Runa Carta de Duelo
+1734,844,3676,0 // Runa Carta de Duelo
+1734,844,3677,0 // Runa Carta de Duelo
+1734,845,3676,0 // Runa Carta de Duelo
+1734,845,3677,0 // Runa Carta de Duelo
+1735,844,3620,0 // Runa Carta de Duelo
+1735,844,3621,0 // Runa Carta de Duelo
+1735,845,3620,0 // Runa Carta de Duelo
+1735,845,3621,0 // Runa Carta de Duelo
+1736,786,3634,0 // Runa Carta de Duelo
+1736,786,3635,0 // Runa Carta de Duelo
+1736,787,3634,0 // Runa Carta de Duelo
+1736,787,3635,0 // Runa Carta de Duelo
+471,1341,1483,1 // Muro do Big Cubo
+471,1341,1489,1 // Muro do Big Cubo
+471,1341,1495,1 // Muro do Big Cubo
+471,1341,1503,1 // Muro do Big Cubo
+471,1341,1509,1 // Muro do Big Cubo
+471,1341,1515,1 // Muro do Big Cubo
+773,1129,1707,1 // 1º Portão do Castelo
+773,1116,1707,1 // 2º Portão do Castelo
+773,1094,1690,1 // 3º POrtão do Castelo
+800,1075,1711,1 // Primeiro portão de noatum
+458,2075,2015,2 // Portão Quest do Treinamento (Primeiro)
+459,2143,1985,2 // Portão Quest do Treinamento (Segundo)
+461,2081,1961,2 // Portão Quest do Treinamento (Terceiro)
+462,2487,2129,1 // Portão Quest Castelo Orc Entrada
+464,2504,2145,1 // Portão Quest Castelo Orc 2
+468,2528,2134,2 // Portão Quest Castelo Orc 3
+463,2518,2106,2 // Portão Quest Castelo Orc 3
+757,2240,1270,0 // Portão Quest Castelo Imp Entrada
+758,2248,1246,2 // Portão Quest Castelo Imp Sala 1
+759,2262,1224,1 // Portão Quest Castelo Imp Sala 2
+760,2279,1209,2 // Portão Quest Castelo Imp Sala 3
+761,2265,1174,1 // Portão Quest Castelo Imp Sala 4
+758,2230,1246,2 // Portão Quest Castelo Imp Sala 1
+759,2216,1224,1 // Portão Quest Castelo Imp Sala 2
+760,2199,1209,2 // Portão Quest Castelo Imp Sala 3
+761,2213,1174,1 // Portão Quest Castelo Imp Sala 4
+4102,4057,3990,1 // WYD Caça Níquel
+4103,4057,3999,1 // WYD Caça Níquel
+4102,4057,4008,1 // WYD Caça Níquel
+746,1129,1717,1 // Canhão
+746,1129,1713,1 // Canhão
+3145,2130,2114,1 //Torre Triunfo Armia
+3145,2492,1717,1 //Torre Triunfo Arzan
+3145,2452,1998,3 //Torre Triunfo Erion
+3145,3659,3110,1 //Torre Triunfo Nippleheim
+3145,1055,1718,1 //Torre Triunfo Noatun
+1,1,1,1 // Khepra
+1,1,1,1 // Khepra
+746,1129,1702,1 // Canhão
+746,1129,1698,1 // Canhão
+746,1129,1735,1 // Canhão
+746,1091,1722,0 // Canhão
+746,1092,1734,3 // Canhão
+746,1092,1730,3 // Canhão
+746,1084,1735,1 // Canhão
+746,1084,1731,1 // Canhão
+746,1094,1697,1 // Canhão
+746,1094,1684,1 // Canhão
+746,1108,1728,3 // Canhão
+746,1108,1732,3 // Canhão
+746,1100,1727,3 // Canhão
+746,1100,1731,3 // Canhão
+746,1096,1722,0 // Canhão
+746,1116,1697,1 // Canhão
+746,1116,1701,1 // Canhão
+746,1116,1714,1 // Canhão
+746,1116,1718,1 // Canhão
+746,1124,1721,2 // Canhão
+746,1120,1721,2 // Canhão
+746,1119,1693,0 // Canhão
+746,1123,1693,0 // Canhão
+4143,2123,2143,1 //Portão PvP Armia

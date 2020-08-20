@@ -1,0 +1,510 @@
+200804,120001,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,120001,00000000,-system,sys,town tax report: 3287329 0 79509 5203435 13145595 -Exp : 342 
+200804,120028,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120115,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120121,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120125,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120207,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120236,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120321,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120327,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120345,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120413,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120431,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120448,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120601,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120612,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120649,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120657,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120707,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,120733,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120739,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120815,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,120933,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121024,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121028,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,121104,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,121109,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121242,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121300,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121324,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121409,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121440,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,121451,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121528,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,121536,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121606,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121646,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,121651,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121727,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,121731,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,121818,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122000,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122025,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,122106,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122151,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122221,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122330,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122346,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,122404,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,122415,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122433,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122439,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122557,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122616,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,122621,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122701,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,122818,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,122907,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,122933,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123043,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,123139,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123230,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123301,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,123315,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123427,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123542,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123549,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,123613,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,123654,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123752,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,123827,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123846,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,123924,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,123942,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124116,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124122,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124216,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124240,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124251,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124340,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124342,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124415,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124507,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124518,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124530,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124552,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124603,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124604,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124609,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124610,53fe6ab1,PUNISHER,sta,177.106.254.83 BA8B0044ECC14104AD50BF6EB5C0D65E 1 - 0 -1871210968 (480) 
+200804,124615,53fe6ab1,PUNISHER,sta,Login char:[PUNI] exp:0 level:349 conn:1 money:1810187219, store:1911552 
+200804,124628,53fe6ab1,PUNISHER,err,wrong target 876,5  1057,1727 (3) - 1060,1731 (127) (0) 127-3 
+200804,124630,53fe6ab1,PUNISHER,err,wrong target 876,5  1065,1728 (127) - 1070,1730 (0) (0) 0-127 
+200804,124631,53fe6ab1,PUNISHER,err,wrong target 876,5  1070,1728 (0) - 1075,1731 (127) (0) 127-0 
+200804,124633,53fe6ab1,PUNISHER,err,wrong target 876,5  1072,1730 (0) - 1075,1729 (127) (0) 127-0 
+200804,124655,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124718,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124719,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,124830,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124848,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124912,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,124957,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125007,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125009,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125015,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125054,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125110,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125139,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125157,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125158,53fe6ab1,PUNISHER,err,wrong target 876,5  1100,1733 (127) - 1095,1731 (0) (0) 0-127 
+200804,125159,53fe6ab1,PUNISHER,err,wrong target 876,5  1100,1730 (127) - 1094,1731 (6) (0) 6-127 
+200804,125203,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125210,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125227,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125228,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125245,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125309,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125315,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125322,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125352,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125354,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125437,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125439,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125513,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125533,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125606,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125748,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125800,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,125849,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,125901,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,130001,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,130001,00000000,-system,sys,town tax report: 3287329 0 79509 5203435 13145595 -Exp : 342 
+200804,130031,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,130039,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130207,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,130230,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130312,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130403,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130415,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130416,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,130500,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130506,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130548,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130642,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130728,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,130754,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130915,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,130949,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,131136,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131154,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131233,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131342,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131412,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131451,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131536,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131548,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131622,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,131651,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131652,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,131703,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131737,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,131754,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131827,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131839,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131857,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131907,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,131942,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,131954,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132000,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132022,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132028,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132051,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132103,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132113,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132127,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132218,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132234,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132339,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132555,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132649,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132815,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132900,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,132922,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,132940,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133004,53fe6ab1,[PUNI] - Set Item Carry [3978 0:0:0:0:0:0],-system 
+200804,133021,53fe6ab1,[PUNI] - Set Item Carry [3978 0:0:0:0:0:0],-system 
+200804,133028,53fe6ab1,PUNISHER,inv,DeleteItem 3978 
+200804,133031,53fe6ab1,PUNISHER,inv,DeleteItem 3978 
+200804,133033,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133037,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133043,53fe6ab1,[PUNI] - Set Item Carry [3990 0:0:0:0:0:0],-system 
+200804,133044,53fe6ab1,PUNISHER,pim,set equip time item 3990-2093 
+200804,133057,53fe6ab1,[PUNI] - Set Item Carry [3991 0:0:0:0:0:0],-system 
+200804,133058,53fe6ab1,PUNISHER,pim,set equip time item 3991-2093 
+200804,133101,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133105,53fe6ab1,[PUNI] - Set Item Carry [3992 0:0:0:0:0:0],-system 
+200804,133106,53fe6ab1,PUNISHER,pim,set equip time item 3992-2093 
+200804,133112,53fe6ab1,[PUNI] - Set Item Carry [3993 0:0:0:0:0:0],-system 
+200804,133113,53fe6ab1,PUNISHER,pim,set equip time item 3993-2093 
+200804,133116,53fe6ab1,[PUNI] - Set Item Carry [3995 0:0:0:0:0:0],-system 
+200804,133117,53fe6ab1,PUNISHER,pim,set equip time item 3995-2093 
+200804,133121,53fe6ab1,[PUNI] - Set Item Carry [3996 0:0:0:0:0:0],-system 
+200804,133122,53fe6ab1,PUNISHER,pim,set equip time item 3996-2093 
+200804,133125,53fe6ab1,[PUNI] - Set Item Carry [3997 0:0:0:0:0:0],-system 
+200804,133126,53fe6ab1,PUNISHER,pim,set equip time item 3997-2093 
+200804,133129,53fe6ab1,[PUNI] - Set Item Carry [3998 0:0:0:0:0:0],-system 
+200804,133130,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133130,53fe6ab1,PUNISHER,pim,set equip time item 3998-2093 
+200804,133155,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133236,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133301,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133331,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133357,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133522,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133527,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133546,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133627,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133748,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133833,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133945,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,133952,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,133955,53fe6ab1,PUNISHER,clo,fd 22-2 
+200804,133955,53fe6ab1,PUNISHER,clo,fd 22-2 conn:1 
+200804,134003,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134021,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134055,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,134106,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134113,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,134201,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,134212,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134224,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134246,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,134303,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134457,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134530,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134536,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134646,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,134703,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134855,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,134906,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134951,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,134952,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,135024,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135036,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135100,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135337,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,135421,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135433,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135439,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135515,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135521,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135545,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135551,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135701,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,135727,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135812,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135845,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,135858,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,135859,53fe6ab1,PUNISHER,sta,177.106.254.83 BA8B0044ECC14104AD50BF6EB5C0D65E 1 - 0 -1875580233 (516) 
+200804,135905,53fe6ab1,PUNISHER,etc,KindomDraon guild:0 level:0 name:[PUNI] 
+200804,135905,53fe6ab1,PUNISHER,sta,Login char:[PUNI] exp:0 level:1010 conn:1 money:1810187219, store:1911552 
+200804,135930,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140001,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,140001,00000000,-system,sys,town tax report: 3329829 0 79509 5203435 13188095 -Exp : 342 
+200804,140003,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140043,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140047,53fe6ab1,PUNISHER,clo,fd 22-2 
+200804,140047,53fe6ab1,PUNISHER,clo,fd 22-2 conn:1 
+200804,140137,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140155,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140239,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140251,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140252,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140257,53fe6ab1,PUNISHER,sta,177.106.254.83 BA8B0044ECC14104AD50BF6EB5C0D65E 1 - 0 -1875817734 (368) 
+200804,140303,53fe6ab1,PUNISHER,sta,Login char:[PUNI] exp:0 level:1010 conn:1 money:1809432419, store:1911552 
+200804,140317,53fe6ab1,PUNISHER,adm,+reloadnpc 
+200804,140322,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140446,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140523,53fe6ab1,PUNISHER,adm,+reloadnpc 
+200804,140541,53fe6ab1,PUNISHER,sel,Dr Dolittle 84960  094e00000a0a0a0a 
+200804,140542,53fe6ab1,PUNISHER,sel,Dr Dolittle 130000  094900000a0a0a0a 
+200804,140625,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140710,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140734,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140738,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140746,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140808,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140853,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,140858,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,140955,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141050,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,141055,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141101,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141102,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,141152,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141340,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141413,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141504,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141549,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141719,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141804,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141822,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141840,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141910,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141928,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141946,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,141959,53fe6ab1,PUNISHER,etc,water ticket - index(3173/0)  
+200804,142004,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142018,53fe6ab1,PUNISHER,adm,+dam 25000 
+200804,142022,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142023,53fe6ab1,PUNISHER,adm,+dam 23000 
+200804,142027,53fe6ab1,PUNISHER,adm,+dam 15000 
+200804,142039,53fe6ab1,PUNISHER,err,hitposition range 1122,3554 - 1120,3552 - D:3,R:2 - skill:-1 
+200804,142045,53fe6ab1,PUNISHER,err,hitposition range 1121,3554 - 1118,3554 - D:3,R:2 - skill:-1 
+200804,142047,53fe6ab1,PUNISHER,err,hitposition range 1118,3556 - 1122,3555 - D:4,R:2 - skill:-1 
+200804,142049,53fe6ab1,PUNISHER,err,hitposition range 1122,3552 - 1120,3555 - D:4,R:2 - skill:-1 
+200804,142050,53fe6ab1,PUNISHER,err,hitposition range 1121,3553 - 1119,3555 - D:3,R:2 - skill:-1 
+200804,142057,53fe6ab1,PUNISHER,etc,water ticket - index(3174/0)  
+200804,142104,53fe6ab1,PUNISHER,adm,+dam 17000 
+200804,142123,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,142143,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142149,53fe6ab1,PUNISHER,err,hitposition range 1085,3554 - 1087,3552 - D:3,R:2 - skill:-1 
+200804,142153,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,142154,53fe6ab1,PUNISHER,etc,water ticket - index(3175/0)  
+200804,142215,53fe6ab1,PUNISHER,err,hitposition range 1048,3554 - 1051,3553 - D:3,R:2 - skill:-1 
+200804,142218,53fe6ab1,PUNISHER,err,hitposition range 1050,3554 - 1050,3550 - D:4,R:2 - skill:-1 
+200804,142224,53fe6ab1,PUNISHER,err,hitposition range 1046,3550 - 1045,3553 - D:3,R:2 - skill:-1 
+200804,142225,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142226,53fe6ab1,PUNISHER,etc,water ticket - index(3176/0)  
+200804,142245,53fe6ab1,PUNISHER,err,hitposition range 1050,3517 - 1053,3515 - D:4,R:2 - skill:-1 
+200804,142249,53fe6ab1,PUNISHER,etc,water ticket - index(3177/0)  
+200804,142250,53fe6ab1,PUNISHER,get  019c000000000000 
+200804,142306,53fe6ab1,PUNISHER,err,hitposition range 1048,3483 - 1051,3481 - D:4,R:2 - skill:-1 
+200804,142307,53fe6ab1,PUNISHER,err,hitposition range 1049,3482 - 1053,3481 - D:4,R:2 - skill:-1 
+200804,142321,53fe6ab1,PUNISHER,etc,water ticket - index(3178/0)  
+200804,142335,53fe6ab1,PUNISHER,err,hitposition range 1086,3484 - 1088,3482 - D:3,R:2 - skill:-1 
+200804,142337,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142341,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,142343,53fe6ab1,PUNISHER,err,hitposition range 1086,3480 - 1089,3481 - D:3,R:2 - skill:-1 
+200804,142349,53fe6ab1,PUNISHER,etc,water ticket - index(3179/0)  
+200804,142411,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,142422,53fe6ab1,PUNISHER,err,hitposition range 1119,3479 - 1122,3480 - D:3,R:2 - skill:-1 
+200804,142431,53fe6ab1,PUNISHER,etc,water ticket - index(3180/0)  
+200804,142451,53fe6ab1,PUNISHER,etc,water ticket - index(3181/1)  
+200804,142458,53fe6ab1,PUNISHER,err,hitposition range 1082,3521 - 1085,3522 - D:3,R:2 - skill:-1 
+200804,142525,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142531,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142555,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142601,53fe6ab1,PUNISHER,etc,nightmare used - index(3325) 
+200804,142701,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142707,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142735,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,142758,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142820,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,142901,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142907,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,142908,53fe6ab1,PUNISHER,err,hitposition range 1091,308 - 1088,310 - D:4,R:2 - skill:-1 
+200804,142937,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143008,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,143040,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143056,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,143140,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143146,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143219,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143232,53fe6ab1,PUNISHER,adm,+dam 15000 
+200804,143237,53fe6ab1,PUNISHER,adm,+dam 12000 
+200804,143240,53fe6ab1,PUNISHER,adm,+dam 7000 
+200804,143300,53fe6ab1,PUNISHER,etc,nightmare used - index(3326) 
+200804,143352,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143417,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,143425,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143549,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143648,53fe6ab1,PUNISHER,sel,Dr Dolittle 150000  094b00000a0a0a0a 
+200804,143652,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143755,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,143844,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144002,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144113,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144223,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144304,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144334,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144335,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144346,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144401,00000000,etc,etc,nightmare lev : 1 - live npc(0) 
+200804,144404,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144405,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144410,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144454,53fe6ab1,PUNISHER,sys, Logout Char [PUNI] money:1804077648, Store :1911552, conn:1  
+200804,144502,53fe6ab1,PUNISHER,sta,Login char:asdasd exp:0 level:0 conn:1 money:0, store:1911552 
+200804,144507,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144525,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144543,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144544,53fe6ab1,PUNISHER,adm,+atackspeed 6 
+200804,144601,00000000,etc,etc,nightmare boss gen - 328 
+200804,144601,00000000,etc,etc,nightmare boss gen - 329 
+200804,144608,53fe6ab1,asdasd - Set Item Carry [1356 43:253:0:0:0:0],-system 
+200804,144611,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144611,53fe6ab1,asdasd - Set Item Carry [1357 43:253:0:0:0:0],-system 
+200804,144616,53fe6ab1,asdasd - Set Item Carry [1358 43:253:0:0:0:0],-system 
+200804,144619,53fe6ab1,asdasd - Set Item Carry [1359 43:253:0:0:0:0],-system 
+200804,144640,53fe6ab1,asdasd - Set Item Carry [2866 43:253:60:120:0:0],-system 
+200804,144647,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144703,53fe6ab1,asdasd - Set Item Carry [2388 100:127:127:127:127:0],-system 
+200804,144734,53fe6ab1,PUNISHER,adm,+coin 2000000000 
+200804,144756,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144800,53fe6ab1,PUNISHER,adm,+set level 189 
+200804,144806,53fe6ab1,PUNISHER,adm,+level 189 
+200804,144810,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144817,53fe6ab1,PUNISHER,etc,used nomal cube ticket - index(0) 
+200804,144820,53fe6ab1,PUNISHER,err,hitposition range 1679,4076 - 1683,4078 - D:4,R:2 - skill:-1 
+200804,144826,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144856,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,144901,00000000,etc,etc,nightmare lev : 2 - live npc(5) 
+200804,144907,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,144952,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145002,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,145026,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,145031,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145041,53fe6ab1,PUNISHER,err,hitposition range 1749,4078 - 1749,4073 - D:5,R:2 - skill:-1 
+200804,145049,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145128,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145213,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145246,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145304,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145423,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,145428,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145513,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145520,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,145616,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145743,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145828,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145846,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145852,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,145929,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150001,00000000,-system,sys,khepra hp data 1025 : 2240000 
+200804,150001,00000000,-system,sys,town tax report: 3685553 0 79509 5203435 13543819 -Exp : 342 
+200804,150046,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150104,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150122,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150214,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150222,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150228,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150232,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150317,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150347,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150429,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150441,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150513,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150604,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150614,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150616,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150652,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150759,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,150931,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,150956,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151026,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151129,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151149,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151229,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151234,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151241,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151319,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151335,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151428,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151525,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151602,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151608,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151631,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151716,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151728,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151740,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151849,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,151932,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,151946,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152002,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,152047,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,152049,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152129,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,152201,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152304,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152417,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,152419,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152449,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152501,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152531,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152549,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152607,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152641,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,152649,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152747,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,152822,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152828,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,152941,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153005,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153007,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153025,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153041,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153226,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153237,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153349,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153356,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153434,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153507,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153538,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153604,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153626,00000000,-system,GetEmptyMobGrid of range 1720 -3  
+200804,153649,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153655,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153719,00000000,-system,GetEmptyMobGrid of range 1722 -3  
+200804,153722,00000000,-system,etc,item drop count 00:1 01:0 02:0 03:0 04:0 05:0 06:0 07:0 

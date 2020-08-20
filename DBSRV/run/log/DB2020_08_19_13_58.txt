@@ -1,0 +1,90 @@
+200819,135831,-system,start log
+200819,135831,-system,0,,,,,0,0,0,7
+200819,135831,-system,3,COVID-19,FIKEMCASA,Tuberculose,,1,1,8,286
+200819,135831,-system,4,VIKINGS,VALHALLA,RAGNAROK,KATTEGAT,1,1,8,100
+200819,135831,-system,5,BLUELIXO,,,,0,1,7,0
+200819,135831,-system,6,SUAMAE,,,,1,1,8,650
+200819,135831,-system,7,JAFOI,,,,1,1,7,0
+200819,135831,-system,8,SEXYGUILD,,,,0,1,7,0
+200819,135832,-system,sys,wsa_accept from 0 - 412
+200819,140010,SEXYCODE,sta,account login 0-0
+200819,140202,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,140843,,clo,svr:0 conn:1 do-not-save
+200819,140919,SEXYCODE,sta,account login 0-0
+200819,141509,,clo,svr:0 conn:2 do-not-save
+200819,141511,,clo,svr:0 conn:2 do-not-save
+200819,141514,,clo,svr:0 conn:2 do-not-save
+200819,141548,,clo,svr:0 conn:2 do-not-save
+200819,141549,,clo,svr:0 conn:2 do-not-save
+200819,141619,,clo,svr:0 conn:2 do-not-save
+200819,141621,,clo,svr:0 conn:2 do-not-save
+200819,141750,,clo,svr:0 conn:2 do-not-save
+200819,141753,,clo,svr:0 conn:2 do-not-save
+200819,141754,,clo,svr:0 conn:2 do-not-save
+200819,141756,,clo,svr:0 conn:2 do-not-save
+200819,141759,,clo,svr:0 conn:2 do-not-save
+200819,141801,SEXYCODE,sys,req_previous_save svr:0 conn:1
+200819,141801,,clo,svr:0 conn:2 do-not-save
+200819,141803,SEXYCODE,sys,req_previous_save svr:0 conn:1
+200819,141803,,clo,svr:0 conn:2 do-not-save
+200819,141806,SEXYCODE,sys,req_previous_save svr:0 conn:1
+200819,141806,,clo,svr:0 conn:2 do-not-save
+200819,141807,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,141808,SEXYCODE,sta,account login 0-0
+200819,141849,,clo,svr:0 conn:2 do-not-save
+200819,141851,,clo,svr:0 conn:2 do-not-save
+200819,141955,,clo,svr:0 conn:2 do-not-save
+200819,141957,,clo,svr:0 conn:2 do-not-save
+200819,142246,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,142617,,clo,svr:0 conn:1 do-not-save
+200819,142619,,clo,svr:0 conn:1 do-not-save
+200819,142621,,clo,svr:0 conn:1 do-not-save
+200819,142659,,clo,svr:0 conn:1 do-not-save
+200819,142704,SEXYCODE,sta,account login 0-0
+200819,143020,,clo,svr:0 conn:2 do-not-save
+200819,143137,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,143559,,clo,svr:0 conn:1 do-not-save
+200819,143602,,clo,svr:0 conn:1 do-not-save
+200819,143605,,clo,svr:0 conn:1 do-not-save
+200819,143616,,clo,svr:0 conn:1 do-not-save
+200819,143805,SEXYCODE,sta,account login 0-0
+200819,143917,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,144609,SEXYCODE,sta,account login 0-0
+200819,144710,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,145833,SEXYCODE,sta,account login 0-0
+200819,150009,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,152451,-system,clo,server fd 0
+200819,152503,-system,sys,wsa_accept from 0 - 424
+200819,152529,,clo,svr:0 conn:1 do-not-save
+200819,152538,SEXYCODE,sta,account login 0-0
+200819,152725,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,153951,-system,clo,server fd 0
+200819,154318,-system,sys,wsa_accept from 0 - 428
+200819,154409,SEXYCODE,sta,account login 0-0
+200819,154824,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,154848,-system,clo,server fd 0
+200819,154858,-system,sys,wsa_accept from 0 - 436
+200819,154905,SEXYCODE,sta,account login 0-0
+200819,154943,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,155237,-system,clo,server fd 0
+200819,155245,-system,sys,wsa_accept from 0 - 440
+200819,155250,SEXYCODE,sta,account login 0-0
+200819,155329,SEXYCODE,clo,svr:0 conn:1 do-not-save
+200819,155338,-system,clo,server fd 0
+200819,160634,-system,sys,wsa_accept from 0 - 444
+200819,160707,SEXYCODE,sta,account login 0-0
+200819,161020,SEXYCODE,clo,svr:0 conn:1 do-not-save
+200819,161042,-system,clo,server fd 0
+200819,161052,-system,sys,wsa_accept from 0 - 440
+200819,161059,SEXYCODE,sta,account login 0-0
+200819,162137,SexyCode,sys,trans_class created
+200819,162137,SEXYCODE,create character [SexyCode]
+200819,162251,SEXYCODE,clo,svr:0 conn:1 save-mob
+200819,164746,-system,clo,server fd 0
+200819,164757,-system,sys,wsa_accept from 0 - 452
+200819,164758,SEXYCODE,sta,account login 0-0
+200819,165547,-system,clo,server fd 0
+200819,165549,-system,sys,wsa_accept from 0 - 448
+200819,165658,SEXYCODE,clo,svr:0 conn:1 do-not-save
+200819,165659,SEXYCODE,sta,account login 0-0
+200

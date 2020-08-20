@@ -1,0 +1,361 @@
+QUEST1 NAME Coveiro
+QUEST1 BASE_SPEECH-1 Pelo_jeito_que_está_vestido_não_para_acreditar.
+QUEST1 BASE_SPEECH-2 Você_já_ouviu_falar_deste_local...
+QUEST1 BASE_SPEECH-3 Os_mortos_criaram_vidas,_e_se_levantaram.
+QUEST1 BASE_SPEECH-4 Portanto_entre_e_elimine_os_monstros.
+QUEST1 POSITION 2371 2102
+QUEST1 CONDITION-1 LEVEL 40 115
+QUEST1 CONDITION-1 SPEECH Level_inadequado_[Lv_40~115].
+QUEST1 CONDITION-2 ISTRANS 0
+QUEST1 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST1 CONDITION-3 ITEM 4038 1
+QUEST1 CONDITION-3 SPEECH Cade_a_Vela_do_Coveiro?
+QUEST1 REWARD-1 1 100 SPEECH Quest_[Defensor_da_Alma]_Iniciada.
+QUEST1 REWARD-2 1 100 TELEPORT 2395 2105
+QUEST1 REWARD-3 1 100 DELETEITEM 4038 1 0
+
+QUEST2 NAME Jardineira
+QUEST2 BASE_SPEECH-1 kof_kof..._Monstros_ate_neste_solo_Sagrado.
+QUEST2 BASE_SPEECH-2 O_Jardin_dos_deuses_foi_contruído_com_suor_e_sangue,
+QUEST2 BASE_SPEECH-3 E_foi_invadido_por_aqueles_carbuncles.
+QUEST2 BASE_SPEECH-4 Porfavor,_Elimine-os!
+QUEST2 POSITION 2224 1712
+QUEST2 CONDITION-1 LEVEL 116 191 
+QUEST2 CONDITION-1 SPEECH Level_inadequado_[Lv_115~191].
+QUEST2 CONDITION-2 ISTRANS 0,1
+QUEST2 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST2 CONDITION-3 ITEM 4039 1
+QUEST2 CONDITION-3 SPEECH Cade_a_Colheita_do_Jardineiro?
+QUEST2 REWARD-1 1 100 SPEECH Quest_[Benção_do_Deus]_Iniciada.
+QUEST2 REWARD-2 1 100 TELEPORT 2235 1712
+QUEST2 REWARD-3 1 100 DELETEITEM 4039 1 0
+
+QUEST3 NAME Patrulha
+QUEST3 BASE_SPEECH-1 Sr._Guerreiro!_Por aqui_...Muito Obrigado_por_ter_vindo.
+QUEST3 BASE_SPEECH-2 Já_deve_ter_ouvido_sobre_Kaizen_com_os_Anciões.
+QUEST3 BASE_SPEECH-3 Entre_aqui_antes_que_seja_tarde_demais!
+QUEST3 BASE_SPEECH-4 E_por_favor,_acabe_com_eles._Confio_em_você!
+QUEST3 POSITION 454 3910
+QUEST3 CONDITION-1 LEVEL 190 265
+QUEST3 CONDITION-1 SPEECH Level_inadequado_[Lv_191~266].
+QUEST3 CONDITION-2 ISTRANS 0
+QUEST3 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST3 CONDITION-3 ITEM 4040 1
+QUEST3 CONDITION-3 SPEECH Cade_a_Cura_do_Batedor?
+QUEST3 REWARD-1 1 100 SPEECH Quest_[Ressu._do_Cav._Negro]_Iniciada.
+QUEST3 REWARD-2 1 100 TELEPORT 465 3912
+QUEST3 REWARD-3 1 100 DELETEITEM 4040 1 0
+
+QUEST4 NAME Patrulha
+QUEST4 BASE_SPEECH-1 Ah.._Aquele_lugar_está_repleto_de_hidras.
+QUEST4 BASE_SPEECH-2 Com_seus_olhos_sangrentos._Por_favor,_elimine_essas_criaturas..
+QUEST4 BASE_SPEECH-3 Me_dá_arrepios_ouvir_os_gritos_daquelas_Hidras.
+QUEST4 BASE_SPEECH-4 Apenas_desejo_voltar_para_casa_o_mais_breve_posssível.
+QUEST4 POSITION 668 3769
+QUEST4 CONDITION-1 LEVEL 265 320
+QUEST4 CONDITION-1 SPEECH Level_inadequado_[Lv_266~321].
+QUEST4 CONDITION-2 ISTRANS 0
+QUEST4 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST4 CONDITION-3 ITEM 4041 1
+QUEST4 CONDITION-3 SPEECH Cade_a_Mana_do_Batedor?
+QUEST4 REWARD-1 1 100 SPEECH Quest_[Hidra_Imortal]_Iniciada.
+QUEST4 REWARD-2 1 100 TELEPORT 668 3750
+QUEST4 REWARD-3 1 100 DELETEITEM 4041 -1 0
+
+QUEST5 NAME Guarda
+QUEST5 BASE_SPEECH-1 Ah!!!_Não_te_reconheci._Por_esta_área_ser_um_local_perigoso
+QUEST5 BASE_SPEECH-2 estamos_dobrando_nossos_esforços_nesta_entrada_deste_local.
+QUEST5 BASE_SPEECH-3 Que_a_proteção_dos_deuses_esteja_convosco._Este_é_o_local_de_supervisão
+QUEST5 BASE_SPEECH-4 dos_elfos_e_é_um_local_restrito,l_a_menos_que_tenha_permissão_do_reino
+QUEST5 POSITION 1300 4036
+QUEST5 CONDITION-1 LEVEL 320 350
+QUEST5 CONDITION-1 SPEECH Level_inadequado_[Lv_321~351].
+QUEST5 CONDITION-2 ISTRANS 0
+QUEST5 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST5 CONDITION-3 ITEM 4042 1
+QUEST5 CONDITION-3 SPEECH Cade_o_Emblema_do_Guarda?
+QUEST5 REWARD-1 1 100 SPEECH Quest_[Inicio_da_Infelicidade]_Iniciada.
+QUEST5 REWARD-2 1 100 TELEPORT 1325 4036
+QUEST5 REWARD-3 1 100 DELETEITEM 4042 1 0
+
+QUEST6 NAME Guarda_Real
+QUEST6 BASE_SPEECH-1 Eu_quero_testar_se_você_é_um_guerreiro_realmente_útil.
+QUEST6 BASE_SPEECH-2 Caso_consiga_passar_nos_testes_será_um_cavaleiro_real.
+QUEST6 BASE_SPEECH-3 Vá_ao_complexo_de_treinamento_dos_cavaleiros_e
+QUEST6 BASE_SPEECH-4 entre_o_emblema_do_reino_para_o_rei.
+QUEST6 POSITION 1744 1890
+QUEST6 CONDITION-1 LEVEL 219 249
+QUEST6 CONDITION-1 SPEECH Level_inadequado_[Lv_220~250].
+QUEST6 CONDITION-2 ISTRANS 0
+QUEST6 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST6 REWARD-1 1 100 SPEECH Quest_[Cavaleiro_do_Reino]_Iniciada.
+QUEST6 REWARD-2 1 100 TELEPORT 1725 1725
+
+QUEST7 NAME Guarda_Real
+QUEST7 BASE_SPEECH-1 Eu_quero_testar_se_você_é_um_guerreiro_realmente_útil.
+QUEST7 BASE_SPEECH-2 Caso_consiga_passar_nos_testes_será_um_cavaleiro_real.
+QUEST7 BASE_SPEECH-3 Vá_ao_complexo_de_treinamento_dos_cavaleiros_e
+QUEST7 BASE_SPEECH-4 entre_o_emblema_do_reino_para_o_rei.
+QUEST7 POSITION 1750 1584
+QUEST7 CONDITION-1 LEVEL 219 249
+QUEST7 CONDITION-1 SPEECH Level_inadequado_[Lv_220~2550].
+QUEST7 CONDITION-2 ISTRANS 0
+QUEST7 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST7 REWARD-1 1 100 SPEECH Quest_[Cavaleiro_do_Reino]_Iniciada.
+QUEST7 REWARD-2 1 100 TELEPORT 1725 1725
+
+QUEST8 NAME SacerdoteJester
+QUEST8 BASE_SPEECH-1 Os_monstro_descobriram_as_informações_sobre_o_tal_Círculo.
+QUEST8 BASE_SPEECH-2 Por_favor,_encontre_e_derrote_os_montros_e_salve_o_sacerdote.
+QUEST8 BASE_SPEECH-3 Tempo_atrás,_o_sacerdote_foi_atacado_pelos_montros_enquanto
+QUEST8 BASE_SPEECH-4 levava_o_Circulo_divino._Os_monstros_o_prenderam.
+QUEST8 POSITION 2625 1984
+QUEST8 CONDITION-1 LEVEL 70 400
+QUEST8 CONDITION-1 SPEECH Level_inadequado_[Lv_70~400].
+QUEST8 CONDITION-2 ISTRANS 0
+QUEST8 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST8 REWARD-1 1 100 SPEECH Boa_sorte_Guerreiro!
+QUEST8 REWARD-2 1 100 TELEPORT 2650 1985
+
+QUEST9 NAME SacerdoteKruno
+QUEST9 BASE_SPEECH-1 Primeiramente_proucure_uma_pedra_chamada_Pedaço_de_Chance
+QUEST9 BASE_SPEECH-2 que_deve_estar_com_o_chefe_daqueles_monstros.
+QUEST9 BASE_SPEECH-3 Se_conseguir_aquele_pedaçp,_transformarei_emum_composto_completo.
+QUEST9 BASE_SPEECH-4 Não_precisa_ficar_agradecido,_eu_lhe_devo_minha_vida.
+QUEST9 POSITION 2663 1972
+QUEST9 CONDITION-1 LEVEL 69 400
+QUEST9 CONDITION-1 SPEECH Level_inadequado_[Lv_70~400].
+QUEST9 CONDITION-2 ISTRANS 0
+QUEST9 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST9 CONDITION-3 ITEM 4123 1
+QUEST9 CONDITION-3 SPEECH Cade_o_Pedaço_de_Chance?
+QUEST9 REWARD-1 1 100 SPEECH Pegue_isto_em_troca.
+QUEST9 REWARD-2 1 100 ITEM 4124
+QUEST9 REWARD-3 1 100 DELETEITEM 4123 1 0
+
+QUEST10 NAME Chefe_Trainan
+QUEST10 BASE_SPEECH-1 Bom._Venha_ate_aqui...Presumo_que_tenha_o_emblema_do_Aprendiz!
+QUEST10 BASE_SPEECH-2 O_símbolo_poderá_ser_adquirido_com_os_monstros_locais.
+QUEST10 BASE_SPEECH-3 Me_traga_este_símbolo,_pois_é_um_item
+QUEST10 BASE_SPEECH-4 dispensável_na_formatura.
+QUEST10 POSITION 2234 1566
+QUEST10 CONDITION-1 LEVEL 100 149
+QUEST10 CONDITION-1 SPEECH Level_inadequado_[Lv_101~150].
+QUEST10 CONDITION-2 ISTRANS 0
+QUEST10 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST10 CONDITION-3 EQITEM 14 4080
+QUEST10 CONDITION-3 SPEECH Cade_o_embelma_do_aprendiz?
+QUEST10 REWARD-1 1 100 SPEECH Boa_sorte_guerreiro_em_sua_jornada.
+QUEST10 REWARD-2 1 100 EQDELETE 14 4080
+QUEST10 REWARD-3 1 100 EQUIP 16 4006
+
+QUEST11 NAME Diretor_Trainan
+QUEST11 BASE_SPEECH-1 Você_não_é_mais_uma_criança.
+QUEST11 BASE_SPEECH-2 Derrote_os_monstros_neste_local,_adquara_o_símbolo
+QUEST11 BASE_SPEECH-3 do_aprendiz_e_leve_até_o_capitão._Ele_está_dentro
+QUEST11 BASE_SPEECH-4 complexo_de_treinamento.
+QUEST11 POSITION 2246 1598
+QUEST11 CONDITION-1 LEVEL 100 149
+QUEST11 CONDITION-1 SPEECH Level_inadequado_[Lv_101~150].
+QUEST11 CONDITION-2 ISTRANS 0
+QUEST11 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST11 REWARD-1 1 100 SPEECH Quest_[Form._do_Cav._Aprendiz]_Iniciada.
+QUEST11 REWARD-2 1 100 TELEPORT 2245 1580
+
+QUEST12 NAME Patrulha
+QUEST12 BASE_SPEECH-1 Parace_que_você_veio_pelos_rumores_sobre_o_Molar_do_Gárgula
+QUEST12 BASE_SPEECH-2 As_vezes_um_rumor_é_só_rumor._Eu_não_entraria_ali...
+QUEST12 BASE_SPEECH-3 Mas_a_minha_curiosidade_é_maior_que_o_meu_medo
+QUEST12 BASE_SPEECH-4 e_por_isso_estou_andando_por_este_local.
+QUEST12 POSITION 787 4058
+QUEST12 CONDITION-1 LEVEL 201 204
+QUEST12 CONDITION-1 SPEECH Level_inadequado_[Lv_201~205].
+QUEST12 CONDITION-2 ISTRANS 0
+QUEST12 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST12 REWARD-1 1 100 SPEECH Quest_[Molar_do_Gargula]_Iniciada.
+QUEST12 REWARD-2 1 100 TELEPORT 800 4060
+
+QUEST13 NAME Sacerdotisa
+QUEST13 POSITION 1974 1579
+QUEST13 BASE_SPEECH Não_acredito_que_o_templo_foi_atacado_pelos_Montros...
+QUEST13 CONDITION-1 LEVEL 119 124
+QUEST13 CONDITION-1 SPEECH Level_inadequado_[Lv_120~125].
+QUEST13 CONDITION-2 ISTRANS 0
+QUEST13 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST13 CONDITION-3 ITEM 4125 1
+QUEST13 CONDITION-3 SPEECH Cade_o_Pedaço_de_Equilibrio?
+QUEST13 REWARD-1 1 100 SPEECH Pegue_isto_em_troca.
+QUEST13 REWARD-2 1 100 ITEM 4126
+QUEST13 REWARD-3 1 100 DELETEITEM 4125 1 0
+
+QUEST14 NAME Guarda
+QUEST14 POSITION 1967 1580
+QUEST14 BASE_SPEECH Ai_dentro_esta_a_chave_para_o_seu_Equibrio.
+QUEST14 CONDITION-1 LEVEL 119 399
+QUEST14 CONDITION-1 SPEECH Level_inadequado_[Lv_120~125].
+QUEST14 CONDITION-2 ISTRANS 0
+QUEST14 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST14 REWARD-1 1 100 SPEECH Quest_[Equilibrio_da_Força]_Iniciada.
+QUEST14 REWARD-2 1 100 TELEPORT 1965 1600
+
+QUEST15 NAME Lider_Aprendiz
+QUEST15 BASE_SPEECH-1 Seja_muito_bem_vindo(a)_ao_Reino.
+QUEST15 BASE_SPEECH-2 Espero_que_tenha_um_ótimo_dia!.
+QUEST15 BASE_SPEECH-3 Traga_me_15_Safiras,é_eu_lhe
+QUEST15 BASE_SPEECH-4 darei_uma_boa_recompensa.
+QUEST15 POSITION 1705 1725
+//QUEST15 CONDITION-2 ISTRANS 2
+//QUEST15 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST15 CONDITION-1 LEVEL 100 149
+QUEST15 CONDITION-1 SPEECH Level_inadequado_[Lv_101~150].
+QUEST15 CONDITION-1 ITEM 697 15
+QUEST15 CONDITION-1 SPEECH Traga_me_15_Safiras.
+QUEST15 REWARD-1 1 100 SPEECH Boa_sorte_Guerreiro!
+QUEST15 REWARD-2 1 100 DELETEITEM 697 15 0
+QUEST15 REWARD-3 1 100 EQUIP 16 4006
+
+
+QUEST16 NAME Perzen_Normal
+QUEST16 BASE_SPEECH-1 Bem_vindo(a)_a_cidade_de_Erion.
+QUEST16 BASE_SPEECH-2 Tenha_um_ótimo_dia!
+QUEST16 BASE_SPEECH-3 Traga-me_a_esfera_da_Sorte(N)
+QUEST16 BASE_SPEECH-4 Darei-lhe_uma_boa_recompensa.
+QUEST16 POSITION 2463 2009
+QUEST16 CONDITION-1 ITEM 4128 1
+QUEST16 CONDITION-1 SPEECH Cade_a_Esfera_da_Sorte(N)?
+QUEST16 REWARD-1 1 100 SPEECH Boa_sorte_Guerreiro!
+QUEST16 REWARD-2 1 100 DELETEITEM 4128 1 0
+QUEST16 REWARD-3 1 100 ITEM 3986 1 0
+
+QUEST17 NAME Perzen_Mistico
+QUEST17 BASE_SPEECH-1 Bem_vindo(a)_a_cidade_de_Armia.
+QUEST17 BASE_SPEECH-2 Tenha_um_ótimo_dia!
+QUEST17 BASE_SPEECH-3 Traga-me_a_esfera_da_Sorte(M)
+QUEST17 BASE_SPEECH-4 Darei-lhe_uma_boa_recompensa.
+QUEST17 POSITION 2133 2080
+QUEST17 CONDITION-1 ITEM 4129 1
+QUEST17 CONDITION-1 SPEECH Cade_a_Esfera_da_Sorte(M)?
+QUEST17 REWARD-1 1 100 SPEECH Boa_sorte_Guerreiro!
+QUEST17 REWARD-2 1 100 DELETEITEM 4129 1 0
+QUEST17 REWARD-3 1 100 ITEM 3988 1 0
+
+QUEST18 NAME Perzen_Arcano
+QUEST18 BASE_SPEECH-1 Bem_vindo(a)_a_cidade_de_Azran.
+QUEST18 BASE_SPEECH-2 Tenha_um_ótimo_dia!
+QUEST18 BASE_SPEECH-3 Traga-me_a_esfera_da_Sorte(A)
+QUEST18 BASE_SPEECH-4 Darei-lhe_uma_boa_recompensa.
+QUEST18 POSITION 2480 1705
+QUEST18 CONDITION-1 ITEM 4130 1
+QUEST18 CONDITION-1 SPEECH Cade_a_Esfera_da_Sorte(A)?
+QUEST18 REWARD-1 1 100 SPEECH Boa_sorte_Guerreiro!
+QUEST18 REWARD-2 1 100 DELETEITEM 4130 1 0
+QUEST18 REWARD-3 1 100 ITEM 3987 1 0
+
+QUEST19 NAME Perzen
+QUEST19 BASE_SPEECH-1 Bem_vindo(a)_a_cidade_de_Noatum.
+QUEST19 BASE_SPEECH-2 Espero_que_tenha_um_ótimo_dia!
+QUEST19 BASE_SPEECH-3 Caso_queira_uma_Bolsa_do_Andarilho,
+QUEST19 BASE_SPEECH-4 Traga-me_15_Poeira_de_Lac_soltas.
+//QUEST19 POSITION 1057 1720
+QUEST19 CONDITION-1 ITEM 413 15
+QUEST19 CONDITION-1 SPEECH Preciso_de_15_Poeira_de_Lac.
+QUEST19 REWARD-1 1 100 SPEECH Boa_sorte_Guerreiro!
+QUEST19 REWARD-2 1 100 DELETEITEM 413 15 0
+QUEST19 REWARD-3 1 100 ITEM 3467 1 0
+
+QUEST20 NAME Carbuncle_Wind
+QUEST20 BASE_SPEECH-1 Bem_vindo(a)_ao_campo_de_treino.
+QUEST20 BASE_SPEECH-2 Sou_o_ajudante_da_1º_porta!
+QUEST20 BASE_SPEECH-3 Se_precisar_de_ajuda_mágica,
+QUEST20 BASE_SPEECH-4 Fale_comigo.
+QUEST20 POSITION 2130 2034
+QUEST20 CONDITION-1 LEVEL 0 79
+QUEST20 CONDITION-1 SPEECH Ei,_Você_não_é_mais_um_iniciante.
+QUEST20 CONDITION-2 ISTRANS 0
+QUEST20 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST20 REWARD-1 1 100 SKILL 41 1000
+QUEST20 REWARD-2 1 100 SKILL 43 1000
+QUEST20 REWARD-3 1 100 SKILL 44 1000
+QUEST20 REWARD-4 1 100 SKILL 45 1000
+QUEST20 REWARD-5 1 100 SPEECH Sente-se_mais_forte_agora?.
+
+QUEST21 NAME Carbuncle_Wind
+QUEST21 BASE_SPEECH-1 Bem_vindo(a)_ao_campo_de_treino.
+QUEST21 BASE_SPEECH-2 Sou_o_ajudante_da_2º_porta!
+QUEST21 BASE_SPEECH-3 Se_precisar_de_ajuda_mágica,
+QUEST21 BASE_SPEECH-4 Fale_comigo.
+QUEST21 POSITION 2087 2002
+QUEST21 CONDITION-1 LEVEL 0 79
+QUEST21 CONDITION-1 SPEECH Ei,_Você_não_é_mais_um_iniciante.
+QUEST21 CONDITION-2 ISTRANS 0
+QUEST21 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST21 REWARD-1 1 100 SKILL 41 1000
+QUEST21 REWARD-2 1 100 SKILL 43 1000
+QUEST21 REWARD-3 1 100 SKILL 44 1000
+QUEST21 REWARD-4 1 100 SKILL 45 1000
+QUEST21 REWARD-5 1 100 SPEECH Sente-se_mais_forte_agora?.
+
+QUEST22 NAME Carbuncle_Wind
+QUEST22 BASE_SPEECH-1 Bem_vindo(a)_ao_campo_de_treino.
+QUEST22 BASE_SPEECH-2 Sou_o_ajudante_da_3º_porta!
+QUEST22 BASE_SPEECH-3 Se_precisar_de_ajuda_mágica,
+QUEST22 BASE_SPEECH-4 Fale_comigo.
+QUEST22 POSITION 2079 1944
+QUEST22 CONDITION-1 LEVEL 0 79
+QUEST22 CONDITION-1 SPEECH Ei,_Você_não_é_mais_um_iniciante.
+QUEST22 CONDITION-2 ISTRANS 0
+QUEST22 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST22 REWARD-1 1 100 SKILL 41 1000
+QUEST22 REWARD-2 1 100 SKILL 43 1000
+QUEST22 REWARD-3 1 100 SKILL 44 1000
+QUEST22 REWARD-4 1 100 SKILL 45 1000
+QUEST22 REWARD-5 1 100 SPEECH Sente-se_mais_forte_agora?.
+
+QUEST23 NAME Carbuncle_Wind
+QUEST23 BASE_SPEECH-1 Bem_vindo(a)_ao_campo_de_armia.
+QUEST23 BASE_SPEECH-2 Existem_outro_como_eu!
+QUEST23 BASE_SPEECH-3 Se_precisar_de_ajuda_mágica,
+QUEST23 BASE_SPEECH-4 Fale_comigo.
+QUEST23 POSITION 2211 2108
+QUEST23 CONDITION-1 LEVEL 0 79
+QUEST23 CONDITION-1 SPEECH Ei,_Você_não_é_mais_um_iniciante.
+QUEST23 CONDITION-2 ISTRANS 0
+QUEST23 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST23 REWARD-1 1 100 SKILL 41 1000
+QUEST23 REWARD-2 1 100 SKILL 43 1000
+QUEST23 REWARD-3 1 100 SKILL 44 1000
+QUEST23 REWARD-4 1 100 SKILL 45 1000
+QUEST23 REWARD-5 1 100 SPEECH Sente-se_mais_forte_agora?.
+
+QUEST24 NAME Carbuncle_Wind
+QUEST24 BASE_SPEECH-1 Bem_vindo(a)_ao_campo_de_armia.
+QUEST24 BASE_SPEECH-2 Existem_outro_como_eu!
+QUEST24 BASE_SPEECH-3 Se_precisar_de_ajuda_mágica,
+QUEST24 BASE_SPEECH-4 Fale_comigo.
+QUEST24 POSITION 2278 2118
+QUEST24 CONDITION-1 LEVEL 0 79
+QUEST24 CONDITION-1 SPEECH Ei,_Você_não_é_mais_um_iniciante.
+QUEST24 CONDITION-2 ISTRANS 0
+QUEST24 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST24 REWARD-1 1 100 SKILL 41 1000
+QUEST24 REWARD-2 1 100 SKILL 43 1000
+QUEST24 REWARD-3 1 100 SKILL 44 1000
+QUEST24 REWARD-4 1 100 SKILL 45 1000
+QUEST24 REWARD-5 1 100 SPEECH Sente-se_mais_forte_agora?.
+
+QUEST25 NAME Carbuncle_Wind
+QUEST25 BASE_SPEECH-1 Bem_vindo(a)_ao_campo_de_armia.
+QUEST25 BASE_SPEECH-2 Existem_outro_como_eu!
+QUEST25 BASE_SPEECH-3 Se_precisar_de_ajuda_mágica,
+QUEST25 BASE_SPEECH-4 Fale_comigo.
+QUEST25 POSITION 2370 2106
+QUEST25 CONDITION-1 LEVEL 0 79
+QUEST25 CONDITION-1 SPEECH Ei,_Você_não_é_mais_um_iniciante.
+QUEST25 CONDITION-2 ISTRANS 0
+QUEST25 CONDITION-2 SPEECH Desculpe._Somente_mortais.
+QUEST25 REWARD-1 1 100 SKILL 41 1000
+QUEST25 REWARD-2 1 100 SKILL 43 1000
+QUEST25 REWARD-3 1 100 SKILL 44 1000
+QUEST25 REWARD-4 1 100 SKILL 45 1000
+QUEST25 REWARD-5 1 100 SPEECH Sente-se_mais_forte_agora?.
+

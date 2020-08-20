@@ -1,0 +1,10 @@
+200224,184021,-system,start log
+200224,184026,-system,sys,wsa_accept from 0 - 876
+200224,184137,ADMIN,sta,account login 0-0
+200224,184151,ADMIN,create character [Sc2ALLin]
+200225,083026,ADMIN2,sta,account login 0-0
+200225,083216,ADMIN2,create character [dsegfsdg]
+200225,095817,-system,clo,server fd 0
+200225,095902,-system,sys,wsa_accept from 0 - 924
+200225,100510,ADMIN,clo,svr:0 conn:1 do-not-save
+200225,112411,-system,clo,server fd 0

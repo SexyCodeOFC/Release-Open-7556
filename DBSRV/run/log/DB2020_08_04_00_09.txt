@@ -1,0 +1,115 @@
+200804,000955,-system,start log
+200804,000955,-system,0,,,,,0,0,0,0
+200804,000955,-system,3,COVID-19,FIKEMCASA,Tuberculose,,1,1,8,936
+200804,000955,-system,4,VIKINGS,VALHALLA,RAGNAROK,KATTEGAT,1,1,8,100
+200804,000955,-system,5,BLUELIXO,,,,0,1,7,0
+200804,001301,-system,sys,wsa_accept from 0 - 428
+200804,001302,PUNISHER,sta,account login 0-0
+200804,001745,SEXYCODE,sta,account login 0-0
+200804,002105,SEXYCODE,clo,svr:0 conn:2 save-mob
+200804,002116,-system,clo,server fd 0
+200804,002119,-system,sys,wsa_accept from 0 - 444
+200804,002127,SEXYCODE,sta,account login 0-0
+200804,002132,PUNISHER,clo,svr:0 conn:1 do-not-save
+200804,002132,PUNISHER,sta,account login 0-0
+200804,002604,SEXYCODE,clo,svr:0 conn:2 save-mob
+200804,003222,SEXYCODE,sta,account login 0-0
+200804,003240,SEXYCODE,delete char [sadafg]
+200804,003245,SEXYCODE,delete char [Deliciosa]
+200804,003251,SEXYCODE,delete char [Sexy]
+200804,003259,SEXYCODE,create character [Sexy]
+200804,003512,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,003834,PUNISHER,sta,account login 0-0
+200804,005000,SEXYCODE,clo,svr:0 conn:2 save-mob
+200804,005411,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,083052,PUNISHER,sta,account login 0-0
+200804,101239,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,101254,PUNISHER,sta,account login 0-0
+200804,101356,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,101428,PUNISHER,sta,account login 0-0
+200804,101541,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,101849,PUNISHER,sta,account login 0-0
+200804,102041,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,111014,PUNISHER,sta,account login 0-0
+200804,115802,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,115832,PUNISHER,sta,account login 0-0
+200804,115908,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,124610,PUNISHER,sta,account login 0-0
+200804,133955,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,135859,PUNISHER,sta,account login 0-0
+200804,140047,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,140257,PUNISHER,sta,account login 0-0
+200804,153722,-system,clo,server fd 0
+200804,153757,-system,sys,wsa_accept from 0 - 444
+200804,154003,PUNISHER,clo,svr:0 conn:1 do-not-save
+200804,154004,PUNISHER,sta,account login 0-0
+200804,154145,SEXYCODE,sta,account login 0-0
+200804,161108,SEXYCODE,clo,svr:0 conn:2 save-mob
+200804,161158,SEXYCODE,sta,account login 0-0
+200804,162736,SEXYCODE,clo,svr:0 conn:2 save-mob
+200804,162743,-system,clo,server fd 0
+200804,162808,-system,sys,wsa_accept from 0 - 468
+200804,162816,SEXYCODE,err,addAccountlist - already added
+200804,162816,SEXYCODE,sta,account login 0-0
+200804,162931,PUNISHER,sta,account login 0-0
+200804,164047,SEXYCODE,clo,svr:0 conn:1 save-mob
+200804,164229,-system,clo,server fd 0
+200804,164238,-system,sys,wsa_accept from 0 - 456
+200804,164302,SEXYCODE,sta,account login 0-0
+200804,164330,PUNISHER,clo,svr:0 conn:2 do-not-save
+200804,164330,PUNISHER,sta,account login 0-0
+200804,164746,SEXYCODE,clo,svr:0 conn:1 save-mob
+200804,175829,-system,clo,server fd 0
+200804,180809,-system,sys,wsa_accept from 0 - 460
+200804,181035,SEXYCODE,sta,account login 0-0
+200804,181053,PUNISHER,clo,svr:0 conn:2 do-not-save
+200804,181053,PUNISHER,sta,account login 0-0
+200804,182108,SEXYCODE,clo,svr:0 conn:1 save-mob
+200804,184538,-system,clo,server fd 0
+200804,184559,-system,sys,wsa_accept from 0 - 232
+200804,184621,SEXYCODE,sta,account login 0-0
+200804,184702,PUNISHER,clo,svr:0 conn:2 do-not-save
+200804,184703,PUNISHER,sta,account login 0-0
+200804,185109,SEXYCODE,clo,svr:0 conn:1 save-mob
+200804,185302,SEXYCODE,sta,account login 0-0
+200804,185448,SEXYCODE,clo,svr:0 conn:1 save-mob
+200804,185549,-system,clo,server fd 0
+200804,185559,-system,sys,wsa_accept from 0 - 232
+200804,185604,SEXYCODE,sta,account login 0-0
+200804,190903,SEXYCODE,clo,svr:0 conn:1 save-mob
+200804,190905,PUNISHER,clo,svr:0 conn:2 do-not-save
+200804,190906,PUNISHER,sta,account login 0-0
+200804,191851,VICTOR,sta,account login 0-0
+200804,191900,VICTOR,err,writeaccount EACCES
+200804,191909,VICTOR,err,writeaccount EACCES
+200804,191909,Horus,err,newchar fail -create file
+200804,191912,VICTOR,err,newchar already charged
+200804,191912,Horus,Horus
+200804,191922,VICTOR,err,newchar already charged
+200804,191922,ADM-Horus,Horus
+200804,191938,VICTOR,err,newchar already charged
+200804,191938,Horus,Horus
+200804,191943,VICTOR,err,newchar already charged
+200804,191943,Victor,Horus
+200804,191949,VICTOR,err,newchar already charged
+200804,191949,HorusADM,Horus
+200804,191958,VICTOR,err,newchar already charged
+200804,191958,Horus-,Horus
+200804,192005,VICTOR,err,newchar already charged
+200804,192005,-Horus-,Horus
+200804,192052,VICTOR,clo,svr:0 conn:2 do-not-save
+200804,192100,VICTORBRUM,sta,account login 0-0
+200804,192105,VICTORBRUM,err,writeaccount EACCES
+200804,192118,VICTORBRUM,err,writeaccount EACCES
+200804,192118,-Horus-,err,newchar fail -create file
+200804,192123,VICTORBRUM,clo,svr:0 conn:2 do-not-save
+200804,192144,PUNISHER,sys,req_previous_save svr:0 conn:1
+200804,192144,,clo,svr:0 conn:2 do-not-save
+200804,192146,PUNISHER,sys,req_previous_save svr:0 conn:1
+200804,192146,,clo,svr:0 conn:2 do-not-save
+200804,192149,PUNISHER,sys,req_previous_save svr:0 conn:1
+200804,192149,,clo,svr:0 conn:2 do-not-save
+200804,192149,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,192154,PUNISHER,sta,account login 0-0
+200804,192228,PUNISHER,clo,svr:0 conn:1 save-mob
+200804,192317,PUNISHER,sta,account login 0-0

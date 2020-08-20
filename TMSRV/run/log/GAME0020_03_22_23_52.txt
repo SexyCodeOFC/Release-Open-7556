@@ -1,0 +1,464 @@
+200322,235236,00000000,-system,sys,log start 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:0 item:1171 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:0 item:1297 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:0 item:1456 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:0 item:1606 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:0 type:1 item:1171 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:1 type:1 item:1297 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:2 type:1 item:1456 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (0)lv:29 class:3 type:1 item:1606 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:0 item:1174 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:0 item:1309 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:0 item:1459 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:0 item:1609 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:0 type:1 item:1174 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:1 type:1 item:1309 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:2 type:1 item:1459 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (1)lv:34 class:3 type:1 item:1609 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:0 item:1162 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:0 item:1261 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:0 item:1447 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:0 item:1597 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:0 type:1 item:1162 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:1 type:1 item:1261 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:2 type:1 item:1447 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (2)lv:39 class:3 type:1 item:1597 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:0 item:1168 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:0 item:1285 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:0 item:1453 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:0 item:1603 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:0 type:1 item:1168 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:1 type:1 item:1285 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:2 type:1 item:1453 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (3)lv:44 class:3 type:1 item:1603 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:0 item:1165 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:0 item:1273 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:0 item:1450 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:0 item:1600 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:0 type:1 item:1165 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:1 type:1 item:1273 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:2 type:1 item:1450 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (4)lv:49 class:3 type:1 item:1600 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:0 item:1186 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:0 item:1321 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:0 item:1471 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:0 item:1621 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:0 type:1 item:1186 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:1 type:1 item:1321 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:2 type:1 item:1471 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (5)lv:84 class:3 type:1 item:1621 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:0 item:1189 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:0 item:1324 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:0 item:1474 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:0 item:1624 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:0 type:1 item:1189 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:1 type:1 item:1324 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:2 type:1 item:1474 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (6)lv:89 class:3 type:1 item:1624 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:0 item:1177 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:0 item:1312 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:0 item:1462 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:0 item:1612 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:0 type:1 item:1177 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:1 type:1 item:1312 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:2 type:1 item:1462 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (7)lv:94 class:3 type:1 item:1612 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:0 item:1183 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:0 item:1318 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:0 item:1468 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:0 item:1618 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:0 type:1 item:1183 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:1 type:1 item:1318 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:2 type:1 item:1468 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (8)lv:99 class:3 type:1 item:1618 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:0 item:1180 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:0 item:1315 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:0 item:1465 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:0 item:1615 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:0 type:1 item:1180 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:1 type:1 item:1315 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:2 type:1 item:1465 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (9)lv:104 class:3 type:1 item:1615 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:0 item:1201 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:0 item:1336 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:0 item:1486 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:0 item:1636 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:0 type:1 item:1201 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:1 type:1 item:1336 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:2 type:1 item:1486 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (10)lv:119 class:3 type:1 item:1636 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:0 item:1204 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:0 item:1339 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:0 item:1489 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:0 item:1639 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:0 type:1 item:1204 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:1 type:1 item:1339 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:2 type:1 item:1489 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (11)lv:124 class:3 type:1 item:1639 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:0 item:1192 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:0 item:1327 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:0 item:1477 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:0 item:1627 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:0 type:1 item:1192 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:1 type:1 item:1327 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:2 type:1 item:1477 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (12)lv:129 class:3 type:1 item:1627 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:0 item:1198 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:0 item:1333 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:0 item:1483 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:0 item:1633 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:0 type:1 item:1198 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:1 type:1 item:1333 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:2 type:1 item:1483 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (13)lv:134 class:3 type:1 item:1633 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:0 item:1195 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:0 item:1330 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:0 item:1480 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:0 item:1630 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:0 type:1 item:1195 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:1 type:1 item:1330 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:2 type:1 item:1480 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (14)lv:139 class:3 type:1 item:1630 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:0 item:2368 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:0 item:2368 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:0 item:2368 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:0 item:2368 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:0 type:1 item:2373 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:1 type:1 item:2373 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:2 type:1 item:2373 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (15)lv:149 class:3 type:1 item:2368 100 100 50 10 100 100 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:0 item:809 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:0 item:824 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:0 item:809 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:0 item:824 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:0 type:1 item:854 43 3 60 20 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:1 type:1 item:899 43 3 60 20 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:2 type:1 item:854 43 3 60 20 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (16)lv:154 class:3 type:1 item:824 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:0 item:1216 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:0 item:1351 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:0 item:1501 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:0 item:1651 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:0 type:1 item:1216 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:1 type:1 item:1351 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:2 type:1 item:1501 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (17)lv:159 class:3 type:1 item:1651 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:0 item:1219 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:0 item:1354 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:0 item:1504 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:0 item:1654 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:0 type:1 item:1219 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:1 type:1 item:1354 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:2 type:1 item:1504 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (18)lv:169 class:3 type:1 item:1654 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:0 item:1207 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:0 item:1342 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:0 item:1492 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:0 item:1642 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:0 type:1 item:1207 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:1 type:1 item:1342 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:2 type:1 item:1492 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (19)lv:179 class:3 type:1 item:1642 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:0 item:1213 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:0 item:1348 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:0 item:1498 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:0 item:1648 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:0 type:1 item:1213 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:1 type:1 item:1348 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:2 type:1 item:1498 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (20)lv:189 class:3 type:1 item:1648 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:0 item:1210 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:0 item:1345 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:0 item:1495 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:0 item:1645 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:0 type:1 item:1210 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:1 type:1 item:1345 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:2 type:1 item:1495 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (21)lv:199 class:3 type:1 item:1645 43 0 0 0 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:0 item:3551 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:0 item:3556 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:0 item:3551 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:0 item:3556 43 3 2 45 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:0 type:1 item:3566 43 3 60 20 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:1 type:1 item:3582 43 3 60 20 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:2 type:1 item:3566 43 3 60 20 0 0 
+200322,235236,00000000,-system, TextDataLoad 'lvitem.txt' (22)lv:254 class:3 type:1 item:3556 43 3 2 45 0 0 
+200322,235236,00000000,-system,sys,start initialized 
+200322,235236,00000000,-system,DB set sapphire 688 / 320 
+200322,235236,00000000,-system,etc, guild report 0 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 1 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 2 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 3 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 4 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 5 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 6 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 7 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 8 - 0 0 0 0 0 
+200322,235236,00000000,-system,etc, guild report 9 - 0 0 0 0 0 
+200322,235236,00000000,system,Complate Server Init 
+200322,235238,937363b3,PUROPVP00,clo,fd 2-0 conn:1 
+200322,235240,937363b3,PUROPVP00,sta,179.99.115.147 59ACD892855F469CA28D458D2EC20EC2 1 - 0 -640691987 (584) 
+200322,235244,4b8fd8ba,GUI2,sta,186.216.143.75 B59BCC9538E049418E964BC161E41778 2 - 0 -640696090 (588) 
+200322,235244,555c28bd,JOAOZV,clo,fd 2-0 conn:3 
+200322,235249,adf620bf,ROBERTINHO,clo,fd 2-0 conn:3 
+200322,235250,937363b3,PUROPVP00,sta,Login char:ROCKSTAR exp:49850975 level:175 conn:1 money:1442186, store:10500000 
+200322,235250,4f66b2bf,LOSTC5,clo,fd 2-0 conn:3 
+200322,235251,555c28bd,JOAOZV,sta,189.40.92.85 858D8625BC364F6C83BEE2381975FE55 3 - 0 -640702780 (596) 
+200322,235251,adf620bf,ROBERTINHO,sta,191.32.246.173 C0F0FDDFE7834A87A2D2F3726018CF5B 4 - 0 -640703298 (600) 
+200322,235252,4b8fd8ba,GUI2,sta,Login char:Yukimura exp:178437217 level:253 conn:2 money:1843972, store:0 
+200322,235252,f5a5e72d,TINIEL,clo,fd 2-0 conn:5 
+200322,235253,4f66b2bf,LOSTC5,sta,191.178.102.79 D014024BE4B04F6D9B21071ECF3B2456 5 - 0 -640705140 (604) 
+200322,235254,f5a5e72d,TINIEL,sta,45.231.165.245 E1706AC2C4841C195C55D43CF129A3D 6 - 0 -640705664 (608) 
+200322,235254,d55f18bd,ANDRESHEIK,clo,fd 2-0 conn:7 
+200322,235255,c5b6deba,GIOVANIFRAGA,clo,fd 2-0 conn:7 
+200322,235259,adf620bf,ROBERTINHO,sta,Login char:Robertinho exp:0 level:0 conn:4 money:0, store:0 
+200322,235300,4f66b2bf,LOSTC5,sta,Login char:Thor exp:513865195 level:294 conn:5 money:33107288, store:0 
+200322,235300,555c28bd,JOAOZV,sta,Login char:BjorIronside exp:1499634606 level:343 conn:3 money:19048069, store:0 
+200322,235303,d55f18bd,ANDRESHEIK,clo,fd 2-0 conn:7 
+200322,235310,f5a5e72d,TINIEL,sta,Login char:Tiniel exp:555667340 level:297 conn:6 money:22141364, store:0 
+200322,235312,c5b6deba,GIOVANIFRAGA,clo,fd 2-0 conn:7 
+200322,235313,adf620bf,ROBERTINHO,lvl Robertinho level up to 1 
+200322,235316,511e6ab3,KPOTA,sta,179.106.30.81 1C03F2DFF94B4DE3A10F4BFB74953ADA 8 - 0 -640728037 (616) 
+200322,235316,cf22db8a,CAPIROTO,sta,138.219.34.207 CE29264EEC448B7814A401955A93FEE 7 - 0 -640728539 (624) 
+200322,235316,d55f18bd,ANDRESHEIK,sta,189.24.95.213 58BEEB893D544EAA9471C2C9F7EE3117 9 - 0 -640728539 (620) 
+200322,235317,4f66b2bf,LOSTC5,lvl Thor level up to 295 
+200322,235324,511e6ab3,KPOTA,sta,Login char:Floki exp:632818683 level:300 conn:8 money:8398361, store:0 
+200322,235325,adf620bf,ROBERTINHO,lvl Robertinho level up to 2 
+200322,235325,cf22db8a,CAPIROTO,sta,Login char:COVID-09 exp:6030499 level:93 conn:7 money:2234494, store:0 
+200322,235328,f5a5e72d,TINIEL,que,scrap inven 412 
+200322,235328,f5a5e72d,TINIEL,que,scrap inven 413 
+200322,235334,555c28bd,ZOLAC2,clo,fd 2-0 conn:10 
+200322,235334,d55f18bd,ANDRESHEIK,sta,Login char:HT-SHEIK exp:822925934 level:310 conn:9 money:8048342, store:0 
+200322,235335,4f66b2bf,LOSTC5,sel,Aki 16200  05e02b0349063b00 
+200322,235337,555c28bd,ZOLAC2,sta,189.40.92.85 858D8625BC364F6C83BEE2381975FE55 10 - 0 -640748694 (628) 
+200322,235337,f5a5e72d,TINIEL,ref,fail,2208,7,413,0 0 0 <43 7 60 10 3 25> 
+200322,235339,937363b3,PUROSWAP00,clo,fd 2-0 conn:11 
+200322,235341,937363b3,PUROSWAP00,sta,179.99.115.147 59ACD892855F469CA28D458D2EC20EC2 11 - 0 -640752923 (636) 
+200322,235341,f5a5e72d,RAFAIL,sta,45.231.165.245 E1706AC2C4841C195C55D43CF129A3D 12 - 0 -640753421 (640) 
+200322,235345,adf620bf,ROBERTINHO,lvl Robertinho level up to 3 
+200322,235346,4f66b2bf,LOSTC5,sel,Aki 2250  0963000000000000 
+200322,235347,555c28bd,ZOLAC2,sta,Login char:gfgkf exp:3698261 level:82 conn:10 money:1100, store:0 
+200322,235348,937363b3,PUROSWAP00,sta,Login char:AUUUUUUUUUUU exp:174268399 level:252 conn:11 money:1428641, store:0 
+200322,235401,c5b6deba,GIOVANIFRAGA,clo,fd 2-0 conn:13 
+200322,235402,511e6ab3,RENANJSANTOS,sta,179.106.30.81 1C03F2DFF94B4DE3A10F4BFB74953ADA 13 - 0 -640774442 (644) 
+200322,235405,adf620bf,ROBERTINHO,err,hitposition range 2127,2033 - 2125,2031 - D:3,R:1 - skill:-1 
+200322,235406,4f66b2bf,LOSTC5,get  095e000000000000 
+200322,235406,adf620bf,ROBERTINHO,lvl Robertinho level up to 4 
+200322,235408,c5b6deba,GIOVANIFRAGA,clo,fd 2-0 conn:14 
+200322,235410,f5a5e72d,RAFAIL,sta,Login char:rafail exp:80000301 level:201 conn:12 money:16689226, store:0 
+200322,235413,511e6ab3,RENANJSANTOS,sta,Login char:Lagertha exp:245752856 level:265 conn:13 money:7906473, store:0 
+200322,235414,adf620bf,ROBERTINHO,err,hitposition range 2114,2027 - 2113,2025 - D:2,R:1 - skill:-1 
+200322,235415,adf620bf,ROBERTINHO,lvl Robertinho level up to 5 
+200322,235417,adf620bf,ROBERTINHO,lvl Robertinho level up to 6 
+200322,235421,adf620bf,ROBERTINHO,err,hitposition range 2103,2025 - 2104,2027 - D:2,R:1 - skill:-1 
+200322,235421,4f66b2bf,LOSTC5,get  019c000000000000 
+200322,235421,c5b6deba,SHENS01,sta,186.222.182.197 BE3F3BC71AC4D6EA0653EE7BB6BBB12 14 - 0 -640793233 (524) 
+200322,235422,adf620bf,ROBERTINHO,lvl Robertinho level up to 7 
+200322,235424,4b8fd8ba,GUI2,ref, armor befor 1645-(43,6,60,6,3,20) after 1645-(43,6,2,24,71,70) - prc:0 
+200322,235424,adf620bf,ROBERTINHO,lvl Robertinho level up to 8 
+200322,235427,f4799bb3,BRUNOPLANK,clo,fd 2-0 conn:15 
+200322,235427,adf620bf,ROBERTINHO,lvl Robertinho level up to 9 
+200322,235427,c5b6deba,SHENS01,clo,fd 11-0 
+200322,235427,c5b6deba,SHENS01,clo,fd 11-0 conn:14 
+200322,235428,d55f18bd,ANDRESHEIK,get  05dd2b00480a020c 
+200322,235429,f4799bb3,BRUNOPLANK,sta,179.155.121.244 69C20729215344748F06C95C1089634B 14 - 0 -640800893 (664) 
+200322,235431,4b8fd8ba,GUI2,ref, armor befor 1642-(43,6,0,0,0,0) after 1642-(43,6,4,60,60,8) - prc:0 
+200322,235431,adf620bf,ROBERTINHO,lvl Robertinho level up to 10 
+200322,235432,f4799bb3,BRUNOPLANK,sta,Login char:Depressao exp:1837594989 level:350 conn:14 money:49974100, store:0 
+200322,235433,511e6ab3,RENANJSANTOS,tra,KPOTA 0 0fb3000000000000 
+200322,235436,f5a5e72d,RAFAIL,get  01a3000000000000 
+200322,235437,adf620bf,ROBERTINHO,lvl Robertinho level up to 11 
+200322,235443,937363b3,PUROSWAP00,lvl AUUUUUUUUUUU level up to 253 
+200322,235444,adf620bf,ROBERTINHO,err,hitposition range 2088,2027 - 2086,2026 - D:2,R:1 - skill:-1 
+200322,235444,c5b6deba,SHENS01,sta,186.222.182.197 BE3F3BC71AC4D6EA0653EE7BB6BBB12 15 - 0 -640816535 (524) 
+200322,235447,adf620bf,ROBERTINHO,lvl Robertinho level up to 12 
+200322,235451,c5b6deba,SHENS01,sta,Login char:XENS exp:78294518 level:200 conn:15 money:3842472, store:0 
+200322,235452,937363b3,PUROSWAP00,get  01a3000000000000 
+200322,235454,f5a5e72d,TINIEL,ref,refine success 2208+8 - (413-0,0,0) <43 8 60 10 3 25> 
+200322,235454,adf620bf,ROBERTINHO,err,hitposition range 2083,2028 - 2080,2027 - D:3,R:1 - skill:-1 
+200322,235456,f4799bb3,BRNPLANK2,clo,fd 2-0 conn:16 
+200322,235457,f4799bb3,BRNPLANK2,sta,179.155.121.244 69C20729215344748F06C95C1089634B 16 - 0 -640829407 (396) 
+200322,235459,adf620bf,ROBERTINHO,err,hitposition range 2076,2024 - 2077,2026 - D:2,R:1 - skill:-1 
+200322,235501,f4799bb3,BRUNOPLANK,etc,PK MOB killer:Tauron(351,-3) killed:Depressao(350,144) kingdom:0 war:0 
+200322,235502,4b8fd8ba,RAVELLE,sta,186.216.143.75 B59BCC9538E049418E964BC161E41778 17 - 0 -640834263 (676) 
+200322,235504,adf620bf,ROBERTINHO,lvl Robertinho level up to 13 
+200322,235505,f4799bb3,BRNPLANK3,clo,fd 2-0 conn:18 
+200322,235509,f4799bb3,BRNPLANK9,clo,fd 2-0 conn:18 
+200322,235509,adf620bf,ROBERTINHO,err,hitposition range 2076,2023 - 2074,2023 - D:2,R:1 - skill:-1 
+200322,235511,adf620bf,ROBERTINHO,err,hitposition range 2077,2021 - 2075,2021 - D:2,R:1 - skill:-1 
+200322,235511,4b8fd8ba,RAVELLE,sta,Login char:Yusuke exp:7460790 level:97 conn:17 money:51589, store:0 
+200322,235512,743a8992,BRNPLANK8,Newbie Reward item send 
+200322,235512,f4799bb3,BRNPLANK8,sta,179.155.121.244 69C20729215344748F06C95C1089634B 18 - 0 -640844334 (696) 
+200322,235518,f4799bb3,BRNPLANK8,sys,request new character 2213212 
+200322,235518,f4799bb3,BRNPLANK8,sys,confirm new character 
+200322,235521,f4799bb3,BRNPLANK2,sta,Login char:b3r3n1c3 exp:1008534838 level:320 conn:16 money:6734294, store:0 
+200322,235521,e269b02d,TIBERNAS1,sta,45.176.105.226 5AC518EE8C24C599A87CBA9406D4332 19 - 0 -640853634 (656) 
+200322,235522,adf620bf,ROBERTINHO,err,hitposition range 2108,2020 - 2110,2021 - D:2,R:1 - skill:-1 
+200322,235523,f4799bb3,BRNPLANK3,sta,179.155.121.244 69C20729215344748F06C95C1089634B 20 - 0 -640855165 (660) 
+200322,235524,adf620bf,ROBERTINHO,err,hitposition range 2111,2023 - 2110,2021 - D:2,R:1 - skill:-1 
+200322,235525,4b8fd8ba,GUI2,sys, Logout Char Yukimura money:1843272, Store :0, conn:2  
+200322,235528,e269b02d,TIBERNAS2,sta,45.176.105.226 5AC518EE8C24C599A87CBA9406D4332 21 - 0 -640860027 (688) 
+200322,235529,36e5f3bf,SPORT,sta,191.243.229.54 D29684493A8D4ACCA11070C3302033E1 22 - 0 -640861296 (704) 
+200322,235534,36e5f3bf,SPORT,sta,Login char:SouFoDa exp:493018471 level:293 conn:22 money:8347943, store:0 
+200322,235535,e269b02d,TIBERNAS1,sta,Login char:TerrorSquaD- exp:117434012 level:227 conn:19 money:1060900, store:0 
+200322,235539,adf620bf,ROBERTINHO,err,hitposition range 2116,2042 - 2116,2040 - D:2,R:1 - skill:-1 
+200322,235541,e269b02d,TIBERNAS2,sta,Login char:KR4T0S- exp:385025289 level:287 conn:21 money:3156266, store:15000000 
+200322,235542,f4799bb3,BRNPLANK8,sys,set citizen 21-43:0 86:1 28:0 
+200322,235542,f4799bb3,BRNPLANK8,sta,Login char:2213212 exp:0 level:0 conn:18 money:0, store:0 
+200322,235542,f4799bb3,BRNPLANK8,etc,townspeople 21-43:0 86:1 28:1 
+200322,235543,937363b3,PUROSWAP00,get  01a3000000000000 
+200322,235548,f5a5e72d,RAFAELAA,sta,45.231.165.245 E1706AC2C4841C195C55D43CF129A3D 23 - 0 -640880173 (716) 
+200322,235557,08bdaab1,LEOSK,sta,177.170.189.8 F631B7922634D8482983A1A58BD5FBB 24 - 0 -640888463 (720) 
+200322,235558,f4799bb3,BRNPLANK3,sta,Login char:Pneumonia exp:848266373 level:312 conn:20 money:2035289, store:0 
+200322,235601,c5b6deba,SHENS01,ref, armor befor 1652-(43,2,72,15,54,9) after 1652-(43,6,60,8,72,30) - prc:0 
+200322,235601,08bdaab1,LEOSK,sta,Login char:Tiwaz exp:110035967 level:222 conn:24 money:3781663, store:0 
+200322,235602,f5a5e72d,RAFAELAA,clo,fd 11-0 
+200322,235602,f5a5e72d,RAFAELAA,clo,fd 11-0 conn:23 
+200322,235603,c5b6deba,SHENS01,ref, armor befor 1652-(43,6,60,8,72,30) after 1652-(43,6,2,30,72,20) - prc:0 
+200322,235607,937363b3,PUROPVP00,get  01a4000000000000 
+200322,235608,937363b3,PUROPVP00,lvl ROCKSTAR level up to 176 
+200322,235614,f5a5e72d,GRACA,clo,fd 2-0 conn:23 
+200322,235615,f5a5e72d,GRACA,sta,45.231.165.245 E1706AC2C4841C195C55D43CF129A3D 23 - 0 -640907262 (716) 
+200322,235620,36e5f3bf,SPORT1,clo,fd 2-0 conn:25 
+200322,235624,36e5f3bf,SPORT1,sta,191.243.229.54 D29684493A8D4ACCA11070C3302033E1 25 - 0 -640915769 (752) 
+200322,235625,f5a5e72d,GRACA,sta,Login char:BalaEFogo exp:57573304 level:183 conn:23 money:2412500, store:0 
+200322,235625,937363b3,PUROPVP00,get  05ce2b0048140212 
+200322,235628,937363b3,PUROPVP00,get  01a3000000000000 
+200322,235629,36e5f3bf,SPORT1,sta,Login char:SouFoDaTiO exp:93127815 level:211 conn:25 money:3335210, store:0 
+200322,235630,d55f18bd,NARUTO123,sta,189.24.95.213 58BEEB893D544EAA9471C2C9F7EE3117 26 - 0 -640922008 (724) 
+200322,235631,555c28bd,ZOLAC2,Player with weapon has just attacked from a distance 
+200322,235633,c9a7c2a8,ZSASKEX,clo,fd 2-0 conn:27 
+200322,235635,c9a7c2a8,ZSASKEX,sta,168.194.167.201 AFCE567658664A01AE7BB5A7A4B5107B 27 - 0 -640927447 (768) 
+200322,235639,d55f18bd,NARUTO123,clo,fd 11-0 
+200322,235639,d55f18bd,NARUTO123,clo,fd 11-0 conn:26 
+200322,235643,f4799bb3,BRNPLANK8,etc,PK MOB killer:Troll Caido (138,-3) killed:2213212(0,75) kingdom:0 war:0 
+200322,235643,c9a7c2a8,ZSASKEX,sta,Login char:LiGaLaIzE exp:98017712 level:214 conn:27 money:3632936, store:0 
+200322,235646,f5a5e72d,RAFAIL,get  04bb2b014728020c 
+200322,235646,adf620bf,ROBERTINHO,sel,Galford 20543  06702b03471e3b00 
+200322,235648,cf22db8a,CAPIROTO,err,hitposition range 2406,2090 - 2402,2090 - D:4,R:2 - skill:-1 
+200322,235653,cf22db8a,CAPIROTO,get  01a4000000000000 
+200322,235656,d55f18bd,XAXAXU,sta,189.24.95.213 58BEEB893D544EAA9471C2C9F7EE3117 26 - 0 -640948506 (724) 
+200322,235659,d55f18bd,ANDRESHEIK,get  019c000000000000 
+200322,235659,d55f18bd,ANDRESHEIK,get  019d000000000000 
+200322,235659,adf620bf,ROBERTINHO,pim,set equip time item 3981-20325 
+200322,235700,937363b3,PUROSWAP00,get  01a4000000000000 
+200322,235701,cf22db8a,CAPIROTO,err,hitposition range 2415,2096 - 2412,2092 - D:5,R:2 - skill:-1 
+200322,235702,cf22db8a,CAPIROTO,err,hitposition range 2413,2094 - 2412,2090 - D:4,R:2 - skill:-1 
+200322,235704,f5a5e72d,GRACA,tra,TINIEL 0 019d000000000000 0fb3000000000000 0fb3000000000000 
+200322,235705,cf22db8a,CAPIROTO,err,hitposition range 2409,2092 - 2412,2088 - D:5,R:2 - skill:-1 
+200322,235708,f5a5e72d,TINIEL,ref,fail,2208,8,413,0 0 0 <43 8 60 10 3 25> 
+200322,235711,cf22db8a,CAPIROTO,lvl COVID-09 level up to 94 
+200322,235711,cf22db8a,CAPIROTO,-CARGO 1177 43 0 0 0 
+200322,235711,f5a5e72d,TINIEL,ref, armor befor 1498-(43,2,2,24,71,60) after 1498-(43,2,2,30,71,70) - prc:0 
+200322,235712,d55f18bd,XAXAXU,sta,Login char:BM-SHEIK exp:182433834 level:254 conn:26 money:834618, store:0 
+200322,235712,f4799bb3,BRNPLANK8,clo,fd 22-5 
+200322,235712,f4799bb3,BRNPLANK8,clo,fd 22-5 conn:18 
+200322,235727,f4799bb3,BRNPLANK4,clo,fd 2-0 conn:18 
+200322,235729,f4799bb3,BRNPLANK4,sta,179.155.121.244 69C20729215344748F06C95C1089634B 18 - 0 -640981159 (744) 
+200322,235732,563669bb,GIOVANIFRAGA,clo,fd 2-0 conn:28 
+200322,235732,743a9cf2,EVERTON1,Newbie Reward item send 
+200322,235732,c7a7c2a8,EVERTON1,sta,168.194.167.199 AFCE567658664A01AE7BB5A7A4B5107B 28 - 0 -640984254 (696) 
+200322,235733,f4799bb3,BRNPLANK4,sta,Login char:Ebola exp:1059084786 level:322 conn:18 money:22350224, store:0 
+200322,235733,adf620bf,ROBERTINHO,lvl Robertinho level up to 14 
+200322,235733,937363b3,PUROSWAP00,get  01a3000000000000 
+200322,235734,4f66b2bf,LOSTC5,get  01a3000000000000 
+200322,235735,60d529bd,PEGAEUUAY,clo,fd 2-0 conn:29 
+200322,235737,60d529bd,PEGAEUUAY,sta,189.41.213.96 97AA1CAEBC7A4A2D9124264977A6C489 29 - 0 -640988867 (760) 
+200322,235737,a679e7aa,VITOR153,clo,fd 2-0 conn:30 
+200322,235738,adf620bf,ROBERTINHO,Player with weapon has just attacked from a distance 
+200322,235739,937363b3,PUROPVP00,get  01a3000000000000 
+200322,235740,a679e7aa,VITOR153,sta,170.231.121.166 F647D1ABC9944C88824EAE9816D09A36 30 - 0 -640991667 (756) 
+200322,235742,60d529bd,PEGAEUUAY,sta,Login char:Catapora exp:1701615545 level:350 conn:29 money:42210937, store:1000000 
+200322,235743,c87126b1,XIRU01,sta,177.38.113.200 2112FF767C37429C98289B6F49428A23 31 - 0 -640994736 (772) 
+200322,235745,f5a5e72d,RAFAIL,get  08c22b0147460218 
+200322,235745,a679e7aa,VITOR153,sta,Login char:VEPPzin exp:1674179692 level:350 conn:30 money:32724199, store:0 
+200322,235746,adf620bf,ROBERTINHO,err,hitposition range 2094,2022 - 2089,2023 - D:5,R:4 - skill:152 
+200322,235751,adf620bf,ROBERTINHO,lvl Robertinho level up to 15 
+200322,235753,937363b3,PUROPVP00,get  01a4000000000000 
+200322,235753,cf22db8a,CAPIROTO,get  051d2b0049123c08 
+200322,235755,c7a7c2a8,EVERTON1,sys,request new character FICAEMCASAR 
+200322,235755,c7a7c2a8,EVERTON1,sys,confirm new character 
+200322,235757,937363b3,PUROPVP00,lvl ROCKSTAR level up to 177 
+200322,235758,c7a7c2a8,EVERTON1,sys,set citizen 1-43:0 86:1 28:0 
+200322,235758,c7a7c2a8,EVERTON1,sta,Login char:FICAEMCASAR exp:0 level:0 conn:28 money:0, store:0 
+200322,235758,c7a7c2a8,EVERTON1,etc,townspeople 1-43:0 86:1 28:1 
+200322,235759,c87126b1,XIRU01,sta,Login char:Enfermeiro exp:377797082 level:287 conn:31 money:9415848, store:0 
+200322,235800,adf620bf,ROBERTINHO,lvl Robertinho level up to 16 
+200322,235803,f5a5e72d,RAFAIL,get  02b9000000000000 
+200322,235803,adf620bf,ROBERTINHO,err,hitposition range 2072,2002 - 2076,1996 - D:6,R:4 - skill:152 
+200322,235804,adf620bf,ROBERTINHO,err,hitposition range 2074,2000 - 2078,1996 - D:5,R:4 - skill:152 
+200322,235806,adf620bf,ROBERTINHO,lvl Robertinho level up to 17 
+200322,235808,adf620bf,ROBERTINHO,err,hitposition range 2083,1994 - 2086,1998 - D:5,R:4 - skill:152 
+200322,235812,adf620bf,ROBERTINHO,err,hitposition range 2091,2000 - 2093,2005 - D:5,R:4 - skill:152 
+200322,235813,adf620bf,ROBERTINHO,lvl Robertinho level up to 18 
+200322,235814,937363b3,PUROSWAP00,lvl AUUUUUUUUUUU level up to 254 
+200322,235814,937363b3,PUROSWAP00,-CARGO 3566 43 3 60 20 
+200322,235819,60d529bd,DANMIL,sta,189.41.213.96 97AA1CAEBC7A4A2D9124264977A6C489 32 - 0 -641030899 (784) 
+200322,235820,adf620bf,ROBERTINHO,lvl Robertinho level up to 19 
+200322,235824,adf620bf,ROBERTINHO,err,hitposition range 2109,2001 - 2116,2001 - D:8,R:4 - skill:152 
+200322,235825,adf620bf,ROBERTINHO,err,hitposition range 2109,2001 - 2116,2001 - D:8,R:4 - skill:152 
+200322,235825,937363b3,PUROPVP00,lvl ROCKSTAR level up to 178 
+200322,235826,adf620bf,ROBERTINHO,err,hitposition range 2109,2001 - 2116,2001 - D:8,R:4 - skill:152 
+200322,235828,937363b3,PUROPVP00,get  01a4000000000000 
+200322,235828,60d529bd,DANMIL,sta,Login char:Rubeola exp:79770000 level:201 conn:32 money:0, store:0 
+200322,235829,937363b3,PUROPVP00,get  01a3000000000000 
+200322,235829,4f66b2bf,LOSTC5,get  0fba2b0400000000 
+200322,235830,adf620bf,ROBERTINHO,lvl Robertinho level up to 20 
+200322,235831,937363b3,PUROPVP00,get  05cb2b0047320218 
+200322,235834,60d529bd,DANMILL,sta,189.41.213.96 97AA1CAEBC7A4A2D9124264977A6C489 33 - 0 -641046303 (788) 
+200322,235834,c87126b1,XIRU02,sta,177.38.113.200 2112FF767C37429C98289B6F49428A23 34 - 0 -641046303 (800) 
+200322,235840,60d529bd,DANMILL,sta,Login char:Corona exp:190238957 level:254 conn:33 money:8105691, store:0 
+200322,235840,cf22db8a,CAPIROTO,get  01a3000000000000 
+200322,235841,adf620bf,ROBERTINHO,lvl Robertinho level up to 21 
+200322,235841,c87126b1,XIRU02,sta,Login char:XIRU exp:125069324 level:231 conn:34 money:458724, store:0 
+200322,235841,f5a5e72d,TINIEL,ref, armor befor 1502-(43,0,72,5,59,0) after 1502-(43,0,60,8,72,25) - prc:0 
+200322,235841,1912fdbf,DUGS1,sta,191.253.18.25 E212F0832D4C411F909B70EC537665A1 35 - 0 -641053298 (804) 
+200322,235844,f5a5e72d,RAFAIL,get  01a3000000000000 
+200322,235846,1912fdbf,DUGS1,sta,Login char:Alec exp:1798479963 level:350 conn:35 money:33792614, store:0 
+200322,235848,937363b3,PUROSWAP00,get  066f2b00473c3c08 
+200322,235849,60d529bd,DANGOMES1,sta,189.41.213.96 97AA1CAEBC7A4A2D9124264977A6C489 36 - 0 -641061046 (808) 
+200322,235850,adf620bf,ROBERTINHO,que, chobo_quest2 befor: 036c2b004a064a03 after: 036c2b0002120209 
+200322,235850,c5b6deba,SHENS01,get  0fb3000000000000 
+200322,235850,937363b3,PUROSWAP00,get  01a4000000000000 
+200322,235854,937363b3,PUROSWAP00,get  01a3000000000000 
+200322,235856,937363b3,PUROPVP00,get  05322b024732021e 
+200322,235857,60d529bd,DANGOMES1,sta,Login char:Lupus exp:79770000 level:201 conn:36 money:0, store:0 
+200322,235857,adf620bf,ROBERTINHO,err,hitposition range 2126,1978 - 2120,1976 - D:6,R:4 - skill:152 
+200322,235900,adf620bf,ROBERTINHO,lvl Robertinho level up to 22 
+200322,235900,d17a3b8a,XAPERADO1,sta,138.59.122.209 36E8353B40FD4B9BB28B2D5439876F9F 37 - 0 -641072112 (824) 
+200322,235902,adf620bf,ROBERTINHO,err,hitposition range 2113,1975 - 2113,1969 - D:6,R:4 - skill:152 
+200322,235904,adf620bf,ROBERTINHO,err,hitposition 2115,1970 - 2113,1969 - 0,0 
+200322,235905,d17a3b8a,XAPERADO1,sta,Login char:HtZinha exp:411622072 level:289 conn:37 money:17037651, store:0 
+200322,235906,adf620bf,ROBERTINHO,get  037c2b003b003c0c 
+200322,235907,e269b02d,TIBERNAS2,que,scrap inven 413 
+200322,235909,e269b02d,TIBERNAS2,ref,fail,3556,6,413,0 0 0 <43 6 2 45 0 0> 
+200322,235912,adf620bf,ROBERTINHO,lvl Robertinho level up to 23 
+200322,235914,937363b3,PUROPVP00,lvl ROCKSTAR level up to 179 
+200322,235914,937363b3,PUROPVP00,-CARGO 1207 43 0 0 0 
+200322,235918,937363b3,PUROPVP00,err,hitposition range 2232,1716 - 2232,1711 - D:5,R:4 - skill:153 
+200322,235921,f5a5e72d,RAFAIL,get  01a4000000000000 
+200322,235922,937363b3,PUROSWAP00,get  06722b0148143c0a 
+200322,235922,c5b6deba,SHENS01,get  0fb3000000000000 
+200322,235925,adf620bf,ROBERTINHO,err,hitposition range 2082,1957 - 2080,1952 - D:5,R:4 - skill:152 
+200322,235927,937363b3,PUROPVP00,get  06612b0347323b00 
+200322,235928,937363b3,PUROPVP00,get  01a4000000000000 
+200322,235932,cf22db8a,CAPIROTO,err,hitposition range 2414,2093 - 2411,2092 - D:3,R:2 - skill:-1 
+200322,235932,adf620bf,ROBERTINHO,lvl Robertinho level up to 24 
+200322,235932,cf22db8a,CAPIROTO,lvl COVID-09 level up to 95 
+200322,235933,f5a5e72d,TINIEL,get  054a2b03490c3c02 
+200322,235933,adf620bf,ROBERTINHO,err,hitposition range 2085,1950 - 2089,1947 - D:5,R:4 - skill:152 
+200322,235935,c5b6deba,SHENS01,get  0fb3000000000000 
+200322,235935,f5a5e72d,RAFAIL,get  0fb3000000000000 
+200322,235935,adf620bf,ROBERTINHO,err,hitposition range 2094,1948 - 2098,1945 - D:5,R:4 - skill:152 
+200322,235936,cf22db8a,CAPIROTO,lvl COVID-09 level up to 96 
+200322,235941,4f66b2bf,LOSTC5,get  095e000000000000 
+200322,235944,adf620bf,ROBERTINHO,lvl Robertinho level up to 25 
+200322,235946,adf620bf,ROBERTINHO,Player with weapon has just attacked from a distance 
+200322,235951,937363b3,PUROPVP00,get  01a4000000000000 
+200322,235959,d55f18bd,ANDRESHEIK,ref,fail,1645,7,413,0 0 0 <43 7 0 0 0 0> 
+200323,000001,937363b3,PUROPVP00,get  05cb2b0147320212 
+200323,000001,d17a3b8a,XAPERADO2,sta,138.59.122.209 36E8353B40FD4B9BB28B2D5439876F9F 38 - 0 -641133525 (836) 
+200323,000005,511e6ab3,KPOTA,lvl Floki level up to 301 
+200323,000006,36e5f3bf,SPORT,get  01a4000000000000 
+200323,000007,d17a3b8a,XAPERADO2,sta,Login char:FmZinha exp:253298685 level:266 conn:38 money:11915730, store:0 
+200323,000007,00000000,-system,etc,item drop count 00:2 01:1 02:0 03:0 04:0 05:0 06:0 07:0 
